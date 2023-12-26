@@ -1,0 +1,3 @@
+Radio86-RKMikro¬Mikro80Basic¬0x38D15A6A¬6665¬.rmo¬(RK8Format)(1984)(Unknown)¬
+Radio86-RKMikro¬Mikro80Basic¬0x751A4063¬6665¬.rmo¬(RK8Format)(1984)(Unknown)(Alternate)¬
+Radio86-RKMikro¬ProgrammaProverki¬0xD4718CAD¬217¬.rmo¬(RK8Format)(19xx)(Unknown)¬

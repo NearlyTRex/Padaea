@@ -1,0 +1,12 @@
+HartungGameMaster¬BubbleBoy¬0xEDD0679D¬16384¬.har¬(Germany)¬
+HartungGameMaster¬ContinentalGalaxy2020¬0xFEDEC9D5¬16384¬.har¬(Germany)¬
+HartungGameMaster¬DungeonAdventure¬0x60AFB4B5¬32768¬.har¬(Germany)¬
+HartungGameMaster¬FallingBlock¬0x58E409FB¬8192¬.har¬(Germany)¬
+HartungGameMaster¬GoBang¬0xFDA2C4E6¬16384¬.har¬(Germany)¬
+HartungGameMaster¬HartungGameMaster¬0x05CC45E5¬4096¬.har¬(BIOS)(Germany)¬
+HartungGameMaster¬HyperSpace¬0x95E0CEAC¬32768¬.har¬(Germany)¬
+HartungGameMaster¬KungFuChallenge¬0x3EA0670B¬32768¬.har¬(Germany)¬
+HartungGameMaster¬PinBall¬0xF5FFC768¬32768¬.har¬(Germany)¬
+HartungGameMaster¬SpaceCastle¬0x11D734F1¬16384¬.har¬(Germany)¬
+HartungGameMaster¬TennisMaster¬0x48D425CF¬32768¬.har¬(Germany)¬
+HartungGameMaster¬UrbanChampion¬0xD53E6CAC¬32768¬.har¬(Germany)¬

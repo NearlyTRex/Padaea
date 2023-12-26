@@ -1,0 +1,47 @@
+WataraSupervision¬2In1BlockBusterAndCrossHigh¬0x7E05D84F¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬2In1HashBlocksAndEaglePlan¬0xC1354952¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Alien¬0x8DBB2C53¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬BalloonFight¬0x8188B755¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬BlockBuster¬0x0A3DB285¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬BrainPower¬0x5E6706B9¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Carrier¬0x5ECFB674¬32768¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Carrier¬0x8847C439¬65536¬.sv¬(SVFormat)(Travellmate)(SVFormat)(199x)(BadDump)¬
+WataraSupervision¬CaveWonders¬0xE0266CE7¬65536¬.sv¬(SVFormat)(BonTreasure)(SVFormat)(1992)(SVFormat)(USA, Europe)¬
+WataraSupervision¬ChallengerTank¬0xC92382CE¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Chimera¬0x4A458AA8¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Crystball¬0x10DCC110¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬DeltaHero¬0x32CCDF89¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬EaglePlan¬0x01CB8364¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬EarthDefender¬0xA6CBB074¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬FatalCraft¬0x917CAB48¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬FinalCombat¬0x465D78CD¬32768¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬GalacticCrusader¬0xB494BC5C¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬GalaxyFighter¬0x581703BE¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬GrandPrix¬0xCEF3F295¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬HappyPairs¬0x112F5EED¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬HashBlocks¬0x6BD7C885¬65536¬.sv¬(SVFormat)(GTC)(SVFormat)(1991)(SVFormat)(USA, Europe)¬
+WataraSupervision¬HeroKid¬0x25DDD6E1¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬HoneyBee¬0xE856875A¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬JackyLucky¬0x7D8A607F¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬JaguarBomber¬0xAA4372D4¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬JohnAdventure¬0xE9EA3AE0¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Juggler¬0x32E68D6F¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬KabiIsland¬0x2BC03096¬65536¬.sv¬(SVFormat)(Sachen)(SVFormat)(1992)(SVFormat)(USA, Europe)¬
+WataraSupervision¬LinearRacing¬0x6F8ABAF9¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Magincross¬0xE406A91C¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬MattaBlatta¬0x21864295¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬OlympicTrials¬0x85DC8111¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬P52SeaBattle¬0x748F9DAE¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬PacBoyAndMouse¬0x1A89AC88¬65536¬.sv¬(SVFormat)(USA, Europe)(SVFormat)(Watara)(SVFormat)(199x)¬
+WataraSupervision¬PenguinHideout¬0x17A4CA40¬65536¬.sv¬(SVFormat)(ThinChenEnterprise)(SVFormat)(1992)(Alternate)¬
+WataraSupervision¬PenguinHideout¬0xFE5F9774¬32768¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬PoliceBust¬0x531F0B51¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Pyramid¬0xE0BFE163¬32768¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬SSSnake¬0xBE9B6F10¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬SoccerChampion¬0x45204DC4¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬SuperBlock¬0x02E2C7AD¬32768¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬SuperBlock¬0xD46AB5E0¬65536¬.sv¬(SVFormat)(BonTreasure)(SVFormat)(1992)(BadDump)¬
+WataraSupervision¬SuperKong¬0x59C7FF64¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬Tasac2010¬0x3D5F3964¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬TennisPro92¬0xBD004CB7¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬
+WataraSupervision¬TreasureHunter¬0xDB35B809¬65536¬.sv¬(SVFormat)(SVFormat)(Europe)(USA)(SVFormat)(USA, Europe)¬

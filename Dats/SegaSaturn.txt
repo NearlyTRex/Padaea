@@ -1,0 +1,3 @@
+SegaSaturn¬SegaSaturn¬0x224B752C¬524288¬.sat¬(Sega)(1995)(Japan)(Version1.1)(Bios)¬
+SegaSaturn¬SegaSaturn¬0x2ABA43C2¬524288¬.sat¬(Sega)(1994)(Japan)(Version1.0)(Bios)¬
+SegaSaturn¬SegaSaturn¬0x4AFCF0FA¬524288¬.sat¬(Sega)(1995)(Version1.01a)(Bios)¬

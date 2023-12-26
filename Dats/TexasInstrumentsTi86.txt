@@ -1,0 +1,5 @@
+TexasInstrumentsTi86¬TexasInstrumentsTI86BIOS¬0x073EF70F¬262144¬.t86¬(TexasInstruments)(19xx)(Version1.3)(Bios)¬
+TexasInstrumentsTi86¬TexasInstrumentsTI86BIOS¬0x37E02ACC¬262144¬.t86¬(TexasInstruments)(19xx)(Version1.6)(Bios)¬
+TexasInstrumentsTi86¬TexasInstrumentsTI86BIOS¬0xBDF16105¬262144¬.t86¬(TexasInstruments)(19xx)(Version1.2)(Bios)¬
+TexasInstrumentsTi86¬TexasInstrumentsTI86BIOS¬0xE6E10546¬262144¬.t86¬(TexasInstruments)(19xx)(Version1.5)(Bios)¬
+TexasInstrumentsTi86¬TexasInstrumentsTI86BIOS¬0xFE6E2986¬262144¬.t86¬(TexasInstruments)(19xx)(Version1.4)(Bios)¬

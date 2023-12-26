@@ -1,0 +1,10 @@
+NECSuperGrafx¬1941CounterAttack¬0x8C4588E2¬1048576¬.pce¬(PCEFormat)(Japan)(SuperGrafx)(Japan)¬
+NECSuperGrafx¬Aldynes¬0x10BCD11C¬786432¬.pce¬(PCEFormat)(Hudson)(1991)(Japan)(SuperGrafx)(BadDump05)¬
+NECSuperGrafx¬Aldynes¬0x2EE73183¬360448¬.pce¬(PCEFormat)(Hudson)(1991)(Japan)(SuperGrafx)(BadDump)¬
+NECSuperGrafx¬Aldynes¬0x4A0EAF7D¬1048576¬.pce¬(PCEFormat)(Hudson)(1991)(Japan)(SuperGrafx)(BadDump04)¬
+NECSuperGrafx¬Aldynes¬0x4C2126B0¬1048576¬.pce¬(PCEFormat)(Japan)(Hudson)(SuperGrafx)(1991)(Japan)¬
+NECSuperGrafx¬Aldynes¬0x6D97373E¬1048576¬.pce¬(PCEFormat)(Hudson)(1991)(Japan)(SuperGrafx)(BadDump02)¬
+NECSuperGrafx¬Aldynes¬0xFA143EA3¬1048576¬.pce¬(PCEFormat)(Hudson)(1991)(Japan)(SuperGrafx)(BadDump03)¬
+NECSuperGrafx¬BattleAce¬0x3B13AF61¬524288¬.pce¬(PCEFormat)(Japan)(SuperGrafx)(Japan)¬
+NECSuperGrafx¬DaiMakaimura¬0xB486A8ED¬1048576¬.pce¬(PCEFormat)(Japan)(SuperGrafx)(Japan)¬
+NECSuperGrafx¬MadouOuGranzooto¬0x1F041166¬524288¬.pce¬(PCEFormat)(Japan)(SuperGrafx)(Japan)¬

@@ -1,0 +1,11 @@
+NECPC-9821¬BattleSkinPanic9821¬0x22C20E65¬1196028¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk08)(DiskH)¬
+NECPC-9821¬BattleSkinPanic9821¬0x2D328EE3¬1094652¬.p21¬(Gainax)(DiskJ)(ReqInstall)(FDDFormat)(1993)(Disk10)¬
+NECPC-9821¬BattleSkinPanic9821¬0x372A3FB0¬1139708¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk03)(DiskC)¬
+NECPC-9821¬BattleSkinPanic9821¬0x576D5A7C¬912380¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk06)(DiskF)¬
+NECPC-9821¬BattleSkinPanic9821¬0x5BF8CC6E¬1215484¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk01)(DiskA)¬
+NECPC-9821¬BattleSkinPanic9821¬0x8160A833¬1220604¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk02)(DiskB)¬
+NECPC-9821¬BattleSkinPanic9821¬0x8E3C48AC¬1203196¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk04)(DiskD)¬
+NECPC-9821¬BattleSkinPanic9821¬0x9BBB44B4¬1112060¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk05)(DiskE)¬
+NECPC-9821¬BattleSkinPanic9821¬0xEEC5024D¬1132540¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk07)(DiskG)¬
+NECPC-9821¬BattleSkinPanic9821¬0xF4022203¬1139708¬.p21¬(Gainax)(ReqInstall)(FDDFormat)(1993)(Disk09)(DiskI)¬
+NECPC-9821¬PanicBomber¬0x41C091F1¬1160188¬.p21¬(FDDFormat)(19xx)(Japan)(Unknown)(Pirate)¬

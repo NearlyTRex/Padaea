@@ -1,0 +1,898 @@
+SegaGameGear¬5In1Funpak¬0xF85A8CE8¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬5in1Funpak¬0x07A57318¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬AaHarimanada¬0x1D17D2A0¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬AddamsFamily¬0x1D01F999¬262144¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬AdventuresOfBatmanAndRobin¬0xBB4F23FF¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬AdventuresofBatman&Robin¬0x44B0DC01¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬AerialAssault¬0x04FE6DDE¬131072¬.gg¬(GGFormat)(Japan)(v1.1)¬
+SegaGameGear¬AerialAssault¬0x3E549B7A¬131072¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬AerialAssault¬0x766AEA30¬131072¬.sgg¬(Europe)(USA)(Alternate01)¬
+SegaGameGear¬AerialAssault¬0x899515D0¬131072¬.sgg¬(Europe)(USA)(Alternate)¬
+SegaGameGear¬Aladdin¬0x488CDA3C¬524288¬.sgg¬(Sega)(1994)(Japan)(BadDump)¬
+SegaGameGear¬Aladdin¬0x691BF489¬524288¬.sgg¬(Sega)(1994)(Alternate)(TranslationPortuguese)¬
+SegaGameGear¬Aladdin¬0x770E95E1¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Aladdin¬0x7A41C1DC¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Aladdin¬0x840F457E¬524288¬.sgg¬(Sega)(1994)(TranslationPortuguese)¬
+SegaGameGear¬Alien3¬0x11A68C08¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬AlienSyndrome¬0x001B12B9¬131072¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬AlienSyndrome¬0xBB5E10E0¬131072¬.gg¬(GGFormat)(USA, Europe)¬
+SegaGameGear¬AlienSyndrome¬0xFFE4ED47¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)¬
+SegaGameGear¬AndreAgassiTennis¬0x46C9FA3E¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬ArcadeClassics¬0x3DECA813¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬ArchRivals¬0x0FDFBE6F¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬ArchRivals¬0xF0204191¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬Arena¬0x7CB3FACF¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ArielTheLittleMermaid¬0x681C5E74¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬ArielTheLittleMermaid¬0x97E3A18C¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ArlielCrystalDensetsu¬0x35FA3F68¬262144¬.gg¬(GGFormat)(Japan)(Sega)(1991)(Japan)¬
+SegaGameGear¬AsterixAndTheGreatRescue¬0x328C5CC8¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(Europe)(MultiLanguage05)¬
+SegaGameGear¬AsterixAndTheGreatRescue¬0x78208B40¬524288¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬AsterixAndTheSecretMission¬0xC01A8051¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De)¬
+SegaGameGear¬AxBattlerALegendOfGoldenAxe¬0x1023FF26¬262144¬.sgg¬(Sega)(1991)(Japan)(BadDump)(Version1.5)¬
+SegaGameGear¬AxBattlerALegendOfGoldenAxe¬0x1A2D6E19¬262144¬.sgg¬(Sega)(1991)(TranslationFrench)(Version2.4)¬
+SegaGameGear¬AxBattlerALegendOfGoldenAxe¬0x663BCF8A¬262144¬.gg¬(GGFormat)(USA, Europe)(v2.4)(Europe)(USA)(Version2.4)¬
+SegaGameGear¬AxBattlerALegendOfGoldenAxe¬0x71D34B14¬262144¬.sgg¬(Sega)(1991)(TranslationSpanish)(Version2.4)¬
+SegaGameGear¬AxBattlerALegendofGoldenAxe¬0x2030AAA1¬262144¬.sgg¬(Japan)(Version1.5)¬
+SegaGameGear¬AxBattlerGoldenAxeDensetsu¬0xDFCF555F¬262144¬.gg¬(Japan)(Version1.5)(GGFormat)(Japan)(v1.5)¬
+SegaGameGear¬AyrtonSennasSuperMonacoGPII¬0x1D1B1DD3¬262144¬.gg¬(GGFormat)(USA, Europe)(Sega)(1992)¬
+SegaGameGear¬AyrtonSennasSuperMonacoGPII¬0x661FAEFF¬262144¬.gg¬(GGFormat)(Japan)(Sega)(1992)(Japan)¬
+SegaGameGear¬BakuBakuAnimalSekaiShiikugakariSenshuken¬0x10AC9374¬262144¬.gg¬(GGFormat)(Japan)(Europe)(USA)¬
+SegaGameGear¬BakuBakuAnimal¬0x8D8BFDC4¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬BarbieSuperModel¬0x03A0CE9E¬262144¬.gg¬(GGFormat)(Unknown)(Proto)¬
+SegaGameGear¬BartVsTheSpaceMutants¬0x9DE396CA¬262144¬.sgg¬(Acclaim)(1992)(Hack)¬
+SegaGameGear¬BartVsTheWorld¬0x18BA70D3¬262144¬.sgg¬(Acclaim)(1993)(BadDump)¬
+SegaGameGear¬BartmanMeetsRadioactiveMan¬0xFFA447A9¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬BatmanForever¬0x618B19E2¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬BatmanReturns¬0x65E60DFE¬262144¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬BatmanReturns¬0x66F9AC51¬262144¬.sgg¬(Sega)(1992)(Hack)¬
+SegaGameGear¬BatmanReturns¬0x7AC4A3CA¬262144¬.gg¬(GGFormat)(World)(Europe)(Japan)(USA)¬
+SegaGameGear¬BatterUp¬0x16448209¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬BatterUp¬0x3EF6B935¬81920¬.sgg¬(Europe)(USA)(BadDump02)¬
+SegaGameGear¬BatterUp¬0x6BA1F1B4¬32768¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬BatterUp¬0xC10946CB¬81920¬.sgg¬(Namco)(1991)(BadDump)¬
+SegaGameGear¬Battleship¬0x02227327¬65536¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Battleship¬0x163D81C1¬65536¬.sgg¬(Mindscape)(1992)(BadDump)¬
+SegaGameGear¬Battleship¬0x16678AEF¬131072¬.sgg¬(Europe)(USA)(OverDump02)¬
+SegaGameGear¬Battleship¬0x27CBD87E¬393216¬.sgg¬(Europe)(USA)(BadDump01)(OverDump01)¬
+SegaGameGear¬Battleship¬0x3BACAAEC¬262144¬.sgg¬(Mindscape)(1992)(BadDump02)¬
+SegaGameGear¬Battleship¬0x53F37C4C¬393216¬.sgg¬(Mindscape)(1992)(BadDump03)¬
+SegaGameGear¬Battleship¬0xD8342782¬393216¬.sgg¬(Mindscape)(1992)(BadDump04)¬
+SegaGameGear¬Battleship¬0xE9987511¬131072¬.sgg¬(Mindscape)(1992)(BadDump05)¬
+SegaGameGear¬Battleship¬0xFDDD8CD9¬65536¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Battletoads¬0x34C32F8B¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬Battletoads¬0x817CC0CA¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬Battletoads¬0xCB3CD075¬262144¬.gg¬(GGFormat)(Japan, Europe)(Europe)(USA)¬
+SegaGameGear¬BeavisAndButthead¬0x3858F14F¬524288¬.gg¬(GGFormat)(USA)(Option-Menudifferent)(Europe)(USA)¬
+SegaGameGear¬BeavisAndButthead¬0xA6BF865E¬524288¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬BeavisandButthead¬0x594079A2¬524288¬.sgg¬(USA)(Alternate01)¬
+SegaGameGear¬BerenstainBearsCampingAdventure¬0x5B446005¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬BerenstainBearsCampingAdventure¬0xA4BB9FFB¬262144¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬BerlinNoKabe¬0x325B1797¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬BishojoSenshiSailorMoonS¬0x857C6D83¬524288¬.sgg¬(Bandai)(1995)(Japan)(BadDump02)¬
+SegaGameGear¬BishojoSenshiSailorMoonS¬0xEDE33592¬524491¬.sgg¬(Bandai)(1995)(Japan)(BadDump)¬
+SegaGameGear¬BishoujoSenshiSailorMoonS¬0x018C8B2E¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬BishoujoSenshiSailorMoonS¬0x121CCA6E¬524491¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬BishoujoSenshiSailorMoonS¬0x7A83927D¬524288¬.sgg¬(Japan)(BadDump02)¬
+SegaGameGear¬BishoujoSenshiSailorMoonS¬0xFE7374D2¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬BonkersWaxUp¬0x403145A1¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬BonkersWaxUp¬0xBFCEBA5F¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬BramStokersDracula¬0x69EBE5FA¬262144¬.gg¬(GGFormat)(USA)(Sony)(1993)¬
+SegaGameGear¬BubbleBobble¬0x045CC73B¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬BubbleBobble¬0xFBA338C5¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬BugsBunnyInDoubleTrouble¬0x5C34D9CD¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬BustAMove¬0x36F0D611¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬BustAMove¬0xC90F29EF¬262144¬.gg¬(GGFormat)(USA, Europe)(Taito)(1995)¬
+SegaGameGear¬BusterBall¬0x7CB079D0¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)(Japan)¬
+SegaGameGear¬BusterFight¬0x58D5E8AD¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬BusterFight¬0xA72A1753¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬CaesarsPalace¬0x3AC49F48¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬CaesarsPalace¬0xC53B60B8¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬CaptainAmericaAndTheAvengers¬0x5675DFDD¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬CarLicence¬0xF6A697F8¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬CasinoFunpak¬0x2B732056¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬CastleOfIllusionStarringMickeyMouse¬0x5877B10D¬262144¬.sgg¬(Sega)(1991)(Japan)(Hack)¬
+SegaGameGear¬CastleOfIllusionStarringMickeyMouse¬0x59840FD6¬262144¬.gg¬(GGFormat)(USA, Europe)(SMSFormat)(Europe)(USA)¬
+SegaGameGear¬CastleOfIllusionStarringMickeyMouse¬0x9942B69B¬262144¬.gg¬(GGFormat)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬Chakan¬0x20385238¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬Chakan¬0xDFC7ADC8¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Chaos89¬0x7DF314D4¬65536¬.sgg¬(PublicDomain)¬
+SegaGameGear¬Chaos¬0x820CEB2C¬65536¬.sgg¬(Doty,Charles)(199x)(PublicDomain)¬
+SegaGameGear¬CharlesDotysTextDemo¬0x05C3F2DF¬65536¬.sgg¬(Doty,Charles)(199x)(PublicDomain)(Alternate)¬
+SegaGameGear¬CharlesDotysTextDemo¬0x27DF7B01¬65537¬.sgg¬(Doty,Charles)(199x)(PublicDomain)(BadDump02)¬
+SegaGameGear¬CharlesDotysTextDemo¬0x5AAC063F¬65537¬.sgg¬(Doty,Charles)(199x)(PublicDomain)(BadDump)¬
+SegaGameGear¬CharlesDotysTextDemo¬0xD250DB57¬65536¬.sgg¬(Doty,Charles)(199x)(PublicDomain)¬
+SegaGameGear¬ChaseHQ¬0x18086B70¬262144¬.sgg¬(Taito)(1991)(Japan)(BadDump)¬
+SegaGameGear¬ChaseHQ¬0x3B627808¬262144¬.sgg¬(Taito)(1991)(Japan)(BadDump02)¬
+SegaGameGear¬ChaseHQ¬0x44FBE8F6¬131072¬.sgg¬(Taito)(1991)(Japan)(Hack)¬
+SegaGameGear¬Chessmaster¬0x257EE45A¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Chessmaster¬0xDA811BA6¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ChicagoSyndicate¬0x6B0FCEC3¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ChoplifterIII¬0x3D17596E¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬ChoplifterIII¬0xC2E8A692¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ChuckRockIISonOfChuck¬0x3FCC28C9¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬ChuckRockIISonOfChuck¬0x656708BF¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬ChuckRock¬0x191B1ED8¬262144¬.gg¬(GGFormat)(World)(JBUE)¬
+SegaGameGear¬ChuckRock¬0xD495C31D¬278528¬.sgg¬(Virgin)(1992)(Hack)¬
+SegaGameGear¬Cliffhanger¬0x408A4EAD¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Cliffhanger¬0xBF75B153¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ClutchHitter¬0x2DD75B99¬131072¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬ClutchHitter¬0xD228A467¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬CocaColaKid¬0x38A6747F¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬CocaColaKid¬0xC7598B81¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Columns¬0x0C35998A¬32768¬.sgg¬(Japan)¬
+SegaGameGear¬Columns¬0x7C05D927¬32768¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Columns¬0x83FA26D9¬32768¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Columns¬0xF3CA6676¬32768¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬CoolSpot¬0x2C758FC8¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬CosmicSpacehead¬0x6CAA625B¬262144¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬CrayonShinChanTaiketsuKantamPanic¬0x03D28EAB¬524288¬.gg¬(GGFormat)(Japan)(Bandai)(1995)(Japan)¬
+SegaGameGear¬CrystalWarriors¬0x0C6DAC7E¬262144¬.sgg¬(Europe)(Japan)(USA)(French)¬
+SegaGameGear¬CrystalWarriors¬0x3473200A¬262144¬.sgg¬(Sega)(1992)(Alternate)(TranslationFrench)¬
+SegaGameGear¬CrystalWarriors¬0x529C864E¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬CrystalWarriors¬0xF3925382¬262144¬.sgg¬(Sega)(1992)(TranslationFrench)¬
+SegaGameGear¬CutthroatIsland¬0x6A24E47E¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬DaffyDuckInHollywood¬0x16ABE1EE¬524288¬.sgg¬(Sega)(1994)(BadDump02)¬
+SegaGameGear¬DaffyDuckInHollywood¬0xAAE268FC¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(Europe)(MultiLanguage05)¬
+SegaGameGear¬DaffyDuckInHollywood¬0xCF41EB97¬524288¬.sgg¬(Sega)(1994)(BadDump)¬
+SegaGameGear¬DaffyDuckinHollywood¬0x30BE1469¬524288¬.sgg¬(Europe)(BadDump02)(MultiLanguage05)¬
+SegaGameGear¬DaffyDuckinHollywood¬0x551D9704¬524288¬.sgg¬(Europe)(Verified)(MultiLanguage05)¬
+SegaGameGear¬DeepDuckTroubleStarringDonaldDuck¬0x4457E7C0¬524288¬.gg¬(Sega)(1993)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬DeepDuckTroubleStarringDonaldDuck¬0x50A2D08F¬524288¬.sgg¬(Sega)(1993)(Japan)(Hack)¬
+SegaGameGear¬DeepDuckTroubleStarringDonaldDuck¬0x5A136D7E¬524288¬.gg¬(GGFormat)(USA, Europe)(Sega)(1993)¬
+SegaGameGear¬DefendersOfOasis¬0xE2791CC1¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬DefendersofOasis¬0x1D86E33F¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬DesertSpeedtrap¬0x137F7FDA¬262144¬.sgg¬(Europe)(Verified)(MultiLanguage05)¬
+SegaGameGear¬DesertSpeedtrap¬0x3D1EEE54¬262144¬.sgg¬(USA)¬
+SegaGameGear¬DesertSpeedtrap¬0xC2E111AC¬262144¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬DesertSpeedtrap¬0xEC808026¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(Europe)(MultiLanguage05)¬
+SegaGameGear¬DesertStrikeReturnToTheGulf¬0xF6C400DA¬524288¬.gg¬(GGFormat)(USA, Europe)(Domark)(1992)¬
+SegaGameGear¬DesertStrikeReturntotheGulf¬0x093BFF26¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬DesertStrikeReturntotheGulf¬0x32B909BF¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬DesertStrike¬0xCD46F641¬262144¬.sgg¬(Domark)(1992)(BadDump)¬
+SegaGameGear¬Devilish¬0x25DB174F¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Devilish¬0x3FED6C50¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Devilish¬0xC01293B0¬131072¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬Devilish¬0xD43AC6C5¬131072¬.gg¬(GGFormat)(Europe)¬
+SegaGameGear¬DonaldDuckNoLuckyDime¬0x2D98BD87¬262144¬.gg¬(GGFormat)(Japan)(Sega)(1991)(Japan)¬
+SegaGameGear¬DoraemonWakuWakuPocketParadise¬0x733292A6¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬DoubleDragon¬0x1307A290¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬DoubleDragon¬0x331904C0¬262144¬.gg¬(GGFormat)(USA, Europe)(Beta)(Europe)(USA)(Prototype)¬
+SegaGameGear¬DrRobotniksMeanBeanMachine¬0x3C2D4F48¬262144¬.sgg¬(Europe)(USA)(GGFormat)(USA, Europe)¬
+SegaGameGear¬DragonCrystalTsuraniNoMeikyuu¬0x89F12E1E¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬DragonCrystal¬0x0EF2ED93¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬DragonCrystal¬0x760ED1E2¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬DragonTheBruceLeeStory¬0x17F588E8¬262144¬.gg¬(GGFormat)(USA)(Acclaim-Virgin)(1994)(USA)¬
+SegaGameGear¬DragonTheBruceLeeStory¬0x19E1CF2B¬262144¬.gg¬(GGFormat)(Europe)(Virgin)(199x)(Europe)¬
+SegaGameGear¬Dropzone¬0x152F0DCC¬131072¬.gg¬(GGFormat)(Europe)(USA)¬
+SegaGameGear¬DunkKids¬0x77ED48F5¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬DynamiteHeaddy¬0x023703E8¬524288¬.sgg¬(Europe)(Japan)(USA)(Alternate01)¬
+SegaGameGear¬DynamiteHeaddy¬0x0950B495¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬DynamiteHeaddy¬0x610FF95C¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬DynamiteHeaddy¬0xF6AF4B6B¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬DynamiteHeaddy¬0xFDC8FC18¬524288¬.sgg¬(Sega)(1994)(Japan)(BadDump)¬
+SegaGameGear¬EarthwormJim¬0x5512780D¬524288¬.sgg¬(Playmates)(1995)(Hack)¬
+SegaGameGear¬EarthwormJim¬0x5D3F23A9¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬EccoIITidesOfTime¬0xBA9CEF4F¬524288¬.gg¬(Sega)(1994)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬EccoIITidesOfTime¬0xE2F3B203¬524288¬.gg¬(GGFormat)(USA, Europe)(Sega)(1994)¬
+SegaGameGear¬EccoTheDolphin¬0x866C7113¬524288¬.gg¬(GGFormat)(USA, Europe)(Sega)(1993)(BadDump)¬
+SegaGameGear¬EccoTheDolphin¬0xA32EB9D5¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬EccotheDolphin2TheTidesofTime¬0x1D0C4DFD¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬EccotheDolphin2TheTidesofTime¬0x456310B1¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬EccotheDolphin¬0x67D18ECE¬524288¬.sgg¬(Europe)(Japan)(USA)(BadDump02)¬
+SegaGameGear¬EccotheDolphin¬0x79938EED¬524288¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬Ecco¬0x2B60873E¬524288¬.sgg¬(Sega)(1993)¬
+SegaGameGear¬Ecco¬0x982E7132¬524288¬.sgg¬(Sega)(1993)(BadDump02)¬
+SegaGameGear¬ErnieElsGolf¬0x5E53C7F7¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(Europe)(MultiLanguage05)¬
+SegaGameGear¬EternalLegendEienNoDensetsu¬0x04302BBD¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬EternalLegend¬0x7C5CD4A4¬262144¬.sgg¬(Sega)(1991)(Japan)(Hack)¬
+SegaGameGear¬EvanderHolyfieldBoxing¬0x36AAF536¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ExcellentDizzyCollection¬0x77ECAEB5¬262144¬.sgg¬(Europe)(Verified)(Prototype)¬
+SegaGameGear¬ExcellentDizzyCollection¬0xAA140C9C¬524288¬.gg¬(GGFormat)(Europe)(GGFormat)(Europe)¬
+SegaGameGear¬ExcellentDizzy¬0x55EBF364¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬F15StrikeEagle¬0x7424F7FA¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬F15StrikeEagle¬0x8BDB0806¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬F1¬0xD0A93E00¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬FIFAInternationalSoccer¬0x19CD5C5E¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬FIFAInternationalSoccer¬0x78159325¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬FIFAInternationalSoccer¬0xE632A3A2¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬FIFASoccer96¬0x3C86216B¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬FIFASoccer96¬0xC379DE95¬524288¬.gg¬(GGFormat)(USA, Europe)(En,Fr,De,Es)(Europe)(USA)(MultiLanguage04)¬
+SegaGameGear¬Faceball2000¬0x55090783¬262144¬.sgg¬(USA)(Verified)¬
+SegaGameGear¬Faceball2000¬0xAAF6F87D¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬FactoryPanic¬0x59E3BE92¬131072¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬FactoryPanic¬0x5E0D0B5F¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬FantasticDizzy¬0x3777DDD5¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬FantasticDizzy¬0xC888222B¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(GGFormat)(Europe)(MultiLanguage05)¬
+SegaGameGear¬FantasyZoneGear¬0x296F6818¬131072¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬FantasyZoneGear¬0x365B92CF¬131072¬.sgg¬(Europe)(USA)(Alternate)¬
+SegaGameGear¬FantasyZoneGear¬0xD69097E8¬131072¬.gg¬(GGFormat)(Japan, Europe)(Europe)(USA)¬
+SegaGameGear¬FatalFurySpecial¬0x29B1DF1A¬524288¬.sgg¬(Takara)(1994)(BadDump)¬
+SegaGameGear¬FatalFurySpecial¬0x449787E2¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬ForemanForReal¬0xD46D5685¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬ForemanforReal¬0x2B92A97B¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Formula1¬0x2F56C200¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬FrankThomasBigHurtBaseball¬0x3BBC3CA4¬524288¬.sgg¬(USA)(Verified)¬
+SegaGameGear¬FrankThomasBigHurtBaseball¬0xC443C35C¬524288¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬FrayShugyouHen¬0xE123D9B8¬262144¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬FredCouplesGolf¬0x46F40B9F¬524288¬.gg¬(GGFormat)(USA)(Sega)(1994)¬
+SegaGameGear¬FredCouplesGolf¬0xB1196CD7¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬Frogger¬0x02BBF994¬131072¬.gg¬(GGFormat)(USA)(Proto)(Sega)(1991)(Prototype)¬
+SegaGameGear¬Frogger¬0x258DB8F0¬262144¬.sgg¬(USA)(Verified)(Prototype)¬
+SegaGameGear¬Frogger¬0xDA724710¬262144¬.sgg¬(USA)(Prototype)¬
+SegaGameGear¬FrogsbyCharlesDoty¬0x2424C5D2¬65536¬.sgg¬(PublicDomain)¬
+SegaGameGear¬Frogs¬0xDBDB3A2E¬65536¬.sgg¬(Doty,Charles)(1998)(PublicDomain)¬
+SegaGameGear¬FromTVAnimationSlamDunkShouriENoStarting5¬0x751DAD4C¬524288¬.gg¬(GGFormat)(Japan)(Bandai)(1994)(Japan)¬
+SegaGameGear¬GGAleste¬0x1B80A75B¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GGDemobyCharlesMacDonald¬0x5308195E¬32768¬.sgg¬(PublicDomain)¬
+SegaGameGear¬GGDoraemonNoranoSukenoYabou¬0x6574D3EA¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬GGDoraemonNoranosukeNoYabou¬0x9A8B2C16¬262144¬.gg¬(GGFormat)(Japan)(Sega)(1993)(Japan)¬
+SegaGameGear¬GGLeague94¬0x5E5E6ECB¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬GGNibblesbyMartinKonrad¬0x1F4ADEA6¬32768¬.sgg¬(PublicDomain)(Version1)¬
+SegaGameGear¬GGNibblesbyMartinKonrad¬0x735EAE8A¬32768¬.sgg¬(PublicDomain)(Version3)¬
+SegaGameGear¬GGNibbles¬0x2E6C15AB¬32768¬.sgg¬(Konrad,Martin)(2000)(PublicDomain)(Version2.0)¬
+SegaGameGear¬GGNibbles¬0x68979CF6¬32768¬.sgg¬(Konrad,Martin)(2000)(PublicDomain)(Version4.0)¬
+SegaGameGear¬GGNibbles¬0x8CA15176¬32768¬.sgg¬(Konrad,Martin)(2000)(PublicDomain)(Version3.0)¬
+SegaGameGear¬GGNibbles¬0xE0B5215A¬32768¬.sgg¬(Konrad,Martin)(2000)(PublicDomain)(Version1.0)¬
+SegaGameGear¬GGPortraitPaiChen¬0x695CC120¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GGPortraitYuukiAkira¬0x51159F8F¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GGShinobiIISilentFury¬0x1E03DB14¬236520¬.sgg¬(Sega)(1992)(BadDump02)¬
+SegaGameGear¬GGShinobiIISilentFury¬0xB2ADC6B4¬209173¬.sgg¬(Sega)(1992)(BadDump03)¬
+SegaGameGear¬GGShinobiIISilentFury¬0xC2D8FE07¬262144¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬GGShinobi¬0x1751E3BC¬262149¬.sgg¬(Europe)(BadDump01)¬
+SegaGameGear¬GGShinobi¬0x7C6D942F¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬GGShinobi¬0x83926BD1¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GGShinobi¬0xE8AE1C44¬262149¬.sgg¬(Sega)(1991)(BadDump)¬
+SegaGameGear¬GGTurrican¬0x39212762¬524288¬.sgg¬(Konrad,Martin)(199x)(Pirate)(Version0.90)¬
+SegaGameGear¬GGTurrican¬0x971CA630¬524288¬.sgg¬(Konrad,Martin)(199x)(Pirate)(Version1.0)¬
+SegaGameGear¬GLOCAirBattle¬0x18DE59ED¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(NonUSA)¬
+SegaGameGear¬GLOCAirBattle¬0x2333F615¬131072¬.gg¬(GGFormat)(Japan)(Japan)(Version1.0)¬
+SegaGameGear¬GLOCAirBattle¬0x33237F50¬131072¬.gg¬(GGFormat)(Japan)(v1.1)(Japan)(Version1.1)¬
+SegaGameGear¬GPRider¬0x7891648E¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬GPRider¬0x7A26EC6A¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬GPRider¬0x876E9B72¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Galaga2¬0x95ECECE2¬131072¬.gg¬(GGFormat)(Europe)¬
+SegaGameGear¬Galaga91¬0x0593BA24¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)(Japan)¬
+SegaGameGear¬Galaga91¬0x124CD54F¬32768¬.sgg¬(Namco)(1991)(Japan)(BadDump)¬
+SegaGameGear¬GamblePanic¬0x09534742¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GamblerJikochuushinha¬0x423803A7¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GanbareGorby¬0xA1F2F4A1¬131072¬.gg¬(GGFormat)(Japan)(Sega)(1991)(Japan)¬
+SegaGameGear¬GarfieldCaughtInTheAct¬0xCD53F3AF¬1048576¬.gg¬(GGFormat)(USA, Europe)(USA)¬
+SegaGameGear¬GarouDensetsuSpecial¬0x9AFB6F33¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬GearStadiumHeiseiban¬0x5FACF99C¬131072¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬GearStadiumHeiseiban¬0xA0530664¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GearStadium¬0x0E300223¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬GearStadium¬0x945E0E4C¬32768¬.sgg¬(Namco)(1991)(Japan)(BadDump)¬
+SegaGameGear¬GearWorks¬0x165D104C¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬GearWorks¬0xE9A2EFB4¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬GeorgeForemansKOBoxing¬0x58B44585¬131072¬.gg¬(GGFormat)(USA, Europe)(Acclaim)(1992)¬
+SegaGameGear¬GodzillaKaijuuDaishingeki¬0x4CF97801¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1995)(Japan)¬
+SegaGameGear¬Greendog¬0x0D86DA50¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬Greendog¬0x394FE7E0¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬Greendog¬0x6CC172C6¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump02)¬
+SegaGameGear¬Greendog¬0x933E8D3A¬262144¬.sgg¬(Sega)(1993)(BadDump)¬
+SegaGameGear¬Greendog¬0xC6B01820¬262144¬.sgg¬(Sega)(1993)(BadDump02)¬
+SegaGameGear¬Greendog¬0xF27925B0¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Griffin¬0x56C174F1¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬Griffin¬0xA93E8B0F¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)(Japan)¬
+SegaGameGear¬GunstarHeroes¬0x3C3AD899¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬GunstarHeroes¬0xC3C52767¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬HalleyWars¬0x210A5A30¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬HalleyWars¬0x7E9DEA46¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬HalleyWars¬0xDEF5A5D0¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬HeadBuster¬0x069FB868¬131072¬.sgg¬(NCS)(1991)(Japan)(BadDump)¬
+SegaGameGear¬HeadBuster¬0x7E689995¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬HeavyWeightChamp¬0xBEED9150¬131072¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬HicolorDemo¬0x1882C8D7¬131072¬.sgg¬(Covell,Chris)(199x)(PublicDomain)(Version1.5)¬
+SegaGameGear¬HighResolutionGraphicsDemo¬0x88829996¬32768¬.sgg¬(Covell,Chris)(199x)(PublicDomain)¬
+SegaGameGear¬HomeAlone¬0x221D608C¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬HomeAlone¬0xDDE29F74¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬HonooNoToukyuujiDodgeDanpei¬0xDFA805A0¬131072¬.gg¬(GGFormat)(Japan)(Sega)(1992)(Japan)¬
+SegaGameGear¬HonoonoDoukyuujiDodgeDanpei¬0x2057FA60¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬Hook¬0x0AC312D2¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Hook¬0xF53CED2E¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Hurricanes¬0x0A25EEC5¬524288¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬HyokkoriHyoutanJimaHyoutanJimaNoDaikoukai¬0x42389270¬131072¬.gg¬(GGFormat)(Japan)(Sega)(1992)¬
+SegaGameGear¬HyperProYakyuu92¬0x056CAE74¬131072¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬Ichidant~RGG¬0x9F64C2BB¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬InTheWakeOfVampire¬0xDAB0F265¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬IncredibleCrashDummies¬0x087FC247¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬IncredibleHulk¬0x28FAA078¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬IncredibleHulk¬0xD7055F88¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬IndianaJonesAndTheLastCrusade¬0x51AD2E27¬262144¬.sgg¬(Lucasarts)(1991)(Hack)¬
+SegaGameGear¬IndianaJonesAndTheLastCrusade¬0x8C048325¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬IndianaJonesAndTheLastCrusade¬0xB875226B¬262144¬.gg¬(GGFormat)(USA, Europe)¬
+SegaGameGear¬IndianaJonesandtheLastCrusade¬0x73FB7CDB¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬IntheWakeoftheVampire¬0x254F0D9B¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬IronManXOManowarInHeavyMetal¬0x8927B69B¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬IronManXOManowarinHeavyMetal¬0x3E8C9BA9¬32768¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬IronManXOManowarinHeavyMetal¬0x76D84965¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬ItchyAndScratchyGame¬0x44E7E2DA¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬JLeagueGGProStriker94¬0xA12A28A0¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬JLeagueSoccerDreamEleven¬0x54220F15¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬JLeagueSoccerDreamEleven¬0xABDDF0EB¬524288¬.sgg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬JamesBond007TheDuel¬0x77E5BADC¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬JamesBond007TheDuel¬0x881A4524¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬JamesPond3OperationStarfish¬0x68BB7F71¬524288¬.gg¬(GGFormat)(Europe)(U.S.Gold-VectordeanMillennium)(1994)¬
+SegaGameGear¬JamesPondIICodenameRoboCod¬0x9FB5C155¬524288¬.gg¬(GGFormat)(USA)(Millenium)(1991)¬
+SegaGameGear¬JangPungII¬0x76C5BDFB¬262144¬.sgg¬(Sieko)(Kr)(1993)(Pirate)¬
+SegaGameGear¬JeopardySportsEdition¬0x2DD850B7¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Jeopardy¬0x287DF3DF¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Jeopardy¬0xD7820C21¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬JoeMontanasFootball¬0x2E01BA6C¬262144¬.gg¬(GGFormat)(USA, Europe)¬
+SegaGameGear¬JoeMontanasFootball¬0x4A98678B¬262144¬.gg¬(Sega)(1991)(GGFormat)(Japan)¬
+SegaGameGear¬JourneyFromDarknessStriderReturns¬0x1EBFA5CA¬262144¬.gg¬(GGFormat)(USA, Europe)(U.S.Gold)(1992)¬
+SegaGameGear¬JudgeDredd¬0x04D23FC4¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Junction¬0x5710C959¬131072¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬Junction¬0xA8EF36A7¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬JungleBook¬0x30C09F31¬262144¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬JungleBook¬0x6FEFF77C¬262144¬.sgg¬(Europe)(USA)(Alternate01)(Verified)¬
+SegaGameGear¬JungleBook¬0x90100884¬262144¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬JurassicPark¬0x2F536AE3¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬JurassicPark¬0x4290DCDF¬524288¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬JurassicPark¬0xBD6F2321¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)¬
+SegaGameGear¬KaitouSaintTale¬0x937FD52B¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬KawasakiSuperbikeChallenge¬0x23F9150A¬262144¬.gg¬(GGFormat)(USA, Europe)(USA)¬
+SegaGameGear¬KenyuuDensetsuYaiba¬0x2631C0B4¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬KenyuuDensetsuYaiba¬0xD9CE3F4C¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬KickAndRush¬0xFD14CE00¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬KineticConnection¬0x4AF7F2AA¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬KineticConnection¬0x7F758E3D¬262144¬.sgg¬(Japan)(OverDump01)¬
+SegaGameGear¬KineticConnection¬0x808A71C3¬262144¬.sgg¬(Sega)(1991)(Japan)(BadDump)¬
+SegaGameGear¬KishinDoujiZenki¬0x7D622BDD¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Klax¬0x64BF0372¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Klax¬0x9B40FC8E¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬KrustysFunHouse¬0xD01E784F¬262144¬.gg¬(GGFormat)(USA, Europe)(Acclaim)(1993)¬
+SegaGameGear¬KrustysFunhouse¬0x2FE187B1¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬KunichanNoGameTengokuPart2¬0xF3774C65¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬KunichanNoGameTengoku¬0x398F2358¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬KunichannoGameTengokuPart2¬0x0C88B39B¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬KyotoSaintTale¬0x6C802AD5¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬LandOfIllusionStarringMickeyMouse¬0x52DBF3E1¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬LastActionHero¬0x2D367C43¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬LegendOfIllusionStarringMickeyMouse¬0x1194D5FB¬524288¬.sgg¬(Sega)(1994)(Japan)(BadDump)¬
+SegaGameGear¬LegendOfIllusionStarringMickeyMouse¬0xCE5AD8B7¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Lemmings¬0x0FDE7BAA¬262144¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬Lemmings¬0x4CE9DDE2¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬Lemmings¬0x51548F61¬262144¬.gg¬(GGFormat)(World)(Beta)(Europe)(USA)(Prototype)¬
+SegaGameGear¬Lemmings¬0xB316221E¬262144¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬LionKing¬0x040512CE¬524288¬.sgg¬(Virgin)(1994)(Hack)¬
+SegaGameGear¬LionKing¬0x0CD9C20B¬524288¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬LionKing¬0x67F7284D¬524288¬.sgg¬(Europe)(USA)(Alternate01)(Verified)¬
+SegaGameGear¬LionKing¬0x90D40776¬524288¬.sgg¬(Virgin)(1994)(USA)(Hack)¬
+SegaGameGear¬LionKing¬0x9808D7B3¬524288¬.gg¬(GGFormat)(USA)(Maker-Codesega)(Europe)(USA)¬
+SegaGameGear¬LostWorldJurassicPark¬0x8D1597F5¬1048576¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬LuckyDimeCaper¬0x07A7815A¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x150A8CD6¬524288¬.sgg¬(Japan)(English)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x208F0F87¬524288¬.sgg¬(GameArts)(1995)(Japan)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x2AE16CBC¬524288¬.sgg¬(GameArts)(1995)(Japan)(Alternate03)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x2D6F9B05¬1048576¬.sgg¬(GameArts)(1995)(Japan)(Alternate05)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x44E9CCAD¬1048576¬.sgg¬(GameArts)(1995)(Japan)(Alternate07)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x4A934DB5¬524288¬.sgg¬(GameArts)(1995)(Japan)(Alternate)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x4F7FE5FA¬1048576¬.sgg¬(GameArts)(1995)(Japan)(Alternate04)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x58459EDD¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x5A558DA5¬1048576¬.sgg¬(GameArts)(1995)(Japan)(Alternate)(TranslationPortuguese)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x73C6F6AD¬524288¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬LunarSanposuruGakuen¬0x8C390953¬524288¬.sgg¬(GameArts)(1995)(Japan)(BadDump)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0xC77A28A1¬1048576¬.sgg¬(GameArts)(1995)(Japan)(Alternate06)(TranslationEnglish)¬
+SegaGameGear¬LunarSanposuruGakuen¬0xEADA9B81¬1048576¬.sgg¬(GameArts)(1995)(Japan)(TranslationPortuguese)¬
+SegaGameGear¬LunarSanposuruGakuen¬0xEAF5732A¬524288¬.sgg¬(GameArts)(1995)(Japan)(Alternate02)(TranslationEnglish)¬
+SegaGameGear¬MLBPABaseball¬0x1ECF07B4¬524288¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬MOD2PSG¬0x06670A86¬32768¬.sgg¬(PublicDomain)(Version1.3-ShadowoftheBeast)¬
+SegaGameGear¬MOD2PSG¬0x07B27358¬32768¬.sgg¬(PublicDomain)(Version1.0-SecretofMonkeyIsland)¬
+SegaGameGear¬MOD2PSG¬0x2A79AE6C¬32768¬.sgg¬(PublicDomain)(Version1.2-SecretofMonkeyIsland)¬
+SegaGameGear¬MOD2PSG¬0x789AAA22¬32768¬.sgg¬(PublicDomain)(Version1.1-SecretofMonkeyIsland)¬
+SegaGameGear¬MaddenNFL95¬0x75C71EBF¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬MaddenNFL96¬0x75E273EB¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬MaddenNFL96¬0x9F59D302¬524288¬.gg¬(GGFormat)(USA, Europe)¬
+SegaGameGear¬MadouMonogatariADokidokiVacation¬0x7EC95282¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MadouMonogatariI3TsuNoMadoukyuu¬0x00C34D94¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1993)(Japan)¬
+SegaGameGear¬MadouMonogatariIIArle16Sai¬0x12EB2287¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MadouMonogatariIIIKyuukyokuJoousama¬0x0A634D79¬524288¬.gg¬(Compile)(1994)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬MadouMonogatariIIIKyuukyokuJoousama¬0x568F4825¬524288¬.gg¬(GGFormat)(Japan)(v1.1)¬
+SegaGameGear¬MadouMonogatariI¬0x16ED3117¬524288¬.sgg¬(Sega)(1993)(Japan)(BadDump)¬
+SegaGameGear¬MagicKnightRayearth2MakingOfMagicKnight¬0x1C2C2B04¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1995)(Japan)¬
+SegaGameGear¬MagicKnightRayearth¬0x707D5947¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬MagicKnightRayearth¬0x8F82A6B9¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬MagicalPuzzlePopils¬0x3092843B¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬MagicalPuzzlePopils¬0xCF6D7BC5¬131072¬.gg¬(GGFormat)(World)(En,Ja)(Europe)(USA)(MultiLanguage02)¬
+SegaGameGear¬MagicalTaruruutokun¬0x6E1CC23C¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MajorsProBaseball¬0x36EBCD6D¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬Mappy¬0x01D2DD2A¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Mappy¬0xDD03E6DE¬131072¬.sgg¬(Namco)(1991)(Japan)(Hack)¬
+SegaGameGear¬MarbleMadness¬0x014E9F6F¬524288¬.sgg¬(Europe)(Japan)(USA)(OverDump01)¬
+SegaGameGear¬MarbleMadness¬0x6AA61CC7¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬MarbleMadness¬0x6BF7A47F¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬MarbleMadness¬0x94085B81¬262144¬.sgg¬(Tengen)(1992)(BadDump)¬
+SegaGameGear¬MarbleMadness¬0x9559E339¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬MarbleMadness¬0xFEB16091¬524288¬.sgg¬(Tengen)(1992)(BadDump02)¬
+SegaGameGear¬MarkosMagicFootball¬0x22C418BF¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es)(Europe)(USA)(MultiLanguage04)¬
+SegaGameGear¬MegaMan¬0x1ACE93AF¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬MegaMan¬0x1BEFCB82¬524288¬.sgg¬(U.S.Gold)(1994)(TranslationGerman)¬
+SegaGameGear¬MegaMan¬0x61ABD388¬524288¬.sgg¬(U.S.Gold)(1994)(Alternate)(TranslationGerman)¬
+SegaGameGear¬MegaMan¬0x6C8F46D6¬524288¬.sgg¬(U.S.Gold)(1994)(BadDump)¬
+SegaGameGear¬MegamiTenseiGaidenLastBibleS¬0x4EC30806¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MegamiTenseiGaidenLastBible¬0x2E4EC17B¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Mick&MackastheGlobalGladiators¬0x2D49FDE2¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬MickAndMackAsTheGlobalGladiators¬0xD2B6021E¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬MickeyMouseCastleofIllusion¬0x45E5C2F1¬262656¬.sgg¬(Japan)(Alternate01)¬
+SegaGameGear¬MickeyMouseCastleofIllusion¬0x66BD4965¬262144¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬MickeyMouseDensetsuNoOukokuLegendOfIllusion¬0xFE12A92F¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MickeyMouseLandofIllusion¬0x31A52749¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬MickeyMouseLegendofIllusion¬0x01ED56D1¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬MickeyMouseNoMahouNoCrystal¬0x0117C3DF¬524288¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬MickeysUltimateChallenge¬0x133085B1¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬MickeysUltimateChallenge¬0x8BAB5634¬262144¬.sgg¬(HiTechExpressions)(1994)(BadDump)¬
+SegaGameGear¬MickeysUltimateChallenge¬0xECCF7A4F¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬MicroMachines2TurboTournament¬0x241776A4¬524288¬.sgg¬(Europe)¬
+SegaGameGear¬MicroMachines2TurboTournament¬0xDBE8895C¬524288¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬MicroMachines¬0x083ADB0A¬262144¬.sgg¬(Europe)¬
+SegaGameGear¬MicroMachines¬0xF7C524F6¬262144¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬MightyMorphinPowerRangersTheMovie¬0xB47C19E5¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬MightyMorphinPowerRangers¬0x9289DFCC¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x01903BBE¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.6)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x465C8962¬32768¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.3)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x57A86D22¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.5)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x6CA4BA5E¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.7)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x6D31CC7B¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.8)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0x876555DE¬32768¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.1)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0xD5865194¬32768¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.2)¬
+SegaGameGear¬Mod2PSGSecretOfMonkeyIslandThemeExample¬0xF84D8CA8¬32768¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.0)¬
+SegaGameGear¬Mod2PSGShadowOfTheBeastThemeExample¬0x08CDC425¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.8)¬
+SegaGameGear¬Mod2PSGShadowOfTheBeastThemeExample¬0x2BFF1BBB¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.7)¬
+SegaGameGear¬Mod2PSGShadowOfTheBeastThemeExample¬0x4F65A708¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.5)¬
+SegaGameGear¬Mod2PSGShadowOfTheBeastThemeExample¬0x535F1B6C¬65536¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.6)¬
+SegaGameGear¬Mod2PSGShadowOfTheBeastThemeExample¬0xF998F57A¬32768¬.sgg¬(Konrad,Martin)(2001)(PublicDomain)(Version1.3)¬
+SegaGameGear¬MoldorianHikariToYamiNoSister¬0x4D5D15FB¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MonsterTruckWars¬0x453C5CEC¬262144¬.gg¬(GGFormat)(USA, Europe)(Acclaim)(1994)¬
+SegaGameGear¬MonsterWorldIIDragonNoWana¬0xEA89E0E7¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬MonsterWorldII¬0x15761F19¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬MortalKombat3¬0x3D419D45¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬MortalKombat3¬0xC2BE62BB¬524288¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬MortalKombatII¬0x4B304E0F¬524288¬.gg¬(GGFormat)(World)(Europe)(Japan)(USA)¬
+SegaGameGear¬MortalKombat¬0x021064A6¬524288¬.sgg¬(Europe)(Japan)(USA)(BadDump01)(Version2.6)¬
+SegaGameGear¬MortalKombat¬0x07494F2A¬524288¬.gg¬(GGFormat)(USA, Europe)(v2.6)(Europe)(USA)(Version2.6)¬
+SegaGameGear¬MortalKombat¬0x2400FB9F¬524288¬.sgg¬(Europe)(Japan)(USA)(Version3.)¬
+SegaGameGear¬MortalKombat¬0xDBFF0461¬524288¬.gg¬(GGFormat)(Japan)(v3.3)(Japan)(Version3.3)¬
+SegaGameGear¬MortalKombat¬0xFDEF9B5A¬524288¬.sgg¬(Acclaim)(1993)(BadDump)¬
+SegaGameGear¬MsPacMan¬0x5EE88BD5¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬NBAAction¬0x19030108¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬NBAJamTournamentEdition¬0x793CD1A5¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬NBAJamTournamentEdition¬0x86C32E5B¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬NBAJam¬0x5B616FCD¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬NBAJam¬0x820FA4AB¬524288¬.gg¬(GGFormat)(USA)(v1.1)¬
+SegaGameGear¬NBAJam¬0x8F17597E¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬NBAJam¬0xA49E9033¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NFL95¬0x23A4FBF9¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬NFL95¬0xDC5B0407¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬NFLQuarterbackClub96¬0x3CB71AC6¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬NFLQuarterbackClub96¬0xC348E53A¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬NFLQuarterbackClub¬0x61785ED5¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬NHLAllStarHockey¬0x1B4A44F8¬524288¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬NHLAllStarHockey¬0x4680C7AA¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬NHLAllStarHockey¬0xE4B5BB08¬524288¬.sgg¬(Sega)(1995)(BadDump)¬
+SegaGameGear¬NHLHockey¬0x658713A5¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬NazoPuyo2¬0x73939DE4¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NazoPuyoArleNoRoux¬0x4C874466¬262144¬.gg¬(GGFormat)(Japan)(Development Edition)(DevelopmentEdition)(Japan)(Prototype)¬
+SegaGameGear¬NazoPuyoArleNoRoux¬0x54AB42A4¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NazoPuyo¬0x4331A02C¬131072¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬NazoPuyo¬0xBCCE5FD4¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NekoDaisuki¬0x3679BE80¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NinjaGaiden¬0x20EF017A¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NinjaGaiden¬0x36925F37¬131072¬.sgg¬(Sega)(1991)(TranslationPortuguese)¬
+SegaGameGear¬NinjaGaiden¬0x3A878A95¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬NinjaGaiden¬0x4ED37A63¬131072¬.sgg¬(Sega)(1991)(BadDump)¬
+SegaGameGear¬NinjaGaiden¬0x6D990679¬131072¬.sgg¬(T+Fre)(Europe)(USA)¬
+SegaGameGear¬NinjaGaiden¬0x9266F987¬131072¬.sgg¬(Sega)(1991)(TranslationFrench)¬
+SegaGameGear¬NinjaGaiden¬0xC578756B¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Ninku2TenkuuryuuENoMichi¬0x06247DD2¬524288¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬NinkuGaidenHiroyukiDaikatsugeki¬0x9140F239¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1995)¬
+SegaGameGear¬Ninku¬0x3CFA91EB¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬Ninku¬0x7B3B4D1F¬524288¬.sgg¬(T+Eng0.1)(Japan)¬
+SegaGameGear¬Ninku¬0x84C4B2E1¬524288¬.sgg¬(Sega)(1995)(Japan)(TranslationEnglish)¬
+SegaGameGear¬Ninku¬0xC3056E15¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬NomoHideoNoWorldSeriesBaseball¬0x4ED45BDA¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬OlympicGoldBarcelona92¬0x31681018¬262144¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬OlympicGoldBarcelona92¬0x5D063851¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬OlympicGold¬0x1D93246E¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It,Nl,Pt,Sv)(v1.1)(GGFormat)(Europe)(USA)(MultiLanguage08)¬
+SegaGameGear¬OlympicGold¬0xA2F9C7AF¬262144¬.gg¬(GGFormat)(Japan, USA)(En,Fr,De,Es,It,Nl,Pt,Sv)(GGFormat)(Europe)(USA)(Alternate)(MultiLanguage08)¬
+SegaGameGear¬OlympicGold¬0xCE97EFE8¬262144¬.sgg¬(U.S.Gold)(1992)(BadDump)¬
+SegaGameGear¬Ottifants¬0x1E673168¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)(Europe)(USA)(MultiLanguage05)¬
+SegaGameGear¬OutRunEuropa¬0x0189931E¬262144¬.sgg¬(Sega-U.S.Gold)(1991)(TranslationPortuguese)¬
+SegaGameGear¬OutRunEuropa¬0x0FC81400¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬OutRunEuropa¬0x2AA12D7E¬262144¬.sgg¬(Sega-U.S.Gold)(1991)(BadDump)¬
+SegaGameGear¬OutRunEuropa¬0x2F2DAA7C¬262656¬.sgg¬(T+Por)(Europe)(USA)¬
+SegaGameGear¬OutRunEuropa¬0xF037EC00¬262144¬.gg¬(GGFormat)(USA, Europe)(GGFormat)(Europe)(USA)¬
+SegaGameGear¬OutRun¬0x2A734D84¬131072¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬OutRun¬0x4753C309¬131072¬.sgg¬(Sega)(1991)(BadDump)¬
+SegaGameGear¬OutRun¬0xD58CB27C¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)(Japan)¬
+SegaGameGear¬PGATour96¬0x542B6D8E¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PGATourGolfII¬0x4A8AC851¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PGATourGolfII¬0x4B6DEDC7¬524288¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬PGATourGolfII¬0x4E279BAA¬524288¬.sgg¬(TimeWarnerInteractive)(1993)(BadDump)¬
+SegaGameGear¬PGATourGolfII¬0xB4921239¬524288¬.sgg¬(TimeWarnerInteractive)(1993)(BadDump02)¬
+SegaGameGear¬PGATourGolf¬0x1C77D996¬262144¬.gg¬(GGFormat)(USA)(v1.1)¬
+SegaGameGear¬PGATourGolf¬0x68FF449B¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬PGATourGolf¬0x9700BB65¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PacAttack¬0x6D8C11D4¬131072¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬PacAttack¬0x9273EE2C¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PacInTime¬0x64C28E20¬262144¬.gg¬(GGFormat)(Unknown)(Proto)(Prototype)¬
+SegaGameGear¬PacMan¬0x4C61517B¬32768¬.sgg¬(Namco)(1990)(BadDump)¬
+SegaGameGear¬PacMan¬0x5E93A1A8¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬PacMan¬0xA16C5E58¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)¬
+SegaGameGear¬PanzerDragoonMini¬0x1687C316¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬PanzerDragoonMini¬0xE9783CEA¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Paperboy2¬0x74D3BAB5¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬PaperboyII¬0x8B2C454B¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Paperboy¬0x0AB497FD¬131072¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬Paperboy¬0x5EC9A520¬131072¬.sgg¬(Europe)(Japan)(USA)(Trained01)¬
+SegaGameGear¬Paperboy¬0xA1365AE0¬131072¬.sgg¬(Tengen)(1992)(Hack)¬
+SegaGameGear¬Paperboy¬0xF54B6803¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Pengo¬0x0DA23CC1¬32768¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Pengo¬0x3179C246¬32768¬.sgg¬(Japan)¬
+SegaGameGear¬Pengo¬0xCE863DBA¬32768¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PetClubInuDaisuki¬0xB42D8430¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PeteSamprasTennis¬0x3E8A9412¬262144¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬PeteSamprasTennis¬0xC1756BEE¬262144¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬PhantasyStarAdventure¬0x070B465D¬131072¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬PhantasyStarAdventure¬0x1A51579D¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PhantasyStarAdventure¬0x311CEBFB¬131072¬.sgg¬(T-Eng_AGTP)(Japan)¬
+SegaGameGear¬PhantasyStarAdventure¬0x42C98A68¬131072¬.sgg¬(Sega)(1992)(Japan)(Alternate02)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarAdventure¬0x88A3A56D¬131072¬.sgg¬(Sega)(1992)(Japan)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarAdventure¬0xCEE31405¬131072¬.sgg¬(Sega)(1992)(Japan)(Alternate)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarAdventure¬0xCF1A8C1B¬131072¬.sgg¬(Sega)(1992)(Japan)(Alternate03)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarAdventure¬0xD5AB83AF¬262144¬.sgg¬(Sega)(1992)(Japan)(TranslationPortuguese)¬
+SegaGameGear¬PhantasyStarAdventure¬0xF8F4B9A3¬131072¬.sgg¬(Sega)(1992)(Japan)(BadDump)¬
+SegaGameGear¬PhantasyStarGaiden¬0x16046E95¬262144¬.sgg¬(T-EngV2.0Largefont_Magic_Trans)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0x1667748B¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate06)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0x17E64F1E¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate03)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0x1C98154A¬262144¬.sgg¬(Sega)(1992)(Japan)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0x1D7A34C1¬262144¬.sgg¬(T-EngV2.0Smallfont_Magic_Trans)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0x2A547C51¬262144¬.sgg¬(T+Por)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0x56BDAEB6¬262144¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬PhantasyStarGaiden¬0x677255CA¬262144¬.sgg¬(T+EngV3.0Largefont_Magic_Trans)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0x6C0C0F9E¬262144¬.sgg¬(T+EngV3.0Smallfont_Magic_Trans)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0x93F3F062¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate05)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0x988DAA36¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate02)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0xA942514A¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PhantasyStarGaiden¬0xE285CB3F¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate04)(TranslationEnglish)¬
+SegaGameGear¬PhantasyStarGaiden¬0xE9FB916B¬262144¬.sgg¬(Sega)(1992)(Japan)(Alternate)(TranslationEnglish)¬
+SegaGameGear¬Phantom2040¬0x281B1C3A¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PinballDreams¬0x635C483A¬131072¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬PocketJansou¬0xCC90C723¬131072¬.gg¬(GGFormat)(Japan)(Namco)(1992)(Japan)¬
+SegaGameGear¬PokerFacedPaulsBlackjack¬0x762CBF99¬131072¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬PokerFacedPaulsBlackjack¬0x89D34067¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬PokerFacedPaulsGin¬0x5029E477¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬PokerFacedPaulsGin¬0xAFD61B89¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬PokerFacedPaulsPoker¬0x03BB0668¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬PokerFacedPaulsPoker¬0xE783DAF8¬131072¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬PokerFacedPaulsSolitaire¬0x0E9B0C0A¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬PopBreaker¬0x71DEBA5A¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PopeyeNoBeachVolleyball¬0x3EF66810¬524288¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬PowerRangersTheMovie¬0x4B83E61B¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬PowerRangers¬0x6D762034¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬PowerStrikeII¬0x09DE1528¬262144¬.gg¬(GGFormat)(Japan, Europe)(GGAlesteII)(Europe)(Japan)(USA)¬
+SegaGameGear¬PowerStrikeII¬0x6D6BAB80¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬PowerStrikeII¬0x92945480¬262144¬.sgg¬(Sega)(1993)(BadDump)¬
+SegaGameGear¬Predator2¬0x1A087647¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬Predator2¬0xE5F789B9¬262144¬.gg¬(GGFormat)(USA, Europe)(GGFormat)(Europe)(USA)¬
+SegaGameGear¬PrimalRage¬0x2A34B5C7¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PrinceOfPersia¬0x1C6C149C¬262214¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬PrinceOfPersia¬0x311D2863¬262144¬.gg¬(GGFormat)(USA, Europe)(GGFormat)(Europe)(USA)¬
+SegaGameGear¬PrinceOfPersia¬0x45F058D6¬262144¬.gg¬(GGFormat)(USA, Europe)(Beta)(GGFormat)(Europe)(USA)(Prototype)¬
+SegaGameGear¬PrinceOfPersia¬0xBA6344FC¬262144¬.sgg¬(Sega)(1992)(BadDump02)¬
+SegaGameGear¬PrinceofPersia¬0x2C8F5B9F¬262656¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬PrinceofPersia¬0x459CBB04¬262144¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬ProYakyuu91¬0x6D3A10D3¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬ProYakyuuGGLeague94¬0xA1A19135¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬ProYakyuuGGLeague¬0x2DA8E943¬262144¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬PsychicWorld¬0x1EEF6DD0¬524288¬.sgg¬(Europe)(Japan)(USA)(Alternate01)(OverDump01)¬
+SegaGameGear¬PsychicWorld¬0x503387D8¬131072¬.sgg¬(Europe)(Japan)(USA)(Alternate01)¬
+SegaGameGear¬PsychicWorld¬0x73779B22¬131072¬.gg¬(GGFormat)(USA, Europe)(v1.1)(Europe)(USA)(Version1.1)¬
+SegaGameGear¬PsychicWorld¬0xAFCC7828¬131072¬.gg¬(GGFormat)(Japan)(Europe)(USA)(Version1.0)¬
+SegaGameGear¬PsychicWorld¬0xE1109230¬524288¬.sgg¬(Sega)(1991)(BadDump)¬
+SegaGameGear¬PuttAndPutter¬0x407AC070¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PuttAndPutter¬0xECC301DD¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬PuyoPuyo2¬0x3AB2393B¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PuyoPuyo¬0xD173A06F¬262144¬.gg¬(GGFormat)(Japan)(PuyoPop)(Europe)(USA)(Japan)¬
+SegaGameGear¬PuzlowKids¬0x2E8C5F91¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬PuzzleAndActionTantoR¬0x09151743¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬PuzzleBobble¬0x8E54EE04¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬QuestForTheShavenYakStarringRenHoekAndStimpy¬0x6C451EE1¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬QuizGearFight¬0x736CDB76¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1995)(Japan)¬
+SegaGameGear¬RBIBaseball94¬0x10C60DA9¬524288¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬RBIBaseball94¬0x6DC3295E¬524288¬.gg¬(GGFormat)(USA)(Tengen)(1994)(USA)¬
+SegaGameGear¬RBIBaseball94¬0xEF39F257¬524288¬.sgg¬(Tengen)(1994)(USA)(BadDump)¬
+SegaGameGear¬RCGrandPrix¬0x4902B7A2¬262144¬.sgg¬(AbsoluteEntertainment)(1992)(Alternate)¬
+SegaGameGear¬RCGrandPrix¬0x56201996¬262144¬.gg¬(GGFormat)(USA, Europe)(GGFormat)(Europe)(USA)¬
+SegaGameGear¬RastanSaga¬0x9C76FB3A¬262144¬.gg¬(GGFormat)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬RevengeOfDrancon¬0x03E9C607¬131072¬.gg¬(GGFormat)(USA)(NonUSA)¬
+SegaGameGear¬RiddickBoweBoxing¬0x38D8EC56¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬RiddickBoweBoxing¬0x5BA00049¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬RiddickBoweBoxing¬0xA45FFFB7¬262144¬.gg¬(GGFormat)(Japan)(Europe)(USA)¬
+SegaGameGear¬RiseOfTheRobots¬0x100B77B2¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬RistarTheShootingStar¬0xEFE65B3B¬524288¬.gg¬(GGFormat)(World)(Sega)(1995)¬
+SegaGameGear¬RistartheShootingStar¬0x1019A4C5¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬RoadRash¬0x69FBA08A¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬RoadRash¬0x96045F76¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬RoboCop3¬0x069A0704¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬RoboCopVersusTheTerminator¬0x4AB7FA4E¬524288¬.gg¬(GGFormat)(USA, Europe)(Virgin)(1993)¬
+SegaGameGear¬RonaldInTheMagicalWorld¬0x87B8B612¬524288¬.gg¬(GGFormat)(Japan)(En,Ja)(DonaldnoMagicalWorld)(Europe)(Japan)(USA)(MultiLanguage02)¬
+SegaGameGear¬RonaldintheMagicalWorld¬0x784749EE¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬RoyalStoneHirakareshiTokiNoTobira¬0x445D7CD2¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬RyuKyu¬0x6A102AD5¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬Ryuukyuu¬0x95EFD52B¬131072¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬SDGundamWinnersHistory¬0x26596162¬524288¬.sgg¬(T+Eng)(Japan)¬
+SegaGameGear¬SDGundamWinnersHistory¬0x5E2B39B8¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SDGundamWinnersHistory¬0x788CD944¬524288¬.sgg¬(T+Fre0.99_Asmodeath)(Japan)¬
+SegaGameGear¬SDGundamWinnersHistory¬0x877326BC¬524288¬.sgg¬(Bandai)(1994)(Japan)(TranslationFrench)¬
+SegaGameGear¬SDGundamWinnersHistory¬0xD9A69E9E¬524288¬.sgg¬(Bandai)(1994)(Japan)(TranslationEnglish)¬
+SegaGameGear¬SMSPowerDemo¬0xACF7E6A2¬32768¬.sgg¬(SMSPower!)(200x)(PublicDomain)¬
+SegaGameGear¬SSLuciferManOverboard¬0x26580E90¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SSLuciferManOverboard¬0xC1736457¬32768¬.sgg¬(Codemasters)(1994)(BadDump)¬
+SegaGameGear¬SSLuciferManOverboard¬0xD9A7F170¬262144¬.sgg¬(Codemasters)(1994)(GGFormat)(Europe)¬
+SegaGameGear¬SamuraiShodown¬0x236990E0¬524288¬.sgg¬(Takara)(1994)(Japan)(BadDump)¬
+SegaGameGear¬SamuraiShodown¬0x67E8E215¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SamuraiShodown¬0x98171DEB¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬SamuraiSpirits¬0x6C028C24¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬SamuraiSpirits¬0x93FD73DC¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬ScratchGolf¬0x13F0D38E¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬ScratchGolf¬0xEC0F2C72¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SegaGameGear¬0x0EBEA9D4¬1024¬.gg¬(Majesco-Sega)(2001)(USA)(Bios)(GGFormat)(BIOS)(USA)(Majesco)¬
+SegaGameGear¬SegaGamePack4In1¬0x0924D2EC¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬SegaGamePack4In1¬0xD06136AC¬262144¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬SegaGamePack4in1¬0x2F9EC954¬262144¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬SensibleSoccer¬0x5B68DA75¬131072¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬ShadamCrusaderHarukanaruOukoku¬0x09F9ED60¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1992)(Japan)¬
+SegaGameGear¬ShanghaiII¬0x2AE8C75F¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬ShaqFu¬0x6FCB8AB0¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Shikinjou¬0x63A380AD¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬Shikinjou¬0x9C5C7F53¬131072¬.gg¬(GGFormat)(Japan)(Sunsoft)(1991)(Japan)¬
+SegaGameGear¬ShiningForceGaidenFinalConflict¬0x07226824¬524288¬.sgg¬(Japan)(Alternate02)(English)¬
+SegaGameGear¬ShiningForceGaidenFinalConflict¬0x27EC7AFF¬524288¬.sgg¬(T+Eng)(Japan)¬
+SegaGameGear¬ShiningForceGaidenFinalConflict¬0x6019FE5E¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1995)(Japan)¬
+SegaGameGear¬ShiningForceGaidenIIJashinNoKakusei¬0x30374681¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1993)(Japan)¬
+SegaGameGear¬ShiningForceGaiden¬0x4D1F4699¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0x2A89AA37¬357390¬.sgg¬(Sega)(1995)(Japan)(BadDump02)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0x5356F6D7¬357390¬.sgg¬(Sega)(1995)(Japan)(BadDump03)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0x6F70B6CF¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate03)(TranslationEnglish)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0x749A2D70¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate02)(TranslationEnglish)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0x7BF365E1¬524288¬.sgg¬(Sega)(1995)(Japan)(BadDump)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0xD8138501¬524288¬.sgg¬(Sega)(1995)(Japan)(TranslationEnglish)¬
+SegaGameGear¬ShiningForceIIIFinalConflict¬0xF8DD97DC¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate)(TranslationEnglish)¬
+SegaGameGear¬ShiningForceIITheSwordOfHajya¬0xA6CA6FA9¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬ShiningForceIITheSwordofHajya¬0x59359057¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬ShinobiIITheSilentFury¬0x3D2701F9¬262144¬.sgg¬(Europe)(Japan)(USA)(BadDump03)¬
+SegaGameGear¬ShinobiIITheSilentFury¬0x4D52394C¬209173¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬ShinobiIITheSilentFury¬0x6201C694¬262144¬.gg¬(Japan)(GGFormat)(World)¬
+SegaGameGear¬Shinobi¬0x30F1C984¬262144¬.gg¬(Europe)(GGFormat)(USA, Europe)¬
+SegaGameGear¬SidePocket¬0x6A603EED¬262144¬.gg¬(GGFormat)(USA)(USA)¬
+SegaGameGear¬SimpsonsBartVsTheSpaceMutants¬0xC0009274¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SimpsonsBartVsTheWorld¬0xDA7BD5C7¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SimpsonsBartmanMeetsRadioactiveMan¬0x005BB857¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SimpsonsBartvsTheSpaceMutants¬0x3FFF6D8C¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬SimpsonsBartvsTheWorld¬0x25842A39¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬Skweek¬0x786DD67B¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Slider¬0x4DC6F555¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Smurfs¬0x354E1CBD¬262144¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es)(Europe)(MultiLanguage04)¬
+SegaGameGear¬SolitaireFunpak¬0x090DB48B¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SolitaireFunpak¬0xF6F24B75¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬SolitairePoker¬0x06F2FC46¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Sonic&Tails2¬0x2846BBB3¬524288¬.sgg¬(Sega)(1994)(Japan)(Hack)¬
+SegaGameGear¬Sonic&Tails¬0x753F2522¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬SonicAndTails2¬0x496BCE64¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SonicAndTails¬0x8AC0DADE¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SonicBlast¬0x031B9DA9¬1048576¬.gg¬(GGFormat)(World)(G-Sonic)(Europe)(USA)(Japan)¬
+SegaGameGear¬SonicChaos¬0x663F2ABB¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(NonUSA)¬
+SegaGameGear¬SonicChaos¬0x69A8FA0F¬524288¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬SonicChaos¬0x965705F1¬524288¬.sgg¬(Sega)(1993)(BadDump)¬
+SegaGameGear¬SonicDrift2¬0x29175CFB¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬SonicDrift2¬0x7C8ABCC4¬524352¬.sgg¬(Sega)(1995)(Japan)(BadDump02)¬
+SegaGameGear¬SonicDrift2¬0x7CA02906¬524288¬.sgg¬(Sega)(1995)(Japan)(BadDump)¬
+SegaGameGear¬SonicDrift2¬0xD6E8A305¬524288¬.gg¬(GGFormat)(Japan, USA)(Japan)¬
+SegaGameGear¬SonicDrift¬0x68F0A776¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SonicDrift¬0xBAAC1FC0¬524288¬.gg¬(GGFormat)(Japan)(Sample)¬
+SegaGameGear¬SonicLabyrinth¬0x3AD79969¬432138¬.sgg¬(Sega)(1995)(BadDump)¬
+SegaGameGear¬SonicLabyrinth¬0x5550173B¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬SonicSpinball¬0x56DEFBCC¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬SonicSpinball¬0xA9210434¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SonicTheHedgehog2¬0x825AE8B4¬524290¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬SonicTheHedgehog2¬0x95A18EC7¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬SonicTheHedgehogTripleTrouble¬0xD23A2A93¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SonicTheHedgehog¬0x3E31CB8C¬262144¬.gg¬(GGFormat)(Japan)(Japan)(Version1.0)¬
+SegaGameGear¬SonicTheHedgehog¬0x816C0A1E¬262144¬.gg¬(GGFormat)(World)(Proto)(Europe)(USA)(Prototype)¬
+SegaGameGear¬SonicTheHedgehog¬0xD163356E¬262144¬.gg¬(GGFormat)(World)(v1.1)(Europe)(Japan)(USA)(Version1.1)¬
+SegaGameGear¬SonictheHedgehog2¬0x6A5E7139¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬SonictheHedgehog2¬0x7DA5174C¬524290¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬SonictheHedgehogTripleTrouble¬0x2DC5D56D¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬SonictheHedgehog¬0x2E9CCA92¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)(Version1.1)¬
+SegaGameGear¬SonictheHedgehog¬0x7E93F5E2¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)(Prototype)¬
+SegaGameGear¬Soukoban¬0x0F3E3840¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SpaceHarrier¬0x600C15B3¬131072¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬SpiderManAndTheXMenInArcadesRevenge¬0x742A372B¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬SpiderManReturnOfTheSinisterSix¬0xBC240779¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SpiderManReturnoftheSinisterSix¬0x43DBF887¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬SpiderManVsTheKingpin¬0x2651024E¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Spirou¬0xAB622ADC¬524288¬.gg¬(GGFormat)(Europe)(Proto)¬
+SegaGameGear¬SportsIllustratedChampionshipFootball&Baseball¬0x21DA1D28¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SportsIllustratedChampionshipFootballAndBaseball¬0xDE25E2D8¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SportsTriviaChampionshipEdition¬0x5B5DE94D¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SportsTrivia¬0x58508357¬131072¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬SportsTrivia¬0xA7AF7CA9¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬StarTrekGenerationsBeyondTheNexus¬0x087FC5F0¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬StarTrekTNGAdvancedHolodeckTutorial¬0x7FEA9CDD¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬StarTrekTheNextGenerationTheAdvancedHolodeckTutorial¬0x80156323¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬StarWars¬0x0228769C¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬StarWars¬0xDB9BC599¬524288¬.gg¬(GGFormat)(Europe)¬
+SegaGameGear¬Stargate¬0x03839B1C¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬Stargate¬0xFC7C64E4¬262144¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬StreetsOfRageII¬0x0B618409¬524288¬.gg¬(GGFormat)(World)(BareKnuckleII)(Europe)(Japan)(USA)¬
+SegaGameGear¬StreetsOfRage¬0x3D8BCF1D¬262144¬.gg¬(GGFormat)(World)(BareKnuckle)(Europe)(Japan)(USA)¬
+SegaGameGear¬Striker¬0xB421C057¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,It)¬
+SegaGameGear¬SuperBattletank¬0x73D6745A¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬SuperColumns¬0x2A100717¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SuperColumns¬0x745BC50D¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬SuperColumns¬0x8BA43AF3¬131072¬.gg¬(GGFormat)(USA, Europe)(USA)¬
+SegaGameGear¬SuperGolf¬0x528CBBCE¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SuperKickOff¬0x10DBBEF4¬262144¬.gg¬(GGFormat)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬SuperMomotarouDentetsuIII¬0xB731BB80¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬SuperMonacoGPII¬0x346E1CF1¬262144¬.sgg¬(Sega)(1992)(Japan)(BadDump)¬
+SegaGameGear¬SuperMonacoGP¬0x030EDAB9¬131072¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬SuperMonacoGP¬0x1CF1823A¬131072¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬SuperMonacoGP¬0x4F686C4A¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SuperMonacoGP¬0xE30E7DC6¬131072¬.sgg¬(Sega)(1990)(Japan)(BadDump)¬
+SegaGameGear¬SuperMonacoGP¬0xFCF12547¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(NonUSA)¬
+SegaGameGear¬SuperOffRoad¬0x174BD4E1¬131072¬.sgg¬(Europe)(USA)(Alternate01)¬
+SegaGameGear¬SuperOffRoad¬0x2E217FAE¬131072¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬SuperOffRoad¬0x57BCD2D5¬128856¬.sgg¬(Europe)(USA)(BadDump01)¬
+SegaGameGear¬SuperOffRoad¬0xA8432D2B¬128856¬.sgg¬(Virgin)(199x)(BadDump)¬
+SegaGameGear¬SuperOffRoad¬0xE8B42B1F¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)(Alternate)¬
+SegaGameGear¬SuperReturnOfTheJedi¬0x4A38B6B6¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SuperSmashTV¬0x1006E4E3¬262144¬.gg¬(Europe)(USA)(GGFormat)(World)¬
+SegaGameGear¬SuperSpaceInvaders¬0x201C71DC¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬SuperSpaceInvaders¬0x2D8E81BC¬262144¬.sgg¬(Domark)(199x)(BadDump)¬
+SegaGameGear¬SuperSpaceInvaders¬0xDFE38E24¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬SupermanTheManOfSteel¬0x73DF5A15¬262144¬.gg¬(GGFormat)(Europe)(Virgin)(1992)¬
+SegaGameGear¬SurfNinjas¬0x18DEEEC8¬524288¬.sgg¬(Sega)(1993)(BadDump02)¬
+SegaGameGear¬SurfNinjas¬0x284482A8¬524288¬.gg¬(GGFormat)(USA)(Sega)(1993)(BadDump)¬
+SegaGameGear¬SurfNinjas¬0x2EA26930¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬SylvanTale¬0x2977F5AA¬524288¬.sgg¬(T+Fre0.9_Asmodeath)(Japan)¬
+SegaGameGear¬SylvanTale¬0x45EF2062¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬SylvanTale¬0x58E56238¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate)(TranslationEnglish)¬
+SegaGameGear¬SylvanTale¬0x5D803486¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate03)(TranslationEnglish)¬
+SegaGameGear¬SylvanTale¬0x6B83D6DF¬524288¬.sgg¬(T+Eng1.01_AGTP)(Japan)¬
+SegaGameGear¬SylvanTale¬0x6EE68061¬524288¬.sgg¬(T+Eng1.00_AGTP)(Japan)¬
+SegaGameGear¬SylvanTale¬0x73ECC23B¬524288¬.sgg¬(StatusMusic)(Japan)(Hack01)¬
+SegaGameGear¬SylvanTale¬0x8C133DC5¬524288¬.sgg¬(Sega)(1995)(Japan)(Hack)¬
+SegaGameGear¬SylvanTale¬0x91197F9F¬524288¬.sgg¬(Sega)(1995)(Japan)(TranslationEnglish)¬
+SegaGameGear¬SylvanTale¬0x947C2921¬524288¬.sgg¬(Sega)(1995)(Japan)(Alternate02)(TranslationEnglish)¬
+SegaGameGear¬SylvanTale¬0xD6880A56¬524288¬.sgg¬(Sega)(1995)(Japan)(TranslationFrench)¬
+SegaGameGear¬T2TheArcadeGame¬0x6B8637C6¬524288¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬T2TheArcadeGame¬0x9479C83A¬524288¬.gg¬(GGFormat)(USA, Europe)(Acclaim)(1993)¬
+SegaGameGear¬TailsAdventures¬0x34A6EAFF¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬TailsAdventures¬0x5BB6E5D6¬524288¬.gg¬(GGFormat)(World)(En,Ja)(Japan)(USA)(MultiLanguage02)¬
+SegaGameGear¬TailsAdventures¬0xCB591501¬524288¬.sgg¬(Sega)(1995)(BadDump)¬
+SegaGameGear¬TailsNoSkypatrol¬0x88618AFA¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬TailsSkyPatrol¬0x24DD0C31¬262144¬.sgg¬(T+Por)(Japan)¬
+SegaGameGear¬TailsSkyPatrol¬0x779E7506¬262144¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬TailsSkypatrol¬0xDB22F3CF¬262144¬.sgg¬(Sega)(1995)(Japan)(TranslationPortuguese)¬
+SegaGameGear¬TaisenMahjongHaoPai2¬0x20527530¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬TaisenMahjongHaoPai¬0x30639F84¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬TaisenMahjongHaoPai¬0xCF9C607C¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬TaisengataDaisenryakuG¬0x7B7717B8¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬TaitoChaseHQ¬0x7BB81E3D¬131072¬.gg¬(GGFormat)(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬TaleSpin¬0x0E8CD002¬262144¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬TaleSpin¬0xF1732FFE¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Tama&FriendsSanchoumeKouenTamalympics¬0x22E2D141¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬Tama&FriendsSanchoumeKouenTamalympics¬0x31598479¬262144¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬Tama&FriendsTamalympics¬0xCEA67B87¬262144¬.sgg¬(Sega)(1995)(Japan)(BadDump)¬
+SegaGameGear¬TamaAndFriendsSanchoumeKouenTamalympic¬0xDD1D2EBF¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬TarotNoYakata¬0x57834C03¬131072¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬TarzanLordOfTheJungle¬0xEF3AFE8B¬262144¬.gg¬(GGFormat)(Europe)¬
+SegaGameGear¬TatakaeProYakyuuTwinLeague¬0xBEC57602¬524288¬.gg¬(GGFormat)(Japan)¬
+SegaGameGear¬TazInEscapeFromMars¬0x7F278AB2¬524288¬.sgg¬(Sega)(1994)(Hack)¬
+SegaGameGear¬TazInEscapeFromMars¬0xEEBAD66B¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬TazManiaSearchForTheLostSeabirds¬0x183C0BCC¬466574¬.sgg¬(Sega)(1992)(BadDump)¬
+SegaGameGear¬TazManiaTheSearchForTheLostSeabirds¬0x36040C24¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬TazinEscapefromMars¬0x11452995¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬TempoJr¬0x21B9986A¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬TempoJr¬0xDE466796¬524288¬.sgg¬(Europe)(USA)(GGFormat)(World)¬
+SegaGameGear¬TengenWorldCupSoccer¬0xDD6D2E34¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Terminator2ArcadeGame¬0x6DAAD1A1¬524288¬.sgg¬(Acclaim)(1993)(BadDump)¬
+SegaGameGear¬Terminator2JudgmentDay¬0x1BD15773¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Terminator¬0x3FD65A03¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Terminator¬0xC029A5FD¬262144¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬Tesserae¬0x35F1EE34¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Tesserae¬0xCA0E11CC¬131072¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬TintinInTibet¬0x969CF389¬524288¬.gg¬(GGFormat)(Europe)(En,Fr,De,Es,Nl,Sv)(Europe)(MultiLanguage06)¬
+SegaGameGear¬TintinauTibet¬0x69630C77¬524288¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬ToToTEKGGPROMultiMenu¬0x4E6D2014¬49152¬.sgg¬(ToToTEKMultiMedia)(200x)(PublicDomain)(Version1.5)¬
+SegaGameGear¬TomAndJerryMovie¬0xB75416AE¬262144¬.sgg¬(Sega)(1993)(Hack)¬
+SegaGameGear¬TomAndJerryTheMovie¬0x5CD33FF2¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬ToraretaTamaruka¬0x5BCF9B97¬524288¬.gg¬(Japan)(GGFormat)(Japan)¬
+SegaGameGear¬TrueLies¬0x5173B02A¬524288¬.gg¬(GGFormat)(World)(Europe)(USA)¬
+SegaGameGear¬UltimateSoccer¬0x7DF69A5D¬262144¬.sgg¬(Europe)(Japan)(USA)¬
+SegaGameGear¬UltimateSoccer¬0x820965A3¬262144¬.gg¬(GGFormat)(Japan, Europe)(En,Fr,De,Es,It)(JBE)(MultiLanguage05)¬
+SegaGameGear¬UrbanStrike¬0x185E9FC1¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬VRTroopers¬0x231E5B78¬524288¬.sgg¬(Sega)(1995)(BadDump)¬
+SegaGameGear¬VRTroopers¬0x4F0DD8BB¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬VRTroopers¬0xB0F22745¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬VampireMasterOfDarkness¬0x7EC64025¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬VampireMasterOfDarkness¬0xE6EA018F¬262144¬.sgg¬(Sega)(1993)(Hack)¬
+SegaGameGear¬VirtuaFighterAnimation¬0x924CE5BE¬524288¬.sgg¬(Sega)(1996)(BadDump)¬
+SegaGameGear¬VirtuaFighterAnimation¬0xD431C452¬1048576¬.gg¬(GGFormat)(USA, Europe)(USA)¬
+SegaGameGear¬VirtuaFighterMini¬0x3FA9A808¬1048576¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬VirtuaFighterMini¬0xC05657F8¬1048576¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬VirtuaFighters¬0x6DB31A42¬524288¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬WWFRaw¬0x2D6EB757¬278528¬.sgg¬(Europe)(Japan)(USA)(BadDump01)¬
+SegaGameGear¬WWFRaw¬0x7239726E¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬WWFRaw¬0x8DC68D92¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬WWFRaw¬0xD29148A9¬278528¬.sgg¬(Acclaim)(1994)(BadDump)¬
+SegaGameGear¬WWFSteelCageChallenge¬0x25716A57¬262144¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬WWFWrestlemaniaSteelCageChallenge¬0xDA8E95A9¬262144¬.gg¬(GGFormat)(Europe)(GGFormat)(Europe)¬
+SegaGameGear¬WagyanLand¬0x0AEBCA74¬262144¬.sgg¬(Japan)(BadDump01)¬
+SegaGameGear¬WagyanLand¬0x2AC96E6E¬262144¬.sgg¬(Japan)(Alternate02)¬
+SegaGameGear¬WagyanLand¬0x6116EEB9¬32768¬.sgg¬(Japan)(BadDump02)¬
+SegaGameGear¬WagyanLand¬0x73CCCE64¬262144¬.sgg¬(Japan)(Alternate01)¬
+SegaGameGear¬Wakiyarando¬0x29E697B2¬262144¬.gg¬(GGFormat)(Japan)(Namco)(1991)(Japan)¬
+SegaGameGear¬Wakiyarando¬0x8C33319C¬262144¬.sgg¬(Namco)(1991)(Japan)(BadDump)¬
+SegaGameGear¬Wakiyarando¬0x9EE91147¬32768¬.sgg¬(Namco)(1991)(Japan)(BadDump02)¬
+SegaGameGear¬Wakiyarando¬0xD5369192¬262144¬.sgg¬(Namco)(1991)(Japan)(Alternate)¬
+SegaGameGear¬Wakiyarando¬0xF514358C¬262144¬.sgg¬(Namco)(1991)(Japan)(Alternate02)¬
+SegaGameGear¬WheelOfFortune¬0xE91CDB2A¬131072¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬WheelofFortune¬0x16E324D6¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Wimbledon¬0x31EEF703¬131072¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬Wimbledon¬0xCE1108FD¬131072¬.gg¬(GGFormat)(World)(Sega)(1992)¬
+SegaGameGear¬WindowsForGG¬0xF366B29D¬32768¬.sgg¬(Kemp,Victor)(1999)(PublicDomain)(Version4.0)¬
+SegaGameGear¬WindowsforGGbyVictorKemp¬0x0C994D63¬32768¬.sgg¬(PublicDomain)¬
+SegaGameGear¬WinterOlympicsLillehammer94¬0x2AE6A5C7¬524288¬.sgg¬(Japan)(Verified)¬
+SegaGameGear¬WinterOlympicsLillehammer94¬0x2EA2CCA5¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬WinterOlympicsLillehammer94¬0xD15D335B¬524288¬.gg¬(GGFormat)(USA, Europe)(En,Fr,De,Es,It,Pt,Sv,No)(U.S.Gold)(1993)¬
+SegaGameGear¬WinterOlympicsLillehammer94¬0xD5195A39¬524288¬.gg¬(GGFormat)(Japan)(En,Fr,De,Es,It,Pt,Sv,No)(U.S.Gold)(1993)(Japan)¬
+SegaGameGear¬WizardPinball¬0x61FC0694¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬WizardPinball¬0x9E03F96C¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬Wolfchild¬0x69DE95AC¬262144¬.sgg¬(Virgin)(1993)(BadDump)¬
+SegaGameGear¬Wolfchild¬0x7BF57072¬262144¬.sgg¬(USA)(Verified)¬
+SegaGameGear¬Wolfchild¬0x840A8F8E¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬WonderBoyIIITheDragonsTrap¬0x24E4A4BC¬262144¬.sgg¬(USA)¬
+SegaGameGear¬WonderBoyIIITheDragonsTrap¬0xA74C97A7¬262144¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬
+SegaGameGear¬WonderBoyIIITheDragonsTrap¬0xDB1B5B44¬262144¬.gg¬(GGFormat)(Europe)(Beta)(Europe)(USA)(Prototype)¬
+SegaGameGear¬WonderBoyTheDragonsTrap¬0x58B36859¬262144¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬WonderBoy¬0x15D22C59¬131072¬.sgg¬(Europe)(Verified)¬
+SegaGameGear¬WonderBoy¬0x6688034D¬131072¬.sgg¬(Japan)¬
+SegaGameGear¬WonderBoy¬0x9977FCB3¬131072¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬WonderBoy¬0xEA2DD3A7¬131072¬.gg¬(GGFormat)(Europe)(Europe)¬
+SegaGameGear¬WoodyPop¬0x48B0C5B1¬32768¬.sgg¬(Europe)(Japan)(USA)(Verified)(Version1.1)¬
+SegaGameGear¬WoodyPop¬0x63F1A5FC¬32768¬.sgg¬(Europe)(Japan)(USA)(Version1.0)¬
+SegaGameGear¬WoodyPop¬0x9C0E5A04¬32768¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)(Version1.0)¬
+SegaGameGear¬WoodyPop¬0xB74F3A4F¬32768¬.gg¬(GGFormat)(USA, Europe)(v1.1)(Europe)(USA)(Version1.1)¬
+SegaGameGear¬WorldClassLeaderBoard¬0x868FE528¬262144¬.gg¬(GGFormat)(USA, Europe)(USA)¬
+SegaGameGear¬WorldClassLeaderGolf¬0x79701AD8¬262144¬.sgg¬(USA)(Verified)¬
+SegaGameGear¬WorldCup94¬0x2D44C970¬524288¬.sgg¬(Europe)(Japan)(USA)(Verified)¬
+SegaGameGear¬WorldCupSoccer¬0x2292D1CC¬262144¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬WorldCupUSA94¬0xD2BB3690¬524288¬.gg¬(GGFormat)(USA, Europe)(En,Fr,De,Es,It,Nl,Pt,Sv)(Europe)(USA)(MultiLanguage08)¬
+SegaGameGear¬WorldDerby¬0x1E81861F¬524288¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬WorldSeriesBaseball95¬0x578A8A38¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬WorldSeriesBaseball¬0x3D8D0DD6¬262144¬.gg¬(GGFormat)(USA)(Europe)(USA)(Version1.0)¬
+SegaGameGear¬WorldSeriesBaseball¬0x44C73029¬262144¬.sgg¬(Europe)(USA)(Alternate01)(Verified)¬
+SegaGameGear¬WorldSeriesBaseball¬0xBB38CFD7¬262144¬.gg¬(GGFormat)(USA)(v1.1)(Europe)(USA)(Version1.1)¬
+SegaGameGear¬XMenGamemastersLegacy¬0x3E963CBC¬524288¬.sgg¬(Europe)(USA)¬
+SegaGameGear¬XMenGamemastersLegacy¬0xC169C344¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬XMenMojoWorld¬0x3D345629¬524288¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬XMenMojoWorld¬0xC2CBA9D7¬524288¬.gg¬(GGFormat)(USA, Europe)(Europe)(USA)¬
+SegaGameGear¬XMen¬0x567A5EE6¬524288¬.gg¬(GGFormat)(USA)(Europe)(USA)¬
+SegaGameGear¬Xaropinho¬0x22FC1922¬131072¬.sgg¬(Hack)¬
+SegaGameGear¬YogiBearInYogiBearsGoldrush¬0xE678F264¬262144¬.gg¬(GGFormat)(Unknown)(Proto)(Europe)(USA)(Prototype)¬
+SegaGameGear¬YogiBearinYogiBearsGoldrush¬0x19870D9C¬262144¬.sgg¬(Europe)(USA)(Verified)(Prototype)¬
+SegaGameGear¬YuuYuuHakusho2¬0x2340CCAB¬524288¬.sgg¬(T+Eng)(Japan)¬
+SegaGameGear¬YuuYuuHakushoHorobishimonoNoGyakushuu¬0x88EBBF9E¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬YuuYuuHakushoIIGekitouNanakyouNoTatakai¬0x46AE9159¬524288¬.gg¬(GGFormat)(Japan)(Sega)(1994)(Japan)¬
+SegaGameGear¬YuuYuuHakushoII¬0xDCBF3355¬524288¬.sgg¬(Sega)(1994)(Japan)(TranslationEnglish)¬
+SegaGameGear¬YuuYuuHakusho¬0x77144062¬524288¬.sgg¬(Japan)¬
+SegaGameGear¬ZanGear¬0x141AAF96¬131072¬.gg¬(GGFormat)(Japan)(WolfTeam)(1990)(Japan)¬
+SegaGameGear¬ZoolNoYumeBouken¬0xE35EF7ED¬262144¬.gg¬(GGFormat)(Japan)(Japan)¬
+SegaGameGear¬Zool¬0x1CA10813¬262144¬.sgg¬(Japan)¬
+SegaGameGear¬Zool¬0xB287C695¬262144¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬ZoopemUp¬0x590F9C54¬65536¬.sgg¬(Konrad,Martin)(2002)(PublicDomain)¬
+SegaGameGear¬Zoop¬0x0C680FBF¬131072¬.sgg¬(Europe)(USA)(Verified)¬
+SegaGameGear¬Zoop¬0x3247FF8B¬131072¬.gg¬(GGFormat)(USA)¬
+SegaGameGear¬Zoop¬0xF397F041¬131072¬.gg¬(GGFormat)(Europe)(Europe)(USA)¬

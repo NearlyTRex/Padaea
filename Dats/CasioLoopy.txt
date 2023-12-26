@@ -1,0 +1,7 @@
+CasioLoopy¬AnimeLand¬0x665CD0A2¬2097152¬.bin¬(BINFormat)(Japan)¬
+CasioLoopy¬DreamChangeKoganechanNoFashionParty¬0x0B850185¬2097152¬.bin¬(BINFormat)(Japan)¬
+CasioLoopy¬HARIHARISealParadise¬0x39A417D6¬2097152¬.bin¬(BINFormat)(Japan)¬
+CasioLoopy¬InternalThermalPrinter¬0x8F51FA17¬524288¬.bin¬(BINFormat)(BIOS)(Japan)¬
+CasioLoopy¬NigaoeArtist¬0x63D59881¬2097152¬.bin¬(BINFormat)(Japan)¬
+CasioLoopy¬PasocomCollection¬0x9CD4D282¬2097152¬.bin¬(BINFormat)(Japan)¬
+CasioLoopy¬WanwanAijouMonogatari¬0x291AB2BC¬2097152¬.bin¬(BINFormat)(Japan)¬

@@ -1,0 +1,9 @@
+CreatronicMegaDuckCougarBoy¬ArcticZone¬0xF88F2D25¬32768¬.mdc¬(Commin)(1993)¬
+CreatronicMegaDuckCougarBoy¬Commin5In1¬0xFF0DA355¬65536¬.mdc¬(Commin)(1993)¬
+CreatronicMegaDuckCougarBoy¬MagicalTower¬0x98694021¬65536¬.mdc¬(Sachen)(1993)¬
+CreatronicMegaDuckCougarBoy¬MegaDuck4In1Game¬0x8046EA70¬65536¬.mdc¬(Sachen)(1993)¬
+CreatronicMegaDuckCougarBoy¬PileWonder¬0x61C81E06¬32768¬.mdc¬(Commin)(1993)¬
+CreatronicMegaDuckCougarBoy¬Railway¬0x2BB6AEB9¬65536¬.mdc¬(Sachen)(1993)¬
+CreatronicMegaDuckCougarBoy¬StreetRider¬0x74C3377F¬32768¬.mdc¬(Commin)(1993)¬
+CreatronicMegaDuckCougarBoy¬SuleimansTreasure¬0xCD2730AC¬65536¬.mdc¬(Commin)(1993)¬
+CreatronicMegaDuckCougarBoy¬TheBrickWall¬0x58EFE338¬32768¬.mdc¬(TimlexInternational)(1993)¬

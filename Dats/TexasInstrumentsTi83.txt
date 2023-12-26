@@ -1,0 +1,14 @@
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x0C6AAFCC¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.8)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x2EAE1CF0¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.6)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x4BF05697¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.7)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x7EE5D27B¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.2)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x7FAEE2D2¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.10)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0x926F72A4¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.3)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83BIOS¬0xDCCB73D3¬262144¬.t83¬(TexasInstruments)(19xx)(Version1.4)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0x1ED2F479¬1048576¬.t83¬(TexasInstruments)(19xx)(OverDump)(Version1.10)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0x281C9375¬524288¬.t83¬(TexasInstruments)(19xx)(Hack)(Version1.3)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0x5B82FD0D¬552604¬.t83¬(update)(8XUFormat)(TexasInstruments)(2001)(Version1.13)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0x690D9D30¬524288¬.t83¬(TexasInstruments)(19xx)(Hack02)(Version1.3)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0xAD770061¬524288¬.t83¬(TexasInstruments)(19xx)(BadDump)(Version1.12)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0xDA466BE0¬524288¬.t83¬(TexasInstruments)(19xx)(Version1.3)(Bios)¬
+TexasInstrumentsTi83¬TexasInstrumentsTI83PlusBIOS¬0xDDCA5026¬524288¬.t83¬(TexasInstruments)(19xx)(Version1.12)(Bios)¬

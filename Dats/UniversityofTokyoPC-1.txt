@@ -1,0 +1,7 @@
+UniversityofTokyoPC-1¬CalculationForE1000Digits¬0x40ACBBE0¬1230¬.tpc¬(1958)(EiichiWada)(PC1Format)¬
+UniversityofTokyoPC-1¬CalculationForE1000Digits¬0xDBF85787¬1133¬.tpc¬(1958)(EiichiWada)(OUTFormat)¬
+UniversityofTokyoPC-1¬Calculationfore1000digits¬0x2407A879¬1133¬.tpc¬(1958)(EiichiWada)(file1of2)(OUTFormat)[e.out]¬
+UniversityofTokyoPC-1¬SortASampleProgramOfPC1¬0xE44454DA¬1831¬.tpc¬(EiichiWada)(PC1Format)(1995)¬
+UniversityofTokyoPC-1¬SortASampleProgramOfPC1¬0xEFD99C7F¬214¬.tpc¬(EiichiWada)(OUTFormat)(1995)¬
+UniversityofTokyoPC-1¬SortASampleprogramofPC1¬0x10266381¬214¬.tpc¬(EiichiWada)(file1of2)(OUTFormat)[sort.out](1995)¬
+UniversityofTokyoPC-1¬SortASampleprogramofPC1¬0x1BBBAB26¬1831¬.tpc¬(EiichiWada)(file2of2)(PC1Format)[sort.pc1](1995)¬

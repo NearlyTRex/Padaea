@@ -1,0 +1,4 @@
+LuxorABC80¬ASCII¬0x8BCB0A97¬1082¬.l80¬(KristofferEriksson)(ASMFormat)(1985)¬
+LuxorABC80¬IntegerExtend¬0x2A5DE3F1¬5303¬.l80¬(KristofferEriksson&DavidAndersson)(BASFormat)(1986)¬
+LuxorABC80¬REMEditor¬0xD7F21A4C¬9000¬.l80¬(KristofferEriksson)(BASFormat)(1986)¬
+LuxorABC80¬SKriverTalet¬0xFD2EC69B¬1440¬.l80¬(KristofferEriksson)(ASMFormat)(1985)¬

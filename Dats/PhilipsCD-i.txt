@@ -1,0 +1,3 @@
+PhilipsCD-i¬PhilipsCDi¬0x40C4E6B9¬524288¬.cdi¬(Philips-Microware)(1991)(USA)(Bios)(v200)¬
+PhilipsCD-i¬PhilipsCDi¬0x8EE44ED6¬524288¬.cdi¬(Philips-Microware)(1991)(USA)(Bios)(v910)¬
+PhilipsCD-i¬PhilipsCDi¬0xE115F45B¬524288¬.cdi¬(Philips-Microware)(1991)(USA)(Bios)(v490)¬

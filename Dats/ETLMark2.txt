@@ -1,0 +1,12 @@
+ETLMark2¬ECalculation¬0x790135B3¬914¬.em2¬(MK2Format)[Calce.mk2](1997)(Unknown)¬
+ETLMark2¬SquareRoot¬0x20B02C8D¬1174¬.em2¬(MK2Format)[Sqroot.mk2](19xx)(Unknown)¬
+ETLMark2¬Sum1¬0x72CBF3C4¬1046¬.em2¬(MK2Format)(1997)(Unknown)¬
+ETLMark2¬Sum2¬0x1A2E890B¬1068¬.em2¬(File1of3)(MK2Format)[Sum2.mk2](1997)(Unknown)¬
+ETLMark2¬Sum2¬0xE5D176F5¬1068¬.em2¬(MK2Format)(1997)(Unknown)¬
+ETLMark2¬Sum3¬0x3DC3DD3A¬1381¬.em2¬(File1of3)(MK2Format)[Sum3.mk2](1997)(Unknown)¬
+ETLMark2¬Sum3¬0xC23C22C6¬1381¬.em2¬(MK2Format)(1997)(Unknown)¬
+ETLMark2¬Sum4¬0x6038FE58¬1551¬.em2¬(MK2Format)(1997)(Unknown)¬
+ETLMark2¬Sum5¬0x094251F2¬1543¬.em2¬(MK2Format)(1997)(Unknown)¬
+ETLMark2¬Sum5¬0x68A00FB1¬44¬.em2¬(File2of3)(DATFormat)[Data1.dat](1997)(Unknown)¬
+ETLMark2¬Sum5¬0x724A012D¬40¬.em2¬(DATFormat)(1997)(Unknown)¬
+ETLMark2¬Sum5¬0x975FF04F¬44¬.em2¬(DATFormat)(1997)(Unknown)¬

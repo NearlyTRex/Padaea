@@ -1,0 +1,5 @@
+ETLMark4a¬ECalculation¬0x048C67E4¬2189¬.e4a¬(SeiichiOkoma)(M4AFormat)(1996)¬
+ETLMark4a¬ECalculation¬0x65D66DD5¬189¬.e4a¬(SeiichiOkoma)(OUTFormat)(1996)¬
+ETLMark4a¬SquareRootByNewtonsMethod¬0x3A775B5E¬126¬.e4a¬(SeiichiOkoma)(OUTFormat)(1996)¬
+ETLMark4a¬SquareRootByNewtonsMethod¬0x73EB9898¬1341¬.e4a¬(SeiichiOkoma)(File1of2)(M4AFormat)[Newton.m4a](1996)¬
+ETLMark4a¬SquareRootByNewtonsMethod¬0x8C146768¬1341¬.e4a¬(SeiichiOkoma)(M4AFormat)(1996)¬

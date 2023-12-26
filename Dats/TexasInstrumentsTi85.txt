@@ -1,0 +1,13 @@
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x053325B0¬131072¬.t85¬(TexasInstruments)(19xx)(Version10.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x32AD5C28¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version8.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x6A0A94D0¬131072¬.t85¬(TexasInstruments)(19xx)(Version9.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x706FD864¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version10.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x781FA403¬131072¬.t85¬(TexasInstruments)(19xx)(Version5.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x7F296338¬131072¬.t85¬(TexasInstruments)(19xx)(Version8.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0x889DADC7¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version4.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xA1723A17¬131072¬.t85¬(TexasInstruments)(19xx)(Version4.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xB694A117¬131072¬.t85¬(TexasInstruments)(19xx)(Version6.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xCD13D4F1¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version6.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xCEED0EF5¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version9.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xD723E107¬131072¬.t85¬(TexasInstruments)(19xx)(BadDump)(Version5.0)(Bios)¬
+TexasInstrumentsTi85¬TexasInstrumentsTI85BIOS¬0xDE4C0B1A¬131072¬.t85¬(TexasInstruments)(19xx)(Version3.0A)(Bios)¬

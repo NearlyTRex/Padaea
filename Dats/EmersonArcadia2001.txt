@@ -1,0 +1,91 @@
+EmersonArcadia2001¬3DBowling¬0xF3C08E19¬4096¬.ema¬(UALtd.)(aka3DBowling)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬3DSoccer¬0x4DA68DF8¬8192¬.ema¬(UALtd.)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬AlienInvaders¬0x1F65B21E¬4096¬.ema¬(UALtd.)(akaAlienakaLesEnvahisseursEtrangers)(1983)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬AmericanFootball¬0x22624414¬6144¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬AmericanFootball¬0xB10A08B5¬8192¬.ema¬(UALtd.)(1982)(OverDump)¬
+EmersonArcadia2001¬AstroInvader¬0xDF0BF3FB¬8192¬.ema¬(UALtd.)(1980)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬AutoRace¬0x99AC48CA¬4096¬.ema¬(UALtd.)(198x)¬
+EmersonArcadia2001¬Autorace¬0x28AD5BCF¬8192¬.ema¬(UALtd.)(198x)(Europe)(OverDump)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Baseball¬0x1CF08155¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Basketball¬0xE93938F6¬4096¬.ema¬(UALtd.)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬BlackjackAndPoker¬0x0930CE04¬4096¬.ema¬(UALtd.)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Bowling3d¬0x0C3F71E7¬4096¬.ema¬(A.K.A.3-DBowling)(BINFormat)(1982)¬
+EmersonArcadia2001¬Boxing¬0x9240891B¬4096¬.ema¬(UALtd.)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬BrainQuiz¬0x35A74C08¬4096¬.ema¬(A.K.A.Math-Logic)(BINFormat)(1982)¬
+EmersonArcadia2001¬BrainQuiz¬0xCA58B3F8¬4096¬.ema¬(UALtd.)(akaMathorLogic)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Breakaway¬0x33C348C1¬4096¬.ema¬(UALtd.)(akaLaDesertion)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Capture¬0x5147FC1C¬2048¬.ema¬(Unauthorized)(BINFormat)(1982)¬
+EmersonArcadia2001¬Capture¬0xAEB803E4¬2048¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬CatTrax¬0x02D30B6A¬4096¬.ema¬(BINFormat)(1982)¬
+EmersonArcadia2001¬CatTrax¬0xFD2CF496¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Circus¬0x086EBC8C¬4096¬.ema¬(UALtd.)(akaAcrobatakaClown)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Colours¬0xB191B1DC¬2048¬.ema¬(demo)¬
+EmersonArcadia2001¬Combat¬0x82D049D7¬8192¬.ema¬(UALtd.)(akaCombatZone)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬CrazyClimber¬0x76E773FA¬4096¬.ema¬(UALtd.)(akaCrazyWall)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬CrazyClimber¬0x9997F79C¬3517¬.ema¬(UALtd.)(akaCrazyWall)(1982)(USA)¬
+EmersonArcadia2001¬CrazyGobbler¬0x17B20D11¬2048¬.ema¬(Unauthorized)(BINFormat)(1982)¬
+EmersonArcadia2001¬CrazyGobbler¬0x7F674C85¬4096¬.ema¬(UALtd.)(1982)(OverDump)¬
+EmersonArcadia2001¬CrazyGobbler¬0xE84DF2EF¬2048¬.ema¬(UALtd.)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Dictionary¬0x0739504D¬12288¬.ema¬(UALtd.)(maincart+Germansubcart+Englishsubcart)(198x)¬
+EmersonArcadia2001¬Dictionary¬0x320B0A9D¬4096¬.ema¬(UALtd.)(Englishsubcart)(198x)¬
+EmersonArcadia2001¬Dictionary¬0x6289F607¬12288¬.ema¬(UALtd.)(maincart+Englishsubcart+Germansubcart)(198x)¬
+EmersonArcadia2001¬Dictionary¬0xB2B9B5D8¬4096¬.ema¬(UALtd.)(Germansubcart)(198x)¬
+EmersonArcadia2001¬Dictionary¬0xE0A9DD9A¬4096¬.ema¬(UALtd.)(maincart)(198x)¬
+EmersonArcadia2001¬Doraemon¬0x62C45881¬8192¬.ema¬(Bandai)(1983)¬
+EmersonArcadia2001¬DrSlump¬0x927C375A¬8192¬.ema¬(Bandai)(1983)¬
+EmersonArcadia2001¬Escape¬0x0381458A¬4096¬.ema¬(BINFormat)(1982)¬
+EmersonArcadia2001¬Escape¬0xFC7EBA76¬4096¬.ema¬(UALtd.)(akaEscapeMan)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Frogger¬0xFF013B36¬4096¬.ema¬(AmiganSoftware)(200x)(Version1.3)¬
+EmersonArcadia2001¬FunkyFish¬0x77C19320¬8192¬.ema¬(UALtd.)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Fussball¬0x1B5BE22A¬8192¬.ema¬(UALtd.)(aka3DSoccer)(1983)¬
+EmersonArcadia2001¬Golf¬0x9DA024D3¬8192¬.ema¬(UALtd.)(akaGolfer)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬GrandSlamTennis¬0x740D2057¬8192¬.ema¬(A.K.A.TennisYannickNoah)(BINFormat)(1982)¬
+EmersonArcadia2001¬GrandSlamTennis¬0x8BF2DFA9¬8192¬.ema¬(UALtd.)(akaTennisYannickNoah)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Hobo¬0x1CEC4B21¬8192¬.ema¬(UALtd.)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬HorseRacing¬0x560DAA7F¬4096¬.ema¬(UALtd.)(198x)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬JTron¬0x8286BC61¬2048¬.ema¬(AmiganSoftware)(2003)(PublicDomain)¬
+EmersonArcadia2001¬JTron¬0xAC32E456¬2048¬.ema¬(AmiganSoftware)(2003)(Version1.1)¬
+EmersonArcadia2001¬JumpBugVB¬0xDC0264B8¬8192¬.ema¬(UALtd.)(akaHoppyBug)(1982)¬
+EmersonArcadia2001¬JumpBug¬0x68F9F5AC¬8192¬.ema¬(BINFormat)(1982)¬
+EmersonArcadia2001¬JumpBug¬0x97060A54¬8192¬.ema¬(UALtd.)(akaHoppyBug)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Jungler¬0x204A22AB¬8192¬.ema¬(BINFormat)(1982)¬
+EmersonArcadia2001¬Jungler¬0xDFB5DD55¬8192¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬MissileWar¬0x59EA0F98¬4096¬.ema¬(A.K.A.LeGuerreDesMissiles)(Unauthorised)(BINFormat)(1982)¬
+EmersonArcadia2001¬MissileWar¬0xA615F068¬4096¬.bin¬(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬MobileSoldierGundam¬0x2A3A5C91¬8192¬.ema¬(Bandai)(1983)(BadDump)¬
+EmersonArcadia2001¬MonacoGrandPrix¬0x5E033F9C¬4096¬.ema¬(UALtd.)(akaGrandPrixDeMonaco)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Nibblemen¬0x7832F7AD¬4096¬.ema¬(UALtd.)(akaDevilmantheDotMuncher)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬OceanBattle¬0x449E80CB¬4096¬.ema¬(UALtd.)(akaLeCombatNavalorSeaBattle)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Panzerspiel¬0x6818C8BD¬4096¬.ema¬(akaTankgame)(198x)(Unknown)¬
+EmersonArcadia2001¬Parashooter¬0x4F538848¬4096¬.ema¬(UALtd.)(akaParachute)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Pleiades¬0x4F19FD9B¬8192¬.ema¬(UALtd.)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬R2DTank¬0x5F9D91DD¬4096¬.ema¬(BINFormat)(1983)(Unknown)¬
+EmersonArcadia2001¬R2DTank¬0xA0626E23¬4096¬.ema¬(UALtd.)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬RedClash¬0x06A86F4A¬8192¬.ema¬(UALtd.)(1982)(Europe)(USA)(OverDump)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬RedClash¬0xA06F284B¬4096¬.ema¬(UALtd.)(1982)¬
+EmersonArcadia2001¬RobotKiller¬0x4671B7F7¬4096¬.ema¬(UALtd.)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Route16¬0x7E9679B2¬8192¬.ema¬(BINFormat)(1983)¬
+EmersonArcadia2001¬Route16¬0x8169864E¬8192¬.ema¬(UALtd.)(1983)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Soccer¬0x73F3BA92¬8192¬.ema¬(A.K.A.Football)(BINFormat)(1982)¬
+EmersonArcadia2001¬Soccer¬0x8C0C456E¬8192¬.ema¬(UALtd.)(akaFootball)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬SpaceAttackVB¬0x669632EC¬2048¬.ema¬(UALtd.)(1982)¬
+EmersonArcadia2001¬SpaceAttack¬0x1C86B5D4¬4096¬.ema¬(Unauthorized)(BINFormat)(1982)¬
+EmersonArcadia2001¬SpaceAttack¬0xC91828CB¬2048¬.ema¬(UALtd.)(akaSpaceWar)(198x)(Prototype)¬
+EmersonArcadia2001¬SpaceAttack¬0xE3794A2C¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬SpaceMission¬0x3FF224E5¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬SpaceRaiders¬0x77210531¬4096¬.ema¬(Unauthorized)(BINFormat)(1982)¬
+EmersonArcadia2001¬SpaceRaiders¬0x88DEFACF¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬SpaceSquadronakaLEscadronDeLEspace¬0x355A0BB7¬4096¬.ema¬(unauthorised)(BINFormat)(1982)¬
+EmersonArcadia2001¬SpaceSquadron¬0xCAA5F449¬4096¬.ema¬(UALtd.)(akaLEscadrondeLEspace)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬SpaceVultures¬0x7666A712¬6144¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Spiders¬0x062613A5¬8192¬.ema¬(BINFormat)(1982)¬
+EmersonArcadia2001¬Spiders¬0xBB88DAEA¬4096¬.ema¬(UALtd.)(1982)¬
+EmersonArcadia2001¬Spiders¬0xF9D9EC5B¬8192¬.ema¬(UALtd.)(1982)(Europe)(USA)(OverDump)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬StarChess¬0x7C191BF5¬4096¬.ema¬(A.K.A.EchecEtilesOrSpaceChessOrVideoChess)(BINFormat)(1982)¬
+EmersonArcadia2001¬StarChess¬0x83E6E40B¬4096¬.ema¬(UALtd.)(a.k.a.EchecEtiles,SpaceChessorVideoChess)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬SuperDimensionFortressMacross¬0x4C885AF2¬8192¬.ema¬(Bandai)(1983)¬
+EmersonArcadia2001¬SuperGobbler¬0x08D8B186¬4096¬.ema¬(UALtd.)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬TanksALot¬0x0076422E¬4096¬.ema¬(UALtd.)(1982)(Europe)(USA)(BINFormat)(USA, Europe)¬
+EmersonArcadia2001¬Tetris¬0x0F069C23¬3858¬.ema¬(Trauner,Peter)(2003)(PublicDomain)¬
+EmersonArcadia2001¬TheEnd¬0xE66F362D¬4096¬.ema¬(UALtd.)(akaSpacePirates)(1982)(Europe)(BINFormat)(Europe)¬
+EmersonArcadia2001¬Turtles¬0x306E39C1¬8192¬.ema¬(UALtd.)(akaTurpin)(1982)(Europe)(BINFormat)(Europe)¬

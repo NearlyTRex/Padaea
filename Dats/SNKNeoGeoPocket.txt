@@ -1,0 +1,46 @@
+SNKNeoGeoPocket¬BarbarianInvaders¬0x58C28B8F¬8470¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬BaseballStars¬0x4781AE84¬1048576¬.ngp¬(Europe)(Japan)(MultiLanguage02)(NGPFormat)(Japan, Europe)(En,Ja)¬
+SNKNeoGeoPocket¬BitmapDemo¬0x63CA7F9C¬3559¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬BlocksbyIvanMackintosh¬0x20262889¬32768¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬DiamondRunbyIvanMackintosh¬0x683A7030¬32768¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬DokodemoMahjong¬0x78C21B5E¬524288¬.ngp¬(Japan)(NGPFormat)(Japan)¬
+SNKNeoGeoPocket¬Dynamate¬0x09ECFCC8¬43289¬.ngp¬(PublicDomain)(Version1.0HWbyThor)¬
+SNKNeoGeoPocket¬Dynamate¬0x7927E462¬44261¬.ngp¬(PublicDomain)(Version1.1byThor)¬
+SNKNeoGeoPocket¬FlavorsMultipac16MB121301¬0x51CD43C7¬2097152¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬FlavorsNGPCMultiROMMenu¬0x231C9942¬16384¬.ngp¬(PublicDomain)(Version2.0BETA)¬
+SNKNeoGeoPocket¬FlavorsNGPCMultiROMMenu¬0x5C5E23B3¬1572864¬.ngp¬(PublicDomain)(Version1.0)¬
+SNKNeoGeoPocket¬GUSROB¬0x1D632452¬8361¬.ngp¬¬
+SNKNeoGeoPocket¬HICOLORDemoNEOPOPbyThor¬0x468B9E29¬114494¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬HICOLORDemoREALbyThor¬0x1C1CA267¬114341¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬KingOfFightersR1¬0x4453E97D¬2097152¬.ngp¬(SNK)(1998)(Alternate)¬
+SNKNeoGeoPocket¬KingOfFightersR1¬0xD00EC8E1¬2097152¬.ngp¬(SNK)(1998)(Alternate02)¬
+SNKNeoGeoPocket¬KingOfFightersR1¬0xDCEB7E11¬2097152¬.ngp¬(Europe)(Japan)(MultiLanguage02)(NGPFormat)(Japan, Europe)(En,Ja)¬
+SNKNeoGeoPocket¬KingofFightersR1¬0x231481EF¬2097152¬.ngp¬[M](Europe)(Japan)(USA)(Verified)¬
+SNKNeoGeoPocket¬KingofFightersR1¬0x2FF1371F¬2097152¬.ngp¬[M](Europe)(Japan)(USA)(Alternate02)(Verified)¬
+SNKNeoGeoPocket¬MUsicdemo1byIvanMackintosh¬0x46930199¬131072¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬MasterOfSyougi¬0x17903FCD¬524287¬.ngp¬(ADK)(1998)(Japan)(BadDump)¬
+SNKNeoGeoPocket¬MasterOfSyougi¬0x1AC22E32¬524288¬.ngp¬(ADK)(1998)(Japan)(BadDump02)¬
+SNKNeoGeoPocket¬MasterofSyougi¬0x0CB2F365¬524288¬.ngp¬[M](Japan)(Verified)¬
+SNKNeoGeoPocket¬MazeDemo¬0x4367B498¬32768¬.ngp¬(PublicDomain)(Version1.05byJeffSiebold)¬
+SNKNeoGeoPocket¬MelonChanNoSeichouNikki¬0x4939F933¬1048576¬.ngp¬(ADK)(1998)(Japan)¬
+SNKNeoGeoPocket¬MelonchanNoSeichouNikki¬0xCB42CFA4¬1048576¬.ngp¬(NGPFormat)(Japan)¬
+SNKNeoGeoPocket¬MetalSlug1stMission¬0x3D3A434C¬2097152¬.ngp¬[T-Chinese](Europe)(Japan)(USA)¬
+SNKNeoGeoPocket¬MoviePlayerbyThor¬0x7B45D8A0¬1985809¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬NeoCherryMasterRealCasinoSeries¬0x5C067579¬1048576¬.ngp¬(NGPFormat)(Japan, Europe)(En,Ja)(Dyna)(1998)¬
+SNKNeoGeoPocket¬NeoGeoCup98¬0x33ADD5BD¬1048576¬.ngp¬(Europe)(Japan)(MultiLanguage02)(NGPFormat)(Japan, Europe)(En,Ja)¬
+SNKNeoGeoPocket¬NeoGeoCup98¬0x751D181C¬1048576¬.ngp¬[M](Europe)(Japan)(USA)(Hack01)¬
+SNKNeoGeoPocket¬NeoGeoCup98¬0x8AE2E7E4¬1048576¬.ngp¬(SNK)(1998)(Hack)¬
+SNKNeoGeoPocket¬PocketRace¬0x0CC0F76F¬56625¬.ngp¬(PublicDomain)(Version0.02pre-alphabyThor)¬
+SNKNeoGeoPocket¬PocketRace¬0x6B472111¬56947¬.ngp¬(PublicDomain)(Version0.03pre-alphabyThor)¬
+SNKNeoGeoPocket¬PocketTennisPocketSportsSeries¬0x4B1EED05¬524288¬.ngp¬(Yumekobo)(1998)(Alternate)¬
+SNKNeoGeoPocket¬PocketTennisPocketSportsSeries¬0x89410850¬524288¬.ngp¬(Europe)(Japan)(MultiLanguage02)(NGPFormat)(Japan, Europe)(En,Ja)¬
+SNKNeoGeoPocket¬PocketTennis¬0x76BEF7B0¬524288¬.ngp¬[M](Europe)(Japan)(USA)(Verified)¬
+SNKNeoGeoPocket¬PuzzleGems¬0x10EFBD97¬39798¬.ngp¬(PublicDomain)(Version1.1byThor)¬
+SNKNeoGeoPocket¬RenketsuPuzzleTsunagetePon¬0x37E79AFC¬524288¬.ngp¬(Japan)(NGPFormat)(Japan)¬
+SNKNeoGeoPocket¬SFXforNGPCExamplebyIvanMackintosh¬0x7CE87CB4¬32768¬.ngp¬(PublicDomain)¬
+SNKNeoGeoPocket¬SNKNeoGeoPocket¬0x6232DF8D¬65536¬.ngp¬(NGPFormat)(BIOS)(Japan, Europe)¬
+SNKNeoGeoPocket¬SamuraiShodownPocketFightingSeries¬0x32E4696A¬2097152¬.ngp¬(Europe)(Japan)(MultiLanguage02)(NGPFormat)(Japan, Europe)(En,Ja)¬
+SNKNeoGeoPocket¬ShougiNoTatsujin¬0xF34D0C9B¬524288¬.ngp¬(Japan)(NGPFormat)(Japan)¬
+SNKNeoGeoPocket¬ShufflepuckCafe¬0x04E518ED¬524288¬.ngp¬(PublicDomain)(Beta02)¬
+SNKNeoGeoPocket¬Sodchess¬0x13E44AB7¬442759¬.ngp¬(PublicDomain)(Version1.0.2byThor)¬
+SNKNeoGeoPocket¬WAVPlayerSample240byThor¬0x0ADD3976¬1982819¬.ngp¬(PublicDomain)¬

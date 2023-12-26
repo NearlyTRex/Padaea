@@ -1,0 +1,17 @@
+SonyPlayStation1¬SonyPlayStation¬0x171BDCEC¬524288¬.ps1¬(SCPH-101)(Sony)(2000)(USA)(Version4.5)(PSone)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x1E26792F¬524288¬.ps1¬(SCPH-1002-DTLH-3002)(Sony)(1995)(Europe)(Version2.2)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x24FC7E17¬524288¬.ps1¬(SCPH-5000)(Sony)(1995)(Japan)(Version2.2)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x318178BF¬524288¬.ps1¬(SCPH-7502)(Sony)(1997)(Europe)(Version4.1)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x3539DEF6¬524288¬.ps1¬(SCPH-3000)(Sony)(1995)(Japan)(Version1.1)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x37157331¬524288¬.ps1¬(SCPH-1001-DTLH-3000)(Sony)(1995)(USA)(Version2.2)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x3B601FC8¬524288¬.ps1¬(SCPH-1000)(Sony)(1994)(Japan)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x4D9E7C86¬524288¬.ps1¬(SCPH-5502-SCPH-5552)(Sony)(1997)(Europe)(BadDump)(Version3.0)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x502224B6¬524288¬.ps1¬(SCPH-7001)(Sony)(1997)(USA)(Version4.1)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x826AC185¬526083¬.ps1¬(SCPH-5000)(Sony)(1995)(Japan)(Hack)(Version2.2)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x8C93A399¬524288¬.ps1¬(SCPH-5000)(Sony)(1995)(Japan)(BadDump)(Version2.2)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x8D8CB7E4¬524288¬.ps1¬(SCPH-7003)(Sony)(1996)(USA)(Version3.0)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0x9BB87C4B¬524288¬.ps1¬(SCPH-1002)(Sony)(1995)(Europe)(Version2.0)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0xBC190209¬524288¬.ps1¬(SCPH-3500)(Sony)(1995)(Japan)(Version2.1)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0xD786F0B9¬524288¬.ps1¬(SCPH-5502-SCPH-5552)(Sony)(1997)(Europe)(Version3.0)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0xEC541CD0¬524288¬.ps1¬(SCPH-7000)(Sony)(1997)(Japan)(Version4.0)(Bios)¬
+SonyPlayStation1¬SonyPlayStation¬0xFF3EEB8C¬524288¬.ps1¬(SCPH-5500)(Sony)(1996)(Japan)(Version3.0)(Bios)¬

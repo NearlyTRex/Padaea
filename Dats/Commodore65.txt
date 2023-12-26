@@ -1,0 +1,7 @@
+Commodore65¬IFFDemo¬0x5F102D86¬711¬.c65¬(PRGFormat)(19xx)(Unknown)¬
+Commodore65¬IFFDemo¬0xA0EFD27A¬711¬.c65¬(PRGFormat)(19xx)(Unknown)¬
+Commodore65¬Romsave¬0x15EA25A0¬2049¬.c65¬(PRGFormat)(19xx)(Unknown)(Version2.1)¬
+Commodore65¬TurboDisk65¬0x09F83817¬2664¬.c65¬(PRGFormat)(19xx)(Unknown)(Version2)¬
+Commodore65¬TurboDisk65¬0x13735138¬2317¬.c65¬(PRGFormat)(19xx)(Unknown)(Version3)¬
+Commodore65¬TurboDisk65¬0xEC8CAEC8¬2317¬.c65¬(PRGFormat)(19xx)(Unknown)(Version03)¬
+Commodore65¬TurboDisk65¬0xF607C7E9¬2664¬.c65¬(PRGFormat)(19xx)(Unknown)(Version02)¬

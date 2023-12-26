@@ -1,0 +1,11 @@
+ETLMark4¬ECalculation¬0x0DC4FFDF¬692¬.em4¬(SeiichiOkoma)(OUTFormat)(1996)¬
+ETLMark4¬ECalculation¬0x6782DD7C¬2993¬.em4¬(SeiichiOkoma)(MK4Format)(1996)¬
+ETLMark4¬FoolishSort¬0x411AA65F¬183¬.em4¬(SeiichiOkoma)(OUTFormat)(1995)¬
+ETLMark4¬FoolishSort¬0x7ACFDC8B¬2301¬.em4¬(SeiichiOkoma)(File1of2)(MK4Format)[Sort.mk4](1995)¬
+ETLMark4¬FoolishSort¬0x85302375¬2301¬.em4¬(SeiichiOkoma)(MK4Format)(1995)¬
+ETLMark4¬InitialOrder¬0x35E4D11E¬691¬.em4¬(MK4Format)[Mk4init.mk4](19xx)(Unknown)¬
+ETLMark4¬InitialOrder¬0xCA1B2EE2¬691¬.em4¬(Mk4init.mk4)(MK4Format)(19xx)(Unknown)¬
+ETLMark4¬PrimeNumberTable¬0x0AF13A0A¬1720¬.em4¬(SeiichiOkoma)(File1of2)(MK4Format)[Eratos.mk4](1995)¬
+ETLMark4¬PrimeNumberTable¬0x0CDB76D0¬416¬.em4¬(SeiichiOkoma)(File2of2)(OUTFormat)[Eratos.out](1995)¬
+ETLMark4¬PrimeNumberTable¬0xF3248930¬416¬.em4¬(SeiichiOkoma)(OUTFormat)(1995)¬
+ETLMark4¬PrimeNumberTable¬0xF50EC5F6¬1720¬.em4¬(SeiichiOkoma)(MK4Format)(1995)¬

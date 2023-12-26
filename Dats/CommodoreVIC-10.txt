@@ -1,0 +1,5 @@
+CommodoreVIC-10¬Clowns¬0x7A55F7F5¬8192¬.v10¬(E0Format)(19xx)(Unknown)¬
+CommodoreVIC-10¬Clowns¬0x85AA080B¬8192¬.v10¬(E0Format)(19xx)(Unknown)¬
+CommodoreVIC-10¬OmegaRace¬0x1521F7CF¬8192¬.v10¬(E0Format)(19xx)(Unknown)¬
+CommodoreVIC-10¬OmegaRace¬0xEADE0831¬8192¬.v10¬(E0Format)(19xx)(Unknown)¬
+CommodoreVIC-10¬RadarRatRace¬0x1F7291F5¬8192¬.v10¬(E0Format)(19xx)(Unknown)¬

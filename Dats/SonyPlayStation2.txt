@@ -1,0 +1,9 @@
+SonyPlayStation2¬SonyPlayStation2¬0x0DCCE9D7¬524288¬.ps2¬(SCPH-18000)(Sony)(2000)(Japan)(Version5.0Build01.20)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x1F2A283C¬4194304¬.ps2¬(SCPH-39004)(Sony)(2002)(USA)(Version5.0Build01.60)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x2F314730¬4194304¬.ps2¬(SCPH-70000)(Sony)(2004)(Japan)(Version5.0Build02.00)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x6F8E3C29¬4194304¬.ps2¬(SCPH-70004)(Sony)(2004)(Europe)(Version5.0Build02.00)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x7B08C33B¬4194304¬.ps2¬(SCPH-30003)(Sony)(2000)(Europe)(Version5.0Build01.20)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x92AA71A2¬4194304¬.ps2¬(SCPH-70008)(Sony)(2004)(Europe)(Version5.0Build02.00)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0x9386A740¬4194304¬.ps2¬(SCPH-30004R)(Sony)(2001)(Europe)(Version5.0Build01.60)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0xA19E0BF5¬4194304¬.ps2¬(SCPH-39001)(Sony)(2002)(USA)(Version5.0Build01.60)(Bios)¬
+SonyPlayStation2¬SonyPlayStation2¬0xB7EF81A9¬4194304¬.ps2¬(SCPH-10000)(Sony)(2000)(Japan)(Version5.0Build01.00)(Bios)¬

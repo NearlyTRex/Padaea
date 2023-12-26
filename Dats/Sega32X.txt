@@ -1,0 +1,103 @@
+Sega32X¬32XGame¬0x03F9F674¬4196¬.32x¬¬
+Sega32X¬32XSampleProgramPWMSoundDemo¬0x542AD12E¬524288¬.32x¬(32XFormat)(USA)(SDK Build)(Sega)(1994)(USA)¬
+Sega32X¬32X¬0x5C12EAE8¬256¬.32x¬(32XFormat)(BIOS)(USA)(M68000)(USA)(Bios)¬
+Sega32X¬32X¬0xBFDA1FE5¬1024¬.32x¬(32XFormat)(BIOS)(USA)(USA)(Bios)(SH-2Slave)¬
+Sega32X¬32X¬0xDD9C46B8¬2048¬.32x¬(32XFormat)(BIOS)(USA)(SH-2Master)(USA)(Bios)¬
+Sega32X¬36GreatHolesStarringFredCouples¬0x2C2F5D02¬3145728¬.32x¬(Japan)(USA)(Verified)¬
+Sega32X¬36GreatHolesStarringFredCouples¬0x72E343C8¬262144¬.32x¬(Europe)(BadDump01)¬
+Sega32X¬AfterBurnerComplete¬0x029106F5¬2097152¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬AfterBurnerComplete¬0x204044C4¬2097152¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬AmazingSpiderManWebOfFire¬0x29DCE257¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬BCRacers¬0x6C93C2D9¬3145728¬.32x¬(France)(Verified)¬
+Sega32X¬BCRacers¬0x936C3D27¬3145728¬.32x¬(32XFormat)(USA)(USA)(BadChecksum)¬
+Sega32X¬Blackthorne¬0x2E59F5B9¬3145728¬.32x¬(Brazil)(USA)(Verified)¬
+Sega32X¬Blackthorne¬0xD1A60A47¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬BrutalUnleashedAboveTheClaw¬0x7A72C939¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬CosmicCarnage~CyberBrawl¬0x60C0243E¬3145728¬.32x¬(Australia)(Verified)¬
+Sega32X¬CosmicCarnage~CyberBrawl¬0x7C7BE6A2¬3145728¬.32x¬(Japan)(USA)(32XFormat)(Japan, USA)¬
+Sega32X¬CosmicCarnage~CyberBrawl¬0x9F3FDBC2¬3145728¬.32x¬(Europe)(32XFormat)(Europe)¬
+Sega32X¬Darxide¬0x22D7C906¬2097152¬.32x¬(32XFormat)(Europe)(En,Fr,De,Es)(Europe)(MultiLanguage04)¬
+Sega32X¬Doom¬0x208332FD¬3145728¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬Doom¬0x53734E3A¬3145728¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬ECCOTheDolphin¬0xB06178DF¬3145728¬.32x¬(32XFormat)(Japan, USA)(Developer Cart)(CinePakDemo)(Sega)(1994)¬
+Sega32X¬EccotheDolphin¬0x4F9E8721¬3145728¬.32x¬(CinePakDemo)(Japan)(USA)¬
+Sega32X¬Egypt32XDemo¬0x361EE429¬141508¬.32x¬(PublicDomain)¬
+Sega32X¬FIFAInternationalSoccer96¬0x04EB5838¬3145728¬.32x¬(Europe)(Japan)(USA)(Verified)¬
+Sega32X¬FIFAInternationalSoccer96¬0xFB14A7C8¬3145728¬.32x¬(Europe)(BadChecksum)(MultiLanguage06)(32XFormat)(Europe)(En,Fr,De,Es,It,Sv)¬
+Sega32X¬GolfMagazine36GreatHolesStarringFredCouples¬0x6EF99202¬3145728¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬GolfMagazine36GreatHolesStarringFredCouples¬0xD3D0A2FE¬3145728¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬HotchickdrawnwithouttheSH2s¬0x2A7E6EF3¬77788¬.32x¬¬
+Sega32X¬HotchickinVDPmode2¬0x340D0782¬77144¬.32x¬¬
+Sega32X¬HotchickinVDPmode3¬0x0D8A7D9A¬77144¬.32x¬¬
+Sega32X¬Hotchickinhighquality15bpp¬0x6C70B1E3¬148836¬.32x¬¬
+Sega32X¬HotchickwithGenesisVDPoverlay¬0x7E8489AA¬77144¬.32x¬¬
+Sega32X¬Hotchick¬0x25636C37¬74588¬.32x¬¬
+Sega32X¬KnucklesChaotix¬0x2768879D¬3145728¬.32x¬(Hack01)¬
+Sega32X¬KnucklesChaotix¬0x2F4F47BE¬3145728¬.32x¬(Verified)¬
+Sega32X¬KnucklesChaotix¬0x41D63572¬3145728¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬KnucklesChaotix¬0x78042429¬3145728¬.32x¬(Australia)(Hack01)¬
+Sega32X¬KnucklesChaotix¬0x87FBDBD7¬3145728¬.32x¬(Sega)(1995)(Europe)(Hack)¬
+Sega32X¬KnucklesChaotix¬0xD0B0B842¬3145728¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬KnucklesChaotix¬0xD8977863¬3145728¬.32x¬(Sega)(1995)(Japan)(USA)(Hack)¬
+Sega32X¬Kolibri¬0x20CA53EF¬3145728¬.32x¬(32XFormat)(USA, Europe)(Europe)(USA)¬
+Sega32X¬MarsCheckProgram¬0x8F7260FB¬4194304¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Set 1)(Sega)(1994)(Version1.0)(SH2SystemRegisterRWCheck)¬
+Sega32X¬MarsCheckProgram¬0xA2DA35FD¬65536¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Set 2)(Sega)(1994)(Version1.0)¬
+Sega32X¬MarsSampleProgramGnuSierra¬0x5F0DF42C¬655360¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Sega)(1994)¬
+Sega32X¬MarsSampleProgramPharaoh¬0x969C80D4¬262144¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Sega)(1994)¬
+Sega32X¬MarsSampleProgramRunlengthModeTest¬0xD630E343¬262144¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Sega)(1994)¬
+Sega32X¬MarsSampleProgramTextureTest¬0x9B2AD63F¬24576¬.32x¬(32XFormat)(Japan, USA)(SDK Build)(Sega)(1994)¬
+Sega32X¬MetalHead¬0x10AAAC01¬3145728¬.32x¬(Verified)¬
+Sega32X¬MetalHead¬0x2AF60167¬3145728¬.32x¬(Australia)(Hack01)¬
+Sega32X¬MetalHead¬0x40647C8A¬3145728¬.32x¬(Australia)(Verified)¬
+Sega32X¬MetalHead¬0xBF9B8376¬3145728¬.32x¬(32XFormat)(Europe)(En,Ja)(Europe)(MultiLanguage02)¬
+Sega32X¬MetalHead¬0xEF5553FF¬3145728¬.32x¬(32XFormat)(Japan, USA)(En,Ja)(Japan)(USA)(MultiLanguage02)¬
+Sega32X¬MortalKombatII¬0x211085CE¬4194304¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬MortalKombatII¬0x773C0A85¬4194304¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬MotocrossChampionship¬0x51CC9B17¬2097152¬.32x¬(Europe)(Verified)¬
+Sega32X¬MotocrossChampionship¬0x5DE3A89F¬2097152¬.32x¬(Japan)(USA)(Verified)¬
+Sega32X¬MotocrossChampionship¬0xA21C5761¬2097152¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬MotocrossChampionship¬0xAE3364E9¬2097152¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬NBAJamTournamentEdition¬0x6B7994AA¬4194304¬.32x¬(32XFormat)(World)(Europe)(Japan)(USA)¬
+Sega32X¬NFLQuarterbackClub¬0x0BC7018D¬3145728¬.32x¬(32XFormat)(World)(Europe)(Japan)(USA)¬
+Sega32X¬Parasquad~ZaxxonsMotherbase2000¬0x447D44BE¬2097152¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬PitfallTheMayanAdventure¬0x06ED90EB¬3145728¬.32x¬(Brazil)(USA)(Verified)¬
+Sega32X¬PitfallTheMayanAdventure¬0xF9126F15¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬PrimalRage¬0x1875B2D8¬4194304¬.32x¬(France)(Verified)¬
+Sega32X¬PrimalRage¬0xE78A4D28¬4194304¬.32x¬(32XFormat)(USA, Europe)(Europe)(USA)¬
+Sega32X¬RBIBaseball95¬0x0086A024¬2097152¬.32x¬(Brazil)(USA)(Verified)¬
+Sega32X¬RBIBaseball95¬0xFF795FDC¬2097152¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬RomanceoftheThreeKingdoms¬0x1B2189DB¬4194304¬.32x¬(Japan)(Korea)(Verified)¬
+Sega32X¬SangokushiIV¬0xE4DE7625¬4194304¬.32x¬(32XFormat)(Japan)(Japan)¬
+Sega32X¬SegaMarsSampleProgramEgypt¬0xC9E11BD7¬141508¬.32x¬(Sega)(1994)(BadDump)¬
+Sega32X¬ShadowSquadron~StellarAssault¬0x60C49E4D¬2097152¬.32x¬(32XFormat)(USA, Europe)(Sega)(1995)(Europe)(USA)¬
+Sega32X¬SpaceHarrier¬0x5CAC3587¬2097152¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬SpaceHarrier¬0x79180677¬2097152¬.32x¬(Japan)(USA)(Verified)¬
+Sega32X¬SpaceHarrier¬0x86E7F989¬2097152¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬StarTrekStarfleetAcademyBridgeSimulator¬0x2268F747¬2097152¬.32x¬(Brazil)(USA)(Verified)¬
+Sega32X¬StarTrekStarfleetAcademyStarshipBridgeSimulator¬0xDD9708B9¬2097152¬.32x¬(USA)(32XFormat)(USA)¬
+Sega32X¬StarWarsArcade¬0x067E780B¬1048576¬.32x¬(Japan)(USA)(BadDump01)¬
+Sega32X¬StarWarsArcade¬0x0B1647BA¬2621440¬.32x¬(Japan)(Verified)¬
+Sega32X¬StarWarsArcade¬0x2F16B44A¬2621440¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬StarWarsArcade¬0x7D17D9A0¬2621440¬.32x¬(Europe)(Verified)¬
+Sega32X¬StarWarsArcade¬0x82E82660¬2621440¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬StarWarsArcade¬0xF4E9B846¬2621440¬.32x¬(32XFormat)(Japan)(Japan)¬
+Sega32X¬StellarAssault¬0xFCE4C8C7¬2097152¬.32x¬(32XFormat)(Japan)¬
+Sega32X¬SwitchingCRAMPallettes¬0x007CD5F2¬2252¬.32x¬¬
+Sega32X¬TMek¬0x66D2C48F¬3145728¬.32x¬(32XFormat)(USA, Europe)(Europe)(USA)¬
+Sega32X¬Tempo¬0x14E5C575¬3145728¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬ToughmanContest¬0x14EAC7A6¬4194304¬.32x¬(32XFormat)(USA, Europe)(Europe)(USA)¬
+Sega32X¬VirtuaFighter¬0x25AEA73C¬4194304¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬VirtuaFighter¬0x4A2169DA¬4194304¬.32x¬(Verified)¬
+Sega32X¬VirtuaFighter¬0x6E626839¬4194304¬.32x¬(Sega)(1995)(Europe)(BadDump)¬
+Sega32X¬VirtuaFighter¬0xB5DE9626¬4194304¬.32x¬(32XFormat)(Japan, USA)(Japan)(USA)¬
+Sega32X¬VirtuaHamster¬0xCD54AC37¬2097152¬.32x¬(32XFormat)(USA)(Proto)¬
+Sega32X¬VirtuaRacingDeluxe¬0x0908E888¬3145728¬.32x¬(32XFormat)(Japan)(Japan)¬
+Sega32X¬VirtuaRacingDeluxe¬0x26522E04¬3162112¬.32x¬(Sega)(1994)(Europe)(BadDump)¬
+Sega32X¬VirtuaRacingDeluxe¬0x27F14B5F¬3145728¬.32x¬(32XFormat)(Europe)(Europe)¬
+Sega32X¬VirtuaRacingDeluxe¬0x6364B44C¬3145728¬.32x¬(Sega)(1994)(Europe)(Hack)¬
+Sega32X¬VirtuaRacingDeluxe¬0x7896B62E¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬WWFRaw¬0x714832D4¬4194304¬.32x¬(France)(Verified)¬
+Sega32X¬WWFRaw¬0x8EB7CD2C¬4194304¬.32x¬(32XFormat)(World)(Europe)(Japan)(USA)¬
+Sega32X¬WWFWrestleManiaTheArcadeGame¬0x61833503¬4194304¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬WorldSeriesBaseballStarringDeionSanders¬0x6DE1BC75¬3145728¬.32x¬(32XFormat)(USA)(USA)¬
+Sega32X¬XMen¬0xD61FEBC0¬4194304¬.32x¬(32XFormat)(USA)(Proto)¬

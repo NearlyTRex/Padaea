@@ -1,0 +1,11 @@
+KeioUniversityK-1¬ECalculation¬0x2C2F4B97¬179¬.ku1¬(SeiichiOkoma)(File2of2)(OUTFormat)[E.out](1996)¬
+KeioUniversityK-1¬ECalculation¬0x5B9404EB¬2441¬.ku1¬(SeiichiOkoma)(K1Format)(1996)¬
+KeioUniversityK-1¬ECalculation¬0xD3D0B469¬179¬.ku1¬(SeiichiOkoma)(OUTFormat)(1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo2OfK1¬0x01D0027B¬294¬.ku1¬(SeiichiOkoma)(File2of2)(Fix)(OUTFormat)[Sqrtfix.out](1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo2OfK1¬0x027A679F¬1391¬.ku1¬(SeiichiOkoma)(File1of2)(Fix)(K1Format)[Sqrtfix.k1](1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo2OfK1¬0xFD859861¬1391¬.ku1¬(SeiichiOkoma)(K1Format)(1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo2OfK1¬0xFE2FFD85¬294¬.ku1¬(SeiichiOkoma)(OUTFormat)(1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo3OfK1¬0x8EE5E6F7¬2061¬.ku1¬(SeiichiOkoma)(K1Format)(1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodASampleProgramNo3OfK1¬0xFA35C380¬270¬.ku1¬(SeiichiOkoma)(OUTFormat)(1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodSampleProgramNo3OfK1¬0x05CA3C80¬270¬.ku1¬(SeiichiOkoma)(File1of2)(OUTFormat)[Sqrfloat.out](1996)¬
+KeioUniversityK-1¬SquareRootByNewtonMethodSampleProgramNo3OfK1¬0x711A1909¬2061¬.ku1¬(SeiichiOkoma)(File2of2)(K1Format)[Sqrfloat.k1](1996)¬

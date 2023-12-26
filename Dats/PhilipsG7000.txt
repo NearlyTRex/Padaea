@@ -1,0 +1,186 @@
+PhilipsG7000¬4En1Ligne¬0x9B5E9356¬4096¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬4In1Row¬0x3BFEF56B¬4096¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬60PLUSTransamericanRally¬0xE246A812¬8192¬.pg7¬(Philips)(1984)¬
+PhilipsG7000¬AKeyboardCreations¬0x7A203229¬2048¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(Verified)¬
+PhilipsG7000¬ALabyrinthGameAndSupermind¬0xD158EEBA¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1981)(Europe)¬
+PhilipsG7000¬AlienInvadersPlus¬0x71AE8533¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬AlpineSkiing¬0x4663C4B6¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬AmericanFootball¬0x06F7B55D¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(Europe)(USA)(Verified)¬
+PhilipsG7000¬Amok¬0x2247405E¬4096¬.pg7¬(19xx)(Europe)(PublicDomain)(USA)¬
+PhilipsG7000¬ArmoredEncounterAndSubChase¬0x5AE57A8C¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬Atlantis¬0x58CBB2E1¬4096¬.pg7¬(UEB)(Imagic)(BINFormat)(1983)(Verified)¬
+PhilipsG7000¬Atlantis¬0xA7344D1F¬4096¬.bin¬(BINFormat)(USA, Europe)(Imagic)(1983)¬
+PhilipsG7000¬AttackOfTheTimelord¬0x03A580F8¬4096¬.pg7¬(Magnavox)(51)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬AttackOfTheTimelord¬0xFC5A7F08¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬Baseball¬0x4F88B719¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(Europe)(USA)(Verified)¬
+PhilipsG7000¬Baseball¬0xB07748E7¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬BillardElectrique¬0x54BF4750¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬BilliardAmericain¬0xA674EA27¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Blackjack¬0x6381E402¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Blobbers¬0x9D72D4E9¬8192¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬BlockoutAndBreakdown¬0xFB83171E¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1981)(Europe)(USA)¬
+PhilipsG7000¬BlockoutBreakdown¬0x047CE8E2¬2048¬.pg7¬(Magnavox)(BINFormat)(1981)(Europe)(USA)(Verified)¬
+PhilipsG7000¬BombardeioSubmarinoAndTiroAoAlvo¬0xB1109A09¬2048¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬BowlingAndBasketball¬0x084EE035¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬BuracoNegro¬0x25874B04¬8192¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬CasinoSlotMachine¬0x44918ECB¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(Europe)(USA)(Verified)¬
+PhilipsG7000¬CasinoSlotMachine¬0xBB6E7135¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬CatchTheBallAndNoughtsAndCrosses¬0xA57E1724¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬CatchtheBallNoughts&Crosses¬0x5A81E8DC¬2048¬.pg7¬(Philips)(BINFormat)(1980)(Europe)(Verified)¬
+PhilipsG7000¬ChatEtSouris¬0x61A350E6¬4096¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Chess¬0x77066338¬2048¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬ChineseLogic¬0x11EDF25B¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬ClayPigeon¬0x02E86093¬4096¬.pg7¬(PhilipsBrasil)(BINFormat)(19xx)(NonUSA)¬
+PhilipsG7000¬ClayPigeon¬0xFD179F6D¬4096¬.bin¬(BINFormat)(Brazil)(PhilipsBrasil)(19xx)(Brazil)¬
+PhilipsG7000¬ComandoNoturno¬0x26517E77¬8192¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬ComputerGolf¬0x0F870806¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬ComputerIntro¬0x4A6F30EC¬2048¬.pg7¬(Philips)(BINFormat)(1980)(Europe)(Verified)¬
+PhilipsG7000¬ComputerIntro¬0x6A105675¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(USA)¬
+PhilipsG7000¬ComputerIntro¬0x95EFA98B¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬ComputerProgrammer¬0xB590CF14¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬ConflitCosmique¬0x2F6E4B46¬2048¬.bin¬(BINFormat)(Canada)¬
+PhilipsG7000¬ConquestOfTheWorld¬0x503F6C03¬4096¬.pg7¬(Magnavox)(BINFormat)(1982)(Europe)(USA)¬
+PhilipsG7000¬ConquestOfTheWorld¬0xAFC093FD¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1982)(Europe)(USA)¬
+PhilipsG7000¬CosmicConflict¬0x0B3DF8A2¬2048¬.pg7¬(Philips)(BINFormat)(1980)(Europe)(Alternate)(Verified)¬
+PhilipsG7000¬CosmicConflict¬0x2A5F0B2B¬2048¬.bin¬(BINFormat)(Europe)(Alt)(Philips)(1980)(Europe)¬
+PhilipsG7000¬CosmicConflict¬0x3FB61862¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(USA)¬
+PhilipsG7000¬CosmicConflict¬0xC049E79E¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬CosmicConflict¬0xF4C2075E¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)(Alternate)¬
+PhilipsG7000¬CourseDeVoituresAndAutodromeAndCryptogramme¬0x3B24E1EE¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬DemonAttack¬0x6403C1FF¬4096¬.pg7¬(UEB)(Imagic)(BINFormat)(1983)(Verified)¬
+PhilipsG7000¬DemonAttack¬0x9BFC3E01¬4096¬.bin¬(BINFormat)(USA, Europe)(Imagic)(1983)¬
+PhilipsG7000¬DepthChargeAndMarksman¬0x2DCB77F0¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬DesafioChines¬0x838A2D1E¬2048¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬DynastyDirectionalDynasty¬0x23CF52C3¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(USA)¬
+PhilipsG7000¬Dynasty¬0xDC30AD3D¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬ElectronicTableFootball¬0x763921D4¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(Europe)(USA)(Verified)¬
+PhilipsG7000¬ElectronicTableSoccer¬0x89C6DE2C¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬FootballElectroniqueAndHockeyElectronique¬0xF00F9DBA¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Football¬0xF9084AA3¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬FourIn1Row¬0x975AB8DA¬2048¬.pg7¬(Philips)(1982)(Europe)¬
+PhilipsG7000¬Fourin1row¬0x68A54726¬2048¬.pg7¬(Philips)(BINFormat)(1982)(Europe)(BadChecksum)¬
+PhilipsG7000¬FreedomFighters¬0x54736B74¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1982)(Europe)(USA)¬
+PhilipsG7000¬Frogger¬0x2F43B11A¬8192¬.pg7¬(EB)(ParkerBrothers)(BINFormat)(1982)(Verified)¬
+PhilipsG7000¬Frogger¬0xA57D84F3¬8192¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬Frogger¬0xD0BC4EE6¬8192¬.bin¬(BINFormat)(Europe)(ParkerBrothers)(1982)(Brazil)(Europe)¬
+PhilipsG7000¬Golf¬0x14B6CC76¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬GreatWallStreetFortuneHunt¬0x77E3151C¬4096¬.pg7¬(Magnavox)(MasterStrategySeries)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬GreatWallStreetFortuneHunt¬0x881CEAE4¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(MasterStrategySeries)(19xx)(USA)¬
+PhilipsG7000¬GuerreLaser¬0xCA8AB259¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Gunfighter¬0xABE368BF¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬HockeyAndSoccer¬0x39989464¬2048¬.bin¬(BINFormat)(USA, Europe)(Philips)(1981)(Europe)¬
+PhilipsG7000¬Interpol¬0x69D21F8F¬4096¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬InvadersFromHyperspace¬0x528565EF¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(USA)¬
+PhilipsG7000¬InvadersFromHyperspace¬0xAD7A9A11¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬IveGotYourNumber¬0x1C8368E7¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1979)(Europe)(USA)¬
+PhilipsG7000¬JeuDeQuillesAndBasketball¬0xA7E97958¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬JumpingAcrobats¬0x6CEBAB74¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1981)(Europe)¬
+PhilipsG7000¬JumpingAcrobats¬0xE7B26A56¬2048¬.bin¬(BINFormat)(Europe)(Alt)(Philips)(1981)(Europe)(Alternate)¬
+PhilipsG7000¬KCMunchkin¬0x4F73B44C¬4096¬.pg7¬(Magnavox)(BINFormat)(1982)(USA)(Hack)¬
+PhilipsG7000¬KCMunchkin¬0x7108E058¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(1982)(USA)¬
+PhilipsG7000¬KCsCrazyChase¬0x596F6575¬4096¬.pg7¬(Magnavox)(VoiceAdd-on)(BINFormat)(1982)(Europe)(USA)(Verified)¬
+PhilipsG7000¬KCsKrazyChase¬0xA6909A8B¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(VoiceAdd-On)(1982)(Europe)(USA)¬
+PhilipsG7000¬KeyboardCreations¬0x688FAD11¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(19xx)(USA)¬
+PhilipsG7000¬KillerBees¬0x4F699AB2¬8192¬.pg7¬(Magnavox)(VoiceAdd-On)(52)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬KillerBees¬0xB096654E¬8192¬.bin¬(BINFormat)(USA)(Magnavox)(VoiceAdd-On)(19xx)(USA)¬
+PhilipsG7000¬KinderImVerkehr1¬0x9C9DDDF9¬2048¬.bin¬(BINFormat)(Germany)(Philips)(19xx)(Europe)¬
+PhilipsG7000¬LaQueteDesAnneaux¬0xA21DA732¬4096¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬LabyrinthGameaSupermind¬0x2EA71146¬2048¬.pg7¬(Philips)(BINFormat)(1981)(Europe)(Verified)¬
+PhilipsG7000¬LasVegasBlackjack¬0x6F66B1F7¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬LasVegas¬0xA0620082¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬LaserWar¬0x17BE749B¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬LoonyBalloon¬0xCA23F40C¬4096¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬MartianThreat¬0x335481F1¬8192¬.bin¬(BINFormat)(Europe)(Proto)(Alt)¬
+PhilipsG7000¬MartianThreat¬0x39E31BF0¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬MatchmakerAndLogixAndBuzzword¬0xBBF276A0¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(19xx)(USA)¬
+PhilipsG7000¬MatchmakerBuzzwordLogix¬0x440D8960¬2048¬.pg7¬(Magnavox)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬MathAMagic&Echo¬0x23A5055E¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(Europe)(USA)(Verified)¬
+PhilipsG7000¬MathAMagicAndEcho¬0xDC5AFAA2¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬MathematicienAndEcho¬0x0C4E4B0A¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬MissionImpossible¬0x655FDF57¬2048¬.bin¬(BINFormat)(Brazil)(Proto)¬
+PhilipsG7000¬Monkeyshines¬0x01199B0D¬4096¬.pg7¬(Magnavox)(BINFormat)(1982)(Europe)(USA)(Verified)¬
+PhilipsG7000¬Monkeyshines¬0xFEE664F3¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1982)(Europe)(USA)¬
+PhilipsG7000¬Morse¬0x2122012C¬2048¬.bin¬(BINFormat)(Europe)(Philips)(19xx)(Europe)¬
+PhilipsG7000¬Morse¬0x510416B7¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬MousingCat¬0xF390BFEC¬4096¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬Munchkin¬0x4A3E2DC8¬4096¬.bin¬(BINFormat)(Europe)(Philips)(1982)(Europe)¬
+PhilipsG7000¬MurMagiqueLe¬0xD38153F6¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Musician¬0xAFB23F89¬4096¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬NeutronStar¬0xD03EFA86¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬Newscaster¬0x85DFCDD7¬2048¬.bin¬(BINFormat)(Europe)(Philips)(19xx)(Europe)¬
+PhilipsG7000¬Nightfighter¬0x7BE6F1EF¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬Nightmare¬0x313547EB¬8192¬.bin¬(BINFormat)(Europe)¬
+PhilipsG7000¬NimbleNumbersNed¬0x30D07186¬4096¬.pg7¬(Magnavox)(VoiceAdd-On)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬NimbleNumbersNed¬0xCF2F8E7A¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(VoiceAdd-On)(19xx)(USA)¬
+PhilipsG7000¬OMalabaristaAndJogoDaVelha¬0xE39500A6¬2048¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬OSegredoDoFarao¬0x16C574C8¬4096¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬Odyssey2SystemROM¬0x7FE95CEB¬1024¬.pg7¬(BINFormat)¬
+PhilipsG7000¬OutOfThisWorldAndHelicopterRescue¬0x0C2E4811¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(19xx)(USA)¬
+PhilipsG7000¬PLUSKillerBees¬0x2118F4CD¬8192¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(BadChecksum)¬
+PhilipsG7000¬PLUSLooneyBalloon¬0x46CD2A7C¬8192¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(BadChecksum)¬
+PhilipsG7000¬PLUSNorseman¬0x58A3BD08¬8192¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(BadChecksum)¬
+PhilipsG7000¬PLUSPickAxePete¬0x4D004CAD¬8192¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(BadChecksum)¬
+PhilipsG7000¬PLUSRaceSpinOutCryptogram¬0x11C119BE¬8192¬.pg7¬(Philips)(BINFormat)(1980)(Europe)¬
+PhilipsG7000¬PLUSSatelliteAttack¬0x4B8CA195¬8192¬.pg7¬(Philips)(BINFormat)(1981)(Europe)(BadChecksum)¬
+PhilipsG7000¬PLUSTransamericanRally¬0x1DB957EE¬8192¬.pg7¬(Philips)(BINFormat)(1984)(Verified)¬
+PhilipsG7000¬PTBarnumsAcrobats¬0x184D95AA¬2048¬.pg7¬(Philips)(extrakeysonlabel)(BINFormat)(1981)(Europe)(Alternate)(Verified)¬
+PhilipsG7000¬PTBarnumsAcrobats¬0x78B0C95C¬4096¬.pg7¬(Magnavox)(VoiceAdd-On)(BINFormat)(1981)(USA)¬
+PhilipsG7000¬PTBarnumsAcrobats¬0x874F36A4¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(VoiceAdd-On)(1981)(USA)¬
+PhilipsG7000¬Pachinko¬0x239DF97D¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬PairsSpaceRendezvousLogic¬0x5963D36D¬2048¬.pg7¬(Philips)(BINFormat)(1980)(Europe)(Verified)¬
+PhilipsG7000¬PairsSpaceRendezvousLogic¬0xA69C2C93¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬PhilipsC52¬0xA318E8D6¬1024¬.bin¬(BINFormat)(BIOS)(France)¬
+PhilipsG7000¬PhilipsG7000¬0x8016A315¬1024¬.bin¬(BINFormat)(BIOS)(USA, Europe)(19xx)(Unknown)¬
+PhilipsG7000¬PickAxePete¬0x29D7EB5D¬4096¬.pg7¬(Magnavox)(BINFormat)(1982)(Europe)(USA)(Verified)¬
+PhilipsG7000¬PickAxePete¬0xD62814A3¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1982)(Europe)(USA)¬
+PhilipsG7000¬Pinball¬0x6EF2471A¬2048¬.bin¬(BINFormat)(USA)(Proto)¬
+PhilipsG7000¬Playtag¬0xA29F0FD4¬4096¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬PocketBilliards¬0x24D53E2C¬2048¬.bin¬(BINFormat)(USA, Europe)(Philips)(1981)(Europe)¬
+PhilipsG7000¬Popeye¬0x1B188870¬8192¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬Popeye¬0x5216771A¬8192¬.bin¬(BINFormat)(Europe)(ParkerBrothers)(1983)¬
+PhilipsG7000¬PowerLords¬0x3351FEDA¬8192¬.bin¬(BINFormat)(USA)(Alt)(Magnavox)(19xx)(USA)¬
+PhilipsG7000¬PowerLords¬0x40AE062D¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(19xx)(USA)(BadDump)¬
+PhilipsG7000¬PrendreLArgentEtFuir¬0xAD89F799¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬QBert¬0x202F2749¬8192¬.bin¬(BINFormat)(Europe)(ParkerBrothers)(1983)(Brazil)(Europe)¬
+PhilipsG7000¬QuestForTheRings¬0x9451BE1E¬4096¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(MasterStrategySeries)(1982)(Europe)(USA)¬
+PhilipsG7000¬QuestfortheRings¬0x6BAE41E2¬4096¬.pg7¬(Magnavox)(MasterStrategySeries)(BINFormat)(1982)(Europe)(USA)(Verified)¬
+PhilipsG7000¬RedBaron¬0x1EEB88F5¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬RedBaron¬0x5C4F35D3¬8192¬.bin¬(BINFormat)(Europe)(Proto)(Alt)¬
+PhilipsG7000¬RobotCity¬0xEF9E9C3B¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬Samurai¬0x7810BAD5¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬SatelliteAttack¬0x395629E1¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1981)(Europe)¬
+PhilipsG7000¬SecretOfThePharaohs¬0x7394E82C¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬SharkHunter¬0xDF36683F¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬ShowdownIn2100AD¬0x6B7836E0¬2048¬.pg7¬(Magnavox)(BINFormat)(1980)(USA)¬
+PhilipsG7000¬ShowdownIn2100AD¬0x9487C920¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1980)(USA)¬
+PhilipsG7000¬Showdownin2100AD¬0x541C9741¬2048¬.pg7¬(Philips)(BINFormat)(1980)(Europe)(Verified)¬
+PhilipsG7000¬SidTheSpellbinder¬0x1B9F2F16¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(19xx)(USA)¬
+PhilipsG7000¬Skiing¬0xE129490D¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Smithereens¬0x67069924¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(VoiceAdd-On)(1980)(USA)¬
+PhilipsG7000¬SpeedwayAndSpinoutAndCryptologic¬0x4EDA4917¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬SpiderMan¬0x35ACE4E8¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬SpiderMan¬0x3E5F71F3¬8192¬.bin¬(BINFormat)(Europe)(Proto)(Alt)¬
+PhilipsG7000¬StoneSling¬0x44D1A8A5¬2048¬.bin¬(BINFormat)(Europe)(Philips)(1980)(Europe)¬
+PhilipsG7000¬SuperBee¬0x02743352¬4096¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬SuperBee¬0x6A7A2AEF¬4096¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)(Verified)¬
+PhilipsG7000¬SuperBee¬0x9585D511¬4096¬.bin¬(BINFormat)(Europe)(Philips)(19xx)(Europe)¬
+PhilipsG7000¬SuperCobra¬0x6A6C94F9¬8192¬.pg7¬(UEB)(ParkerBrothers)(BINFormat)(1982)(Verified)¬
+PhilipsG7000¬SuperCobra¬0x95936B07¬8192¬.bin¬(BINFormat)(Europe)(ParkerBrothers)(1982)¬
+PhilipsG7000¬SuperCobra¬0xE58AA0AC¬8192¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬TakeTheMoneyAndRun¬0x11FF50AD¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬Thunderball¬0x2C9D1715¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1980)(Europe)(USA)¬
+PhilipsG7000¬Turtles¬0x1C750349¬8192¬.bin¬(BINFormat)(Europe)(Philips)(1983)(Europe)¬
+PhilipsG7000¬Turtles¬0x61BD189A¬8192¬.pg7¬(Magnavox)(BINFormat)(1983)(USA)¬
+PhilipsG7000¬Turtles¬0x9E42E766¬8192¬.bin¬(BINFormat)(USA)(Magnavox)(1983)(USA)¬
+PhilipsG7000¬Tutankham¬0x0B2DEB61¬8192¬.bin¬(BINFormat)(Europe)(Proto)¬
+PhilipsG7000¬Type&Tell¬0x46C94288¬4096¬.pg7¬(Magnavox)(WorksWithVoiceAdd-On)(BINFormat)(19xx)(USA)¬
+PhilipsG7000¬TypeAndTell¬0xB936BD78¬4096¬.bin¬(BINFormat)(USA)(Magnavox)(VoiceAdd-On)(19xx)(USA)¬
+PhilipsG7000¬UFO¬0x2B1E9E19¬2048¬.bin¬(BINFormat)(USA)(Magnavox)(1981)(USA)¬
+PhilipsG7000¬VTrafficGames¬0x63622207¬2048¬.pg7¬(Philips)(BINFormat)(19xx)(Europe)¬
+PhilipsG7000¬Verkehrsspiele1¬0x45E62222¬2048¬.bin¬(BINFormat)(Germany)(CSV)(19xx)(Europe)¬
+PhilipsG7000¬Verkehrsspiele2¬0x69893F7F¬2048¬.bin¬(BINFormat)(Germany)(CSV)(19xx)(Europe)¬
+PhilipsG7000¬VolleyballElectronique¬0x551E38A2¬2048¬.bin¬(BINFormat)(France)¬
+PhilipsG7000¬Volleyball¬0x2C4F6014¬2048¬.pg7¬(Magnavox)(BINFormat)(1981)(Europe)(USA)(Verified)¬
+PhilipsG7000¬Volleyball¬0xD3B09FEC¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1981)(Europe)(USA)¬
+PhilipsG7000¬WallStreet¬0x228842DF¬4096¬.bin¬(BINFormat)(Brazil)¬
+PhilipsG7000¬WarOfNerves¬0x58FA6766¬2048¬.bin¬(BINFormat)(USA, Europe)(Magnavox)(1981)(Europe)(USA)¬

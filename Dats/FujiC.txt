@@ -1,0 +1,7 @@
+FujiC¬Sort¬0x277D0AE4¬3244¬.fjc¬(SeiichiOkoma)(file2of2)[sort.fjc](1995)¬
+FujiC¬Sort¬0x347CEBED¬452¬.fjc¬(SeiichiOkoma)(file1of2)(OUTFormat)[sort.out](1995)¬
+FujiC¬Sort¬0xCB831413¬452¬.fjc¬(SeiichiOkoma)(OUTFormat)(1995)¬
+FujiC¬Sort¬0xD882F51C¬3244¬.fjc¬(SeiichiOkoma)(1995)¬
+FujiC¬SquareRootByNewtonsMethod¬0x0693B632¬667¬.fjc¬(SeiichiOkoma)(OUTFormat)(1995)¬
+FujiC¬SquareRootByNewtonsMethod¬0xF8FEE595¬1631¬.fjc¬(SeiichiOkoma)(1995)¬
+FujiC¬SquarerootbyNewtonsMethod¬0x07011A6B¬1631¬.fjc¬(SeiichiOkoma)(file2of2)[newton.fjc](1995)¬

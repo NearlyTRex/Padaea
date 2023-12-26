@@ -1,0 +1,9 @@
+TeslaPMD-85¬Bombarder¬0x7E5B178E¬2772¬.pmd¬(02BFormat)(19xx)(Unknown)¬
+TeslaPMD-85¬FaraonovaHbroka¬0x307994FC¬7096¬.pmd¬(Kat.MatematikyPFvNitre)(03BFormat)(1988)¬
+TeslaPMD-85¬Horace¬0x44D23AF1¬3292¬.pmd¬¬
+TeslaPMD-85¬Kurca¬0xDC8DB4AA¬18243¬.pmd¬¬
+TeslaPMD-85¬Pampuch&Duch¬0x8552213A¬4691¬.pmd¬(D.Blasko-Cybd)(1986)¬
+TeslaPMD-85¬Piskvorky¬0x9EA553C2¬10132¬.pmd¬(K.Hsuhadja)(1987)¬
+TeslaPMD-85¬TavaHRASNahodouAPrirodou¬0x3346F7A1¬6841¬.pmd¬(Kat.MatematikyPFvNitre)(05BFormat)(1985)¬
+TeslaPMD-85¬Wurm¬0x8AA15E50¬2440¬.pmd¬(07BFormat)¬
+TeslaPMD-85¬Zaby¬0xF8FF3AF1¬2883¬.pmd¬¬

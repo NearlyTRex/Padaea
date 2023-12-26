@@ -1,0 +1,16 @@
+How to recognize PSX Bin files (not cue files)
+----------------------------------------------
+Search through the file and find this string (or a variation, depending on region):
+cdrom:\SPLS_
+cdrom:\SLES_
+cdrom:\SLUS_
+
+In order to do that efficiently, we'd need to limit our search area
+Try 0x000EECC8 to 0x000EECC8
+
+After you find this particular string, it's easy to find the serial number.  And from here, you can associate a bin file
+with a name, and record its file signature (CRC32+filesize).
+
+================================================
+Other formats...
+----------------

@@ -1,0 +1,11 @@
+TomyTutorPyuuta¬CarazyRacer¬0xD3D9E415¬16384¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬CaveCrawlers¬0x6969757D¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬DeepSix¬0x6B8A878F¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬Jungler¬0x38DCE126¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬Locomotion¬0xEDE5ED83¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬Pooyan¬0x96F805E4¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬Scramble¬0x3C23D24F¬8192¬.tut¬(TM)(199x)¬
+TomyTutorPyuuta¬TomyTutorBIOSImage¬0x05F228F5¬16384¬.tut¬(16k)(Tomy)(1983)(Bios)¬
+TomyTutorPyuuta¬TomyTutorBIOSImage¬0x702C38BA¬32768¬.tut¬(32k)(Tomy)(1983)(Bios)¬
+TomyTutorPyuuta¬TorpedoTerror¬0x40F82FB3¬8192¬.tut¬(TM)(1991)¬
+TomyTutorPyuuta¬TrafficJam¬0x81F529F9¬8192¬.tut¬(TM)(1991)¬

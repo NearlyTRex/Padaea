@@ -1,0 +1,4 @@
+TexasInstrumentsTi82¬TexasInstrumentsTI82BIOS¬0x0FC956D4¬131072¬.t82¬(TexasInstruments)(19xx)(Version17.0)(Bios)¬
+TexasInstrumentsTi82¬TexasInstrumentsTI82BIOS¬0x6A320F03¬131072¬.t82¬(TexasInstruments)(19xx)(Version18.0)(Bios)¬
+TexasInstrumentsTi82¬TexasInstrumentsTI82BIOS¬0xE2F5721C¬131072¬.t82¬(TexasInstruments)(19xx)(Version16.0)(Bios)¬
+TexasInstrumentsTi82¬TexasInstrumentsTI82BIOS¬0xED4CF9FF¬131072¬.t82¬(TexasInstruments)(19xx)(Version19.0)(Bios)¬

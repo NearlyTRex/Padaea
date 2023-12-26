@@ -1,0 +1,17 @@
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0x264B34AD¬2097152¬.t89¬(TexasInstruments)(1998)(Version1.0)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0x3BC0B474¬2097152¬.t89¬(TexasInstruments)(1999)(Version1.5)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0x7557554E¬1124683¬.t89¬(update)(TIBFormat)(TexasInstruments)(1998)(Version1.0)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0x95199934¬2097152¬.t89¬(TexasInstruments)(1998)(Alternate)(Version1.0)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0xA3A74ECA¬2097152¬.t89¬(TexasInstruments)(1999)(Version2.3)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0xB9059E06¬2097152¬.t89¬(TexasInstruments)(1998)(Hack)(Version1.0)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware1BIOS¬0xFA6745E9¬2097152¬.t89¬(TexasInstruments)(1999)(Version2.1)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x4C33D034¬1213310¬.t89¬(update)(89U)(89UFormat)(TexasInstruments)(1999)(Version2.3)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x59C1A7F8¬1223352¬.t89¬(update)(89U)(89UFormat)(TexasInstruments)(2000)(Version2.4)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x5E0400A9¬2097152¬.t89¬(TexasInstruments)(1999)(Version2.3)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x735ADFBA¬1200860¬.t89¬(update)(TIB)(TIBFormat)(TexasInstruments)(1999)(Version2.3)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x80DF34B9¬1198089¬.t89¬(update)(89UFormat)(TexasInstruments)(2000)(Version2.5)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0x83817402¬2097152¬.t89¬(TexasInstruments)(1999)(Version1.5)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0xB5566593¬1143707¬.t89¬(update)(TIBFormat)(TexasInstruments)(1999)(Version1.5)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0xBAF2621F¬1223717¬.t89¬(update)(89U)(89UFormat)(TexasInstruments)(1999)(Version2.1)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0xC603FA20¬1196919¬.t89¬(update)(TIB)(TIBFormat)(TexasInstruments)(2000)(Version2.4)(Bios)¬
+TexasInstrumentsTi89¬TexasInstrumentsTI89Hardware2BIOS¬0xDFFE4041¬1198851¬.t89¬(update)(TIB)(TIBFormat)(TexasInstruments)(1999)(Version2.1)(Bios)¬

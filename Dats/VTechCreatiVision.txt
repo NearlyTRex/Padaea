@@ -1,0 +1,22 @@
+VTechCreatiVision¬AirSeaAttack¬0x81A9257D¬4096¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬AstroPinball¬0xCF7BDFC2¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬AutoChase¬0xBD091EE0¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬ChopperRescue¬0x14179570¬18432¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬ChopperRescue¬0x48E7E8B8¬18432¬.rom¬(ROMFormat)(Asia, Europe)(Alt)(Australia)(Europe)(Alternate)¬
+VTechCreatiVision¬CrazyChicky¬0xB1B5BFE5¬4096¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬CreatiVisionBasic¬0x10409A1D¬12288¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬DeepSeaAdventure¬0x2E0DDD86¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬Hapmon¬0x15D07B96¬4096¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬Locomotive¬0x3618B415¬12288¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬MousePuzzle¬0xE954C46B¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬MusicMaker¬0xF8383D33¬12288¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬PlanetDefender¬0x4457C7B3¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Alt)(Australia)(Europe)(Alternate)¬
+VTechCreatiVision¬PlanetDefender¬0x4B463C18¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬PoliceJump¬0xDB3D50B2¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬Soccer¬0x90A7438D¬12288¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬SonicInvader¬0x767A1F38¬4096¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬TankAttack¬0x2621FFCA¬8192¬.rom¬(ROMFormat)(Asia, Europe)(Australia)(Europe)¬
+VTechCreatiVision¬Tennis¬0x8BED8745¬8192¬.rom¬(ROMFormat)(Asia, Europe)(VTL)(VTL)(Australia)(Europe)¬
+VTechCreatiVision¬Tennis¬0xC914C092¬8192¬.rom¬(ROMFormat)(Asia, Europe)(DSE)(DSE)(Australia)(Europe)¬
+VTechCreatiVision¬VTechCreatiVision¬0x05602697¬2048¬.rom¬(ROMFormat)(BIOS)(Asia, Europe)(Australia)(Europe)(Bios)¬
+VTechCreativision¬AstroPinball¬0xD03C0603¬8192¬.vtc¬(VTL)(1981)(Alternate)¬

@@ -1,0 +1,1721 @@
+NintendoWii¬1080Snowboarding¬0x0C6390FC¬30876160¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬1080Snowboarding¬0xECB8941F¬30097152¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬1NukuDasshutsuGameMyHomeHen¬0x802E911E¬13491392¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬321RattleBattle¬0x42D7CFC6¬28163328¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬321RattleBattle¬0x7C9A72C0¬26333888¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬3DegreesCelcius¬0x1DC8A30C¬22664064¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬5SpotsParty¬0x15D2D4FA¬30593984¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬5SpotsParty¬0x442A0A98¬30586816¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬81diverWii¬0x68881855¬36978304¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ActRaiser¬0x1D7365A0¬15269248¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬ActRaiser¬0x590CFCB0¬15121664¬.wad¬(WADFormat)(France)(SNES)(Virtual Console)¬
+NintendoWii¬ActRaiser¬0xB5D6432B¬15840320¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬ActRaiser¬0xCB742997¬13606720¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬ActRaiser¬0xE2125E72¬15114688¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬ActionloopTwist¬0x47655B1F¬21301824¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬AdventureIslandTheBeginning¬0x65739FAB¬35940928¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬AdventureIslandTheBeginning¬0xA428EC8B¬40562048¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬AdventureIsland¬0x0A3D3A8D¬12644544¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬AdventureIsland¬0x29AB9EF9¬12460672¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬AdventuresOfLolo2¬0x9F227FE5¬13209856¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬AdventuresOfLolo2¬0xF382045E¬12848832¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬AdventuresOfLolo¬0x65BAD6F6¬12664704¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬AdventuresOfLolo¬0xD0F27303¬13086592¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬AeroFightersAssault¬0xB49A854A¬30385152¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬AeroGuitar¬0x2CD03618¬126487744¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬AeroGuitar¬0x319B5969¬39827712¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AhaIGotItEscapeGame¬0xAFCC7C05¬16315008¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬AiChoAniki¬0x518FD726¬29258880¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬AiChoAniki¬0xBAE090E1¬32899136¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬AirZonk¬0x25BD72B6¬12902976¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬AirZonk¬0x6DD4B347¬13182400¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬AkumajouDensetsu¬0xFF574EE1¬11758336¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬AkumajouDraculaXChiNoRondo¬0xDE303CE3¬45242688¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬AkumajouDracula¬0x3C73E771¬12886272¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬AkumajouDracula¬0xD8DCA6B6¬13806976¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬Aleste¬0xFE7759C9¬12429056¬.wad¬(WADFormat)(Japan)(MSX)(Virtual Console)¬
+NintendoWii¬AlexKiddInMiracleWorld¬0x59F540EF¬13607040¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬AlexKiddInMiracleWorld¬0xBE58F6C3¬12556992¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬AlexKiddInTheEnchantedCastle¬0x2A980A23¬12785344¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬AlexKiddInTheEnchantedCastle¬0xCF86EA9F¬13592704¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬AlexKiddNoMiracleWorld¬0xCF9055E9¬11753664¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬AlexKiddTenkuuMajou¬0x927FDEC2¬12835264¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬AlexKiddTheLostStars¬0x2D22EC1E¬12529024¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬AlexKiddTheLostStars¬0x8394BD39¬13257216¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬AlexKiddTheLostStars¬0xA8C5182C¬12139264¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬AlienCrushReturns¬0x1F7C7B50¬39122560¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AlienCrushReturns¬0x9B26AA32¬39067136¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬AlienCrushReturns¬0xE23C5E08¬39096064¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬AlienCrush¬0x280AF0CC¬13435904¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬AlienCrush¬0x63A393DC¬13070976¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬AlienSoldier¬0x19169A05¬13837696¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬AlienSoldier¬0x242418F4¬15200832¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬AlienStorm¬0x1C6B1C04¬12832512¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬AlienStorm¬0xDB26537D¬13666368¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬AlteredBeast¬0x0A401250¬15842240¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬AlteredBeast¬0xDC751B51¬12631808¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬AlteredBeast¬0xE2681E04¬16430400¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬AlteredBeast¬0xFE5F2ECB¬13481408¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬AnataGaMawashiteSukuuPuzzleMochiMochiQ¬0xFA6B3068¬18959040¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AnimalLifeDoubutsuFureaiSeikatsu¬0x9CCA115A¬37021184¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AntNation¬0x22B28125¬27556928¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0x0D40A2C5¬197120¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0x1C1C230D¬197120¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0x79A029B3¬38031680¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0xA547FF7D¬197120¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0xA63DFCC3¬35303744¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ArkanoidPlus¬0xD6DF1EDB¬35825088¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ArtOfFighting2¬0x58D20577¬36956224¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬ArtOfFighting2¬0xD4F003AB¬37557312¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬ArtOfFighting¬0x4AA5A5B0¬27183488¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬ArtOfFighting¬0xEF83D3DD¬27359936¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬ArtStyleCUBELLO¬0x40E84A60¬13530560¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ArtStyleCUBELLO¬0x4B4CE514¬13525760¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ArtStyleORBIENT¬0x2D691B4C¬23746752¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ArtStyleORBIENT¬0x7FBB5866¬23752256¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ArtStyleROTOHEX¬0x038ABD98¬21347456¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ArtStyleROTOHEX¬0x60D7C3AC¬21347520¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ArtStyleSeriesCUBELEO¬0x2479E072¬12621952¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ArtStyleSeriesDIALHEX¬0x1D85C4F3¬21348224¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ArtStyleSeriesORBITAL¬0x6887DDE5¬23748160¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AsoberuEhonTobidaSugoroku¬0x67933584¬20865984¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AsobuMadeInOre¬0xB68B99BE¬18483968¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬AssaultSuitsValken¬0x9FFE8A1C¬13375936¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬Assault¬0x3DDD901C¬15709760¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Atsui12GameFuriFuriParty¬0x236C07A8¬33386176¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Axelay¬0x262EC3EA¬13929152¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬Axelay¬0x5821F175¬13793600¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬Axelay¬0xDF5AAB74¬14292928¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬BahamutLagoon¬0x2884B34A¬14468160¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬Bakutan¬0xFB17C99B¬21044224¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BalloonFight¬0x6CFCA3AD¬12135552¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BalloonFight¬0xAD217A92¬12281408¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬BangAttackProjectBang¬0x43A2A72D¬14473280¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BangAttack¬0x91EB3C1B¬14445952¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BangBangKids¬0x7F16F855¬39436352¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BareKnuckleIIITekkenSeiten¬0x0796EEBF¬13914752¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬BareKnuckleIIShitouHeNoChinkonUta¬0x18A6F62B¬13153408¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬BareKnuckleIkariNoTekken¬0x65FD78A9¬13180480¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬BaseballStars2¬0x83C312B0¬20958720¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬BaseballStars2¬0xBFF6AEDC¬21521280¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬Baseball¬0x0B1E18C9¬12651200¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Baseball¬0xF565A53A¬12186304¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BasesLoaded¬0x7F80E849¬13120192¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BattleCity¬0xC3737279¬11786496¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬BattleLodeRunner¬0x928B7FDE¬13309248¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BattleLodeRunner¬0xE0702236¬12433728¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬BattleLodeRunner¬0xF360CD9A¬13035648¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BattlePoker¬0x08451891¬14248320¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BeachDeOshiroWoTsukucchaWow¬0x786C43AE¬40004736¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BeerPongFratPartyGames¬0x3A1C4FA0¬19864000¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BeyondOasis¬0x5A1797E5¬14550080¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬BigKahunaParty¬0x7F388025¬23524224¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BioMiracleBokutteUpa¬0x000CF1A5¬12634432¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬BioMiracleBokutteUpa¬0x8A307220¬12591424¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BioMiracleBokutteUpa¬0xEC0D7075¬12034432¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬BiohazardBattle¬0x5E076726¬13710272¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬BiohazardBattle¬0xA5EC7E22¬13049536¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬BitBoy¬0x308F8055¬14466688¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BitBoy¬0xC5DE5DFE¬14466304¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BitTripBeat¬0x47560258¬48567296¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BitTripBeat¬0x51043CF1¬48329152¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BitTripBeat¬0x6D65D0A5¬48556864¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BitTripCoreRhythmSeijinNoGyakushou¬0xF2A283E1¬43450176¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BitTripCore¬0x85606D2A¬43321280¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BitTripCore¬0xE9DF3B14¬43430464¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Blackthorne¬0x1DBBBF89¬13904128¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬BladesOfSteel¬0xD0AC1CCA¬12733632¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BladesOfSteel¬0xE357DB45¬13042816¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬BlazingLazers¬0x210A168B¬12913344¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BlazingLazers¬0xE3E99E7B¬12836608¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BlockBreakerDeluxe¬0x02E5AAA2¬37555072¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BlockBreakerDeluxe¬0x79D0142B¬37541248¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BlockBreakerDeluxe¬0xF59A45AD¬37541888¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BloodyWolf¬0x233ECFD3¬12810624¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BloodyWolf¬0x75460D6A¬13082880¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BlueOasisSakanaNoIyashiKuuken¬0xE0C68A7E¬30349888¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BluesJourney¬0xB045E9D4¬19396672¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬BluesJourney¬0xBF3E3F71¬20934592¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬BoardWarriors¬0xE38587F5¬39279488¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Boingz¬0x3D42463D¬25930432¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BokujouMonogatariSeriesMakibaNoOmise¬0x107D229B¬32425280¬.wad¬(WADFormat)(Japan)(v256)(WiiWare)¬
+NintendoWii¬BokujouMonogatariSeriesMakibaNoOmise¬0x4A38FD0F¬32176704¬.wad¬(WADFormat)(Japan)(v2)(WiiWare)¬
+NintendoWii¬BokujouMonogatariSeriesMakibaNoOmise¬0x62D10C06¬869760¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬BombJack¬0xB5DDD0FB¬15447232¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Bomberman93¬0x097EF6CA¬13332480¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Bomberman93¬0x4ADEFCE7¬13981120¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Bomberman94¬0x20A9AC00¬13750144¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬Bomberman94¬0x2BDA3C71¬13252736¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Bomberman94¬0x3AA9E72A¬13733888¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BombermanBlast¬0x23485987¬26887552¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BombermanBlast¬0x7BAE9056¬38318336¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BombermanBlast¬0xE920B0C9¬32518720¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BonanzaBros¬0x29195375¬12497984¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬BonanzaBros¬0xDCFADA9E¬12692096¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬BonanzaBros¬0xE30E51AA¬13117312¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬Bonk3BonksBigAdventure¬0x0E83DC8E¬13190656¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Bonk3BonksBigAdventure¬0x28601180¬13412608¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BonksAdventure¬0x2D3AFBBE¬13282240¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BonksAdventure¬0xB6161676¬12847424¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BonksRevenge¬0x606AE456¬13477632¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BonksRevenge¬0xED74AAD4¬13098496¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BonsaiBarber¬0x4DCED598¬20453184¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BonsaiBarber¬0x6FAD38BB¬20634368¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BoogermanAPickAndFlickAdventure¬0x955B231F¬13899776¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Boogerman¬0x1836F9AB¬14974976¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬BoulderDash¬0x3523E89B¬16704448¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬BoulderDash¬0x8B8C8146¬14647424¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬BrainChallenge¬0x285A7170¬38252032¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BrainChallenge¬0x687CD71F¬38310016¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BrainChallenge¬0xA4AAA941¬38168576¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Bravoman¬0x5BE8B632¬13078336¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BreakIn¬0x3D762EBA¬12922688¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬BreakIn¬0xCE5B4A4B¬12707776¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬BreathOfFireII¬0x47143DF7¬17150336¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬BreathOfFireII¬0xAFF88A3A¬19638144¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬BruiserAndScratch¬0xD43C0324¬49137536¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BubbleBobblePlus¬0xA5FD0232¬40044672¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬BubbleBobblePlus¬0xC20F1D92¬129984¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬BubbleBobblePlus¬0xCC2947E5¬129984¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬BubbleBobblePlus¬0xD55BB3C8¬39939200¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BubbleBobbleWii¬0x0A41811C¬129984¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬BubbleBobbleWii¬0xF998272A¬38165504¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬BubbleBobble¬0xA4DF3839¬13325568¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬BubbleBobble¬0xEC6CC77B¬12749568¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬BurningFight¬0x4A2AD092¬21667072¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬BurningFight¬0x8D7B787C¬21134976¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬BurningFight¬0xD8CD866D¬19958208¬.wad¬(WADFormat)(Japan)(NG)(Virtual Console)¬
+NintendoWii¬BurningForce¬0x6FA3A659¬16489920¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬BustaMovePlus¬0x5BF42D60¬34523456¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬BustaMovePlus¬0xC5B63578¬151360¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬Cadash¬0xF6D4B616¬12007296¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬CaliforniaGames¬0x65D58864¬18078912¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬CaliforniaGames¬0x674842D4¬15627520¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬CastlevaniaIIIDraculasCurse¬0x2DD0AB18¬12474048¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬CastlevaniaIIIDraculasCurse¬0x81E7740B¬11982016¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬CastlevaniaIISimonsQuest¬0xC2A31C89¬13120640¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬CastlevaniaIISimonsQuest¬0xD804AFE5¬13768320¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Castlevania¬0xB11FE254¬13301376¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Castlevania¬0xC3FD295B¬12410048¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬ChaseHQ¬0x23D6A991¬12929344¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬ChaseHQ¬0x45DC37D1¬12761024¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬ChewManFu¬0x6BFEC2A1¬13052160¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬ChewManFu¬0xFC382481¬13622272¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬ChinaWarrior¬0x0338C2AE¬12552576¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬ChinaWarrior¬0x43174F8C¬12447360¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬ChindouchuuPoleNoDaibouken¬0xB55F3FA8¬32063232¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ChoAniki¬0x14466F57¬28407808¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬ChoAniki¬0x5DE315B4¬29075584¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬ChouMakaimura¬0x4F8647B8¬13746944¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬CityConnection¬0xBC0CBFCD¬12714112¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬CityConnection¬0xE5D66C75¬12621568¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬ClayFighter¬0x01511DC5¬14071296¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ClayFighter¬0xC5604B0D¬13850240¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬CluCluLand¬0xD2FCBE75¬11761984¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬CluCluLand¬0xE7C7552E¬11546944¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬CocotoFishingMaster¬0xBBA564CE¬44097664¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬CocotoFishingMaster¬0xCF786A9E¬43051072¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬CocotoPlatformJumper¬0xAF232671¬43114304¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬CocotoPlatformJumper¬0xD383F3EA¬44259264¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ColorZ¬0x3AA3D264¬31667648¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ColorZ¬0x420CFF7A¬31666176¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ColumnsIIIRevengeOfColumns¬0x9118AD10¬13262720¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ColumnsIIIRevengeOfColumns¬0xBD925B67¬14456576¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬Columns¬0xB0458C74¬13440384¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬Columns¬0xB68C4D71¬12516480¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ComixZone¬0x418AEB22¬15327680¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ComixZone¬0x9A27C8BB¬14373952¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ContraIIITheAlienWars¬0x0C2A090E¬15005760¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬ContraReBirth¬0x457D9AA3¬38951808¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ContraReBirth¬0x4F212CE1¬38480512¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ContraReBirth¬0xAC8895F0¬37492928¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ContraSpirits¬0xA3722EAF¬13837120¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬CosmoGangThePuzzle¬0xB5C3A920¬15075392¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬CosmoGangTheVideo¬0x9F87B6DE¬16416256¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬CrackDown¬0x5A8125BA¬13966080¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬CrashNTheBoysStreetChallenge¬0xA521DAA1¬11995456¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Cratermaze¬0x92E44827¬13119936¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Cratermaze¬0xDC2775AC¬12892160¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬CritterRoundUp¬0xAEB444F9¬33388864¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬CritterRoundUp¬0xB332E5B1¬34569408¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬CruisnUSA¬0x33B5B114¬19627072¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬CruisnUSA¬0x88EE5BA4¬19351616¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬CrystalDefendersR1¬0x288361AC¬40945536¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬CrystalDefendersR1¬0x4FAA4274¬34530176¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬CrystalDefendersR1¬0xF4DF7C25¬40958464¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬CrystalDefendersR2¬0x2337877C¬41129792¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬CrystalDefendersR2¬0x58DBD03D¬35587648¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬CrystalDefendersR2¬0xD23E375C¬41140096¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬CueSportsSnookerVsBilliards¬0xB220C6FC¬35082176¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬CueSportsWiFiTaisenBilliards¬0xA03EBA5F¬26016448¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬CustomRoboV2¬0x62A4A6C7¬29067200¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬CyberSled¬0x04B07939¬19644672¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Cybernator¬0xDAE35B8C¬13714688¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬Cybernator¬0xEC50CF65¬14078272¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬CybernoidTheFightingMachine¬0x6EEEA380¬16559680¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬DaiMakaimura¬0xA69B2776¬12637248¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬DaiMakaimura¬0xDF9D1B39¬12717056¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬DaigassoBandBrothersDXSpeakerChannelShop¬0xF5924B94¬13204480¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬DartsWii¬0xCE857A82¬20840320¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬DeadMoon¬0x5A62B156¬12980992¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DeadMoon¬0x65F82F50¬13152064¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DefendYourCastle¬0x7A768A59¬22800896¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬DefendYourCastle¬0xDD2D8041¬23552896¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬DemaeChannel¬0x57485289¬21839744¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬DensetsuNoOgreBattle¬0x1108533E¬13887552¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬DerbyDog¬0x527992F1¬4597120¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬DerbyDog¬0x857C1000¬43435200¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬DetanaTwinBee¬0x63B291D9¬12637760¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DetanaTwinBee¬0xC9464DB9¬12358848¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬DetanaTwinBee¬0xE8F36214¬12409664¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DevilWorld¬0xF408FA58¬11933568¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DevilsCrush¬0xAEC239D5¬13094848¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DevilsCrush¬0xFF1816FA¬12811136¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DigDug¬0xB0331FE7¬12367616¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DigDug¬0xD93EBBB1¬11782976¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DigicamPrintChannel¬0x2755C7B4¬14846080¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬DigitalChampBattleBoxing¬0x15544E40¬12684800¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DigitalChampBattleBoxing¬0x2D21B08B¬12871424¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DisciplineTeikokuNoTanjyou¬0xAD9B8603¬44199680¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬DoReMiFantasyMilonsDokiDokiAdventure¬0x9C3EAA95¬15753856¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬DoReMiFantasyMilonsDokiDokiAdventure¬0xB699FF63¬14727680¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKong3¬0x0F01B7EE¬11705664¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKong3¬0x95200D36¬11604480¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry2DiddysKongQuest¬0x8895FF1C¬22559296¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry2DiddysKongQuest¬0x900C999B¬22133824¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry2DiddysKongQuest¬0xC14832CA¬21598976¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry3DixieKongsDoubleTrouble¬0x67A406D8¬17819840¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry3DixieKongsDoubleTrouble¬0xBA8A2FEE¬18669696¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry¬0x2956C371¬17225664¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongCountry¬0x6E805112¬18066496¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJrMath¬0x7025BF12¬12208576¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJrMath¬0xD6BFB247¬12614272¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJrNoSansouAsobi¬0x76FE05A6¬11730880¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJr¬0x02C2998F¬11992064¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJr¬0x0918CED8¬12292800¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKongJr¬0xB52D1582¬12022144¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKong¬0x068D1E2A¬12052672¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKong¬0x2506BF75¬12495744¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DonkeyKong¬0xA272CE4D¬12073472¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDragon¬0x5BBFCF6A¬12811904¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDragon¬0x7D84D14B¬11535936¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDragon¬0x92975EF2¬12719424¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDribble¬0x9B5B6810¬13014976¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDribble¬0xB584FBB0¬12621952¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬DoubleDungeons¬0x8BF7FBB5¬12799616¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DoubleDungeons¬0xE3DB1BE6¬13251328¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DowntownNekketsuKoushinkyokuSoreyukeDaiundoukai¬0xEA058CEB¬12516992¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DowntownNekketsuMonogatari¬0xA6AA2D40¬12439168¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DowntownSpecialKuniokunNoJidaigekiDayoZenninShuugou¬0x24DAFFEE¬11619456¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DrMarioAndGermBuster¬0x2D9DC0FE¬17082816¬.wad¬(WADFormat)(Europe)(v256)(WiiWare)¬
+NintendoWii¬DrMarioAndGermBuster¬0xA9B955E8¬17082624¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬DrMarioAndSaikinBokumetsu¬0x838AA4C9¬14919552¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬DrMarioAndSaikinBokumetsu¬0xA9487408¬14920896¬.wad¬(WADFormat)(Japan)(v256)(WiiWare)¬
+NintendoWii¬DrMarioOnlineRx¬0x29BC1131¬15678016¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬DrMarioOnlineRx¬0xF419561E¬15677952¬.wad¬(WADFormat)(USA)(v256)(WiiWare)¬
+NintendoWii¬DrRobotniksMeanBeanMachine¬0x2E7462FE¬12992832¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬DrRobotniksMeanBeanMachine¬0x64CFC972¬13881984¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬DraculaIINoroiNoFuuin¬0x43EED48F¬11626560¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬DragonBuster¬0xE06A538C¬11509952¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬DragonSpirit¬0x370603B6¬12963648¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DragonSpirit¬0x93171D7E¬12689792¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DragonsCurse¬0xC23478ED¬12964288¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DragonsCurse¬0xD726A554¬13518144¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DriiftMania¬0x3DA7816C¬33757312¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬DriiftMania¬0xDA482467¬33974336¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬DrillSergeantMindstrong¬0x56BD95C7¬19766400¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬DropOff¬0x26847D71¬12592576¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DropOff¬0xF4250AE8¬12447616¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DungeonExplorerII¬0x610D08F9¬51582720¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬DungeonExplorer¬0x97057EA6¬13473920¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬DungeonExplorer¬0xE7C78AFF¬13231680¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DynamiteHeaddy¬0x799A9BBD¬14372288¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬DynamiteHeaddy¬0xE0890C5C¬15800192¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬DynasticHero¬0xC0534574¬42211968¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬DynasticHero¬0xC1F0876F¬42551488¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬ESWATCityUnderSiege¬0x38648D86¬14076800¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EarthwormJim¬0x474C38DD¬15033472¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EarthwormJim¬0xC0479463¬13775232¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬EarthwormJim¬0xC0CFB588¬14196864¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬EccoJr¬0x54CDB4C4¬14315904¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EccoJr¬0x6073A291¬13337152¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬EccoTheDolphin¬0x9C083CD3¬13960000¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EccoTheDolphin¬0xC7BB541D¬12963520¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬EccoTheTidesOfTime¬0x4CFA9056¬15292352¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EccoTheTidesOfTime¬0xF89DD532¬14059904¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬EduardoTheSamuraiToaster¬0x9430F631¬42730432¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Eggy¬0xC941DABC¬12028736¬.wad¬(WADFormat)(Japan)(MSX)(Virtual Console)¬
+NintendoWii¬ElevatorAction¬0x7DCBE704¬12024128¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Emeraldia¬0x8D38693F¬15483776¬.wad¬(WADFormat)(Japan)(v256)(Arcade)(Virtual Console)¬
+NintendoWii¬EnduroRacer¬0x28F7F4FF¬11759872¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬EnduroRacer¬0x75781900¬12567424¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬EnduroRacer¬0xC2F9A338¬12089984¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬Equilibrio¬0x4EF05A9F¬19860096¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Equilibrio¬0xE750E3DE¬19860800¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬EternalChampions¬0x33FFBEF1¬15807168¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬EternalChampions¬0xF48D623D¬14629504¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬EvasiveSpace¬0x1B3F9EC6¬39977728¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬EverybodyVotesChannel¬0x2007EDC4¬21181504¬.wad¬(WADFormat)(USA)(Channel)¬
+NintendoWii¬Excitebike¬0x1E8124F3¬13014592¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Excitebike¬0x376EC3F2¬12193536¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Excitebike¬0x9A75ED81¬12317376¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬FZeroX¬0x13F83012¬30022912¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬FZeroX¬0xC3E4DECA¬30648320¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬FZero¬0x85749967¬13090624¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬FZero¬0xEAB007A9¬13082560¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬FZero¬0xF83722E8¬13728320¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬FamilyAndFriendsParty¬0x07005DAF¬24918400¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilyAndFriendsParty¬0x23A57427¬26457664¬.wad¬(WADFormat)(Europe)(v258)(WiiWare)¬
+NintendoWii¬FamilyAndFriendsParty¬0x72058546¬25005440¬.wad¬(WADFormat)(USA)(v257)(WiiWare)¬
+NintendoWii¬FamilyAndFriendsParty¬0x89C09503¬26308352¬.wad¬(WADFormat)(Europe)(v7)(WiiWare)¬
+NintendoWii¬FamilyGlideHockey¬0xEEAFE4E6¬34401600¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FamilyGlideHockey¬0xEF83944E¬34301312¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilyMiniGolf¬0x4FAB85C8¬39636224¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilyMiniGolf¬0xE20B0D51¬6184896¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬FamilyPirateParty¬0x9A85C38F¬2062144¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬FamilyPirateParty¬0xD8132D5E¬27651840¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilySlotCarRacing¬0x366E2F0A¬44902720¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilySlotCarRacing¬0xB2996E47¬44903104¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FamilyTableTennis¬0x9ECF6E99¬25876864¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FamilyTableTennis¬0xA0010CAE¬39742336¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FamilyTennis¬0xEC8883CC¬25410816¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FantasticTambourine¬0x88293498¬37515328¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬FantasyZoneIIOpaOpaNoNamida¬0x955E7AF0¬12289728¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬FantasyZoneIITheTearsOfOpaOpa¬0x1E0F61FB¬13378304¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬FantasyZoneIITheTearsOfOpaOpa¬0xF57A3924¬12728320¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬FantasyZone¬0x6BA8DDC4¬12149952¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬FantasyZone¬0x799D07F2¬12414016¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬FantasyZone¬0xEB19A1B7¬13133376¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬FatalFury2¬0x16BEE70A¬27730432¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬FatalFury2¬0x47A43B1A¬29102016¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬FatalFury¬0x460C457A¬20629184¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬FatalFury¬0xA0FD2AB6¬22590464¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsADarklord¬0x1D52082B¬4923392¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsADarklord¬0xE42002BA¬48316160¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsADarklord¬0xFC275181¬4923392¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsADarklord¬0xFF3FDD56¬47833472¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0x491FF2B8¬44060480¬.wad¬(WADFormat)(Japan)(v256)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xA29F7E15¬3806720¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xC01CA384¬3806720¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xC35B383B¬3681280¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xC535BAF5¬44998784¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xDAEEDD76¬44999168¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesMyLifeAsAKing¬0xEE31AD8C¬44052544¬.wad¬(WADFormat)(Japan)(v2)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesTheTowerOfTheChaosPrincess¬0x1963114F¬5111296¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesTheTowerOfTheChaosPrincess¬0xDE19E330¬46846528¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬FinalFantasyCrystalChroniclesTheWorldOfTheLittleKing¬0xD52E2910¬3681728¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyIII¬0x6867B2A6¬12092160¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬FinalFantasyII¬0x7362D8D6¬11872640¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬FinalFantasyIVTheAfterYearsTsukiNoKikan¬0x37DFD22A¬5462912¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyIVTheAfterYearsTsukiNoKikan¬0x5EB6ED0A¬22800064¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬FinalFantasyIVTheAfterYears¬0x6D0BDC65¬5461760¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyIVTheAfterYears¬0x7CB20395¬5461760¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬FinalFantasyIVTheAfterYears¬0x803E83AC¬22779392¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FinalFantasyIVTheAfterYears¬0x9005A588¬22779456¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FinalFantasyIV¬0x3B99F36E¬12889984¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬FinalFantasy¬0xE190B25C¬11903168¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬FinalFantasy¬0xE9D3357C¬12576448¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬FinalFight2¬0x31B13275¬12857920¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬FinalFight2¬0xBC38FA16¬12980544¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬FinalFight¬0x0BCFFD1E¬15954240¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬FinalFight¬0x6CE079CD¬16330304¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬FinalSoldier¬0xA626B2AF¬13149888¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬FinalSoldier¬0xA941E00F¬12927808¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬FireEmblemAnkokuRyuuToHikariNoTsurugi¬0x4D09B81E¬11745664¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬FireEmblemMonshouNoNazo¬0xCDDF32C6¬17021120¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬FireEmblemSeisenNoKeifu¬0x2FAEFCAA¬18985792¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬FishEyesChallenge¬0x9B8D7CE6¬38364992¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬FishemAll¬0x58290D90¬20654208¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FishemAll¬0xC8F83707¬20653696¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬ForgottenWorlds¬0x7C3350B1¬13719104¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ForgottenWorlds¬0xA9F0232B¬12168960¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬ForgottenWorlds¬0xF3D953CE¬12808448¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬FrontMissionSeriesGunHazard¬0x34723CA1¬16777984¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬FunFunMinigolf¬0x22ED4ED7¬43511488¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬FunFunMinigolf¬0x585B1FB3¬43507712¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬FunFunMinigolf¬0xACDA7FAD¬44142080¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬GainGround¬0x1E2BDF48¬13743488¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GainGround¬0x45D76C2B¬13014528¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Galaga88¬0x7536EFA2¬14868736¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Galaga90¬0x53256DC1¬12572416¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Galaga90¬0x568B5594¬12417984¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Galaga¬0x7AD643F5¬12497408¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Galaga¬0xB8567603¬12014976¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬GalaxyForceII¬0x2ADE005E¬12840704¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GalaxyForceII¬0xAD01F627¬13551040¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GameSoundStation¬0xB4C09660¬14779008¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Gaplus¬0x8C3B2FE6¬15031744¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬Gaplus¬0xA311C54C¬15433920¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬Gaplus¬0xAE05D038¬14634048¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬GateOfThunder¬0x33495566¬38278208¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬GateOfThunder¬0x90267C6D¬38627200¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬GateOfThunder¬0x9CA37B1F¬38423616¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬GekikameNinjaDen¬0x82661B9D¬12360512¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬GenghisKhanIIClanOfTheGrayWolf¬0x2851DC02¬13082880¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬GenpeiToumaden¬0x4AA73538¬15450496¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬GetsuFuumaDen¬0x4923772A¬11666368¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬GhostMansionParty¬0x8B0019FC¬47888576¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬GhostsNGoblins¬0xC43CAA2C¬12614592¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬GhostsNGoblins¬0xFEAA9222¬12662400¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬GhoulsNGhosts¬0x76E5A810¬13059968¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GhoulsNGhosts¬0xABB02491¬14347328¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GleyLancer¬0x4606A62C¬13894144¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GleyLancer¬0x50E580A1¬12966912¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GleyLancer¬0x8E3EFE2A¬12809792¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬GokurakuChuukaTaisen¬0xBF7A60F4¬11769280¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬GoldenAxeIII¬0x2FFB1348¬13245184¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxeIII¬0xE895B762¬14441728¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxeII¬0x7A5D25EF¬14299712¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxeII¬0x8720E519¬13051968¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxe¬0x26FFF242¬13451584¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxe¬0x9B1D508E¬18763648¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬GoldenAxe¬0x9C033714¬12577984¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GoldenAxe¬0xA0E38D7F¬14910720¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬GooNoWakusei¬0x605B03DA¬45896896¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬GradiusIIGoferNoYabou¬0x1610F686¬38117824¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬GradiusIIGoferNoYabou¬0x21F72C2E¬12082304¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬GradiusIIGoferNoYabou¬0x77801621¬39071488¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬GradiusIIGoferNoYabou¬0xB26E262C¬38813184¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬GradiusIII¬0x0FF4B616¬13216000¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬GradiusIII¬0x24ECF4A0¬14094464¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬GradiusIII¬0x3D38BBCB¬13447168¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬GradiusReBirth¬0x0DE68840¬30387264¬.wad¬(WADFormat)(Japan)(v256)(WiiWare)¬
+NintendoWii¬GradiusReBirth¬0x83753EED¬26132864¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬GradiusReBirth¬0xDF83C793¬26185984¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬GradiusReBirth¬0xE29289D8¬25926208¬.wad¬(WADFormat)(Japan)(v2)(WiiWare)¬
+NintendoWii¬Gradius¬0xC5C387C7¬12014784¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Gradius¬0xF208A0C4¬12488896¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Gradius¬0xFE5899DE¬12095744¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Gravitronix¬0x64ADD3B9¬20054080¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬GroovinBlocks¬0x5FF1B7F5¬45272640¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬GuitarHero5AFIBeautifulThieves¬0x24B53DF3¬33216064¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5AFIBeautifulThieves¬0xC5B9D2A7¬33238144¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5AFIGirlsNotGrey¬0x2923B855¬29823424¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5AFIGirlsNotGrey¬0x71589C78¬29801344¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5AFITheMissingFrame¬0x47B89AEB¬41560064¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5AFITheMissingFrame¬0x5E7ED65C¬41537984¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierEverybodyWantsYou¬0x6950E1E7¬36681216¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierEverybodyWantsYou¬0xC0DE72B0¬36681216¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierTheStroke¬0x43AAB5CA¬28300096¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierTheStroke¬0xA0EC6D92¬28300096¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierWhenSheComesToMe¬0x661E3D8A¬30049344¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5BillySquierWhenSheComesToMe¬0x9500FF06¬30049344¬.wad¬(WADFormat)(USA)¬
+NintendoWii¬GuitarHero5EditorsMunich¬0x3A9B7EEB¬33943616¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5EditorsMunich¬0x45AA8B75¬33965696¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5GWARGorGor¬0xC810B596¬38740672¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5MarilynMansonTheBeautifulPeople¬0xBB101FBB¬34826624¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5NadaSurfHiSpeedSoul¬0x17F0B19A¬40532352¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5NadaSurfHiSpeedSoul¬0xB5D3E98C¬40532352¬.wad¬(WADFormat)(Europe)¬
+NintendoWii¬GuitarHero5PavementCutYourHair¬0x2B7CBBE8¬26327744¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5PavementCutYourHair¬0xB338F2DC¬26327744¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5PeterFramptonShowMeTheWay¬0x4AEEE4B2¬41569536¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeAvon¬0x0F967DF4¬31437056¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeAvon¬0xDA3FA22B¬31437056¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeHowToHandleARope¬0x81448DF8¬26669184¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeHowToHandleARope¬0xCF4D744B¬26669184¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeMexicola¬0x0594BA66¬37022144¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5QueensOfTheStoneAgeMexicola¬0x764F6BAD¬37022144¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5SpoonSisterJack¬0x1227F1FE¬36308416¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5SpoonSisterJack¬0x228BD209¬36308416¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClub100LittleCurses¬0x437C4DE7¬37315328¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClub100LittleCurses¬0x90F4352A¬37337408¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClubFightSmashWin¬0x00B11AA9¬29651136¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClubFightSmashWin¬0x8F3F61B2¬29629056¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClubSomewhereInTheWorldItsMidnight¬0x42EE5F93¬29754176¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5StreetSweeperSocialClubSomewhereInTheWorldItsMidnight¬0x9E910B27¬29776256¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheFaintTheGeeksWereRight¬0xA44ADE1D¬16270016¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheFaintTheGeeksWereRight¬0xD5613D09¬16292096¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheJGeilsBandFreezeFrame¬0x2FCE5946¬34561792¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheMisfitsAstroZombies¬0xBD1D5161¬20542208¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesICantGetNoSatisfaction¬0x37A289CF¬36102656¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesICantGetNoSatisfaction¬0x466861CE¬36124736¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesImFree¬0x09B73222¬22742144¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesImFree¬0xEB673914¬22720064¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesProdigalSon¬0xA4064D4D¬27808064¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesProdigalSon¬0xEE095C21¬27785984¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesUnderMyThumb¬0x8B99DB7B¬31080192¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesUnderMyThumb¬0xD265EC37¬31102272¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesYouGottaMove¬0x3EF8ECA8¬12498496¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5TheRollingStonesYouGottaMove¬0xFE1DB65F¬12520576¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5TriumphLayItOnTheLine¬0x14B601F2¬34591360¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherCaliforniaQueen¬0x795EE0FF¬30351360¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherCaliforniaQueen¬0xFB3E023D¬30351360¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherCosmicEgg¬0x21399718¬30472256¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherCosmicEgg¬0x6B984E5A¬30472256¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherPilgrim¬0x2E6AD542¬37668608¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5WolfmotherPilgrim¬0xFF83E9F7¬37668608¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHero5YeahYeahYeahsDullLife¬0x6ED09D4C¬30384256¬.wad¬(WADFormat)(USA)(GH 5)¬
+NintendoWii¬GuitarHero5YeahYeahYeahsDullLife¬0x920CC737¬30406336¬.wad¬(WADFormat)(Europe)(GH 5)¬
+NintendoWii¬GuitarHeroWorldTourADayToRememberNJLegionIcedTea¬0x03AD9984¬24628928¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourADayToRememberNJLegionIcedTea¬0x8CD75314¬24472448¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourADayToRememberNJLegionIcedTea¬0xA8CCEDEE¬24628928¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAgainstMeNewWave¬0xF475368E¬23754944¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAgainstMeNewWave¬0xF83F848A¬23754944¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAlexisonfireYoungCardinals¬0x42D04ED8¬24686400¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAlexisonfireYoungCardinals¬0x7C76D0FF¬24686400¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAnEndlessSporadicAnything¬0x0F5F5222¬24486400¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAnEndlessSporadicAnything¬0xB4F18DAE¬24487616¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAnd44Lycanthrope¬0x570E34F5¬24942720¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAnd44Lycanthrope¬0x8C47D931¬24941696¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAngelsAndAirwavesEverythingsMagic¬0x09AC121D¬25231104¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAngelsAndAirwavesEverythingsMagic¬0x44219C28¬25230080¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAwakenTheSilenceIsDeafening¬0x3123CDAB¬25181120¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourAwakenTheSilenceIsDeafening¬0x9F92AFCB¬25181120¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBBBrunesDisMoi¬0xB2E16741¬20128960¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBBBrunesDisMoi¬0xE5CA2DB5¬20127936¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBackyardBabiesDegenerated¬0x69C0E8DC¬24096256¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBackyardBabiesDegenerated¬0x6F3B041A¬24095040¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBadReligion21stCenturyDigitalBoy¬0x0133F9BE¬24940608¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBadReligion21stCenturyDigitalBoy¬0x541A172B¬24935744¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBadReligion21stCenturyDigitalBoy¬0x63352186¬24937600¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7FlyOneTime¬0xB54E57E3¬24074624¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7FlyOneTime¬0xE417CE77¬24076736¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7NumberWithNoName¬0x34FE5619¬24937472¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7NumberWithNoName¬0xB8D14748¬24939584¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7ShimmerAndShine¬0x53A41F35¬24612096¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBenHarperAndRelentless7ShimmerAndShine¬0x70C0F698¬24609984¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBlindMelonNoRain¬0x18D82BBD¬23553152¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBlindMelonNoRain¬0xF8256A57¬23554176¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBlink182WhatsMyAgeAgain¬0x2485E443¬21380224¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBlink182WhatsMyAgeAgain¬0xCAF01A3B¬21381248¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerAndTheSilverBulletBandHerStrut¬0x78829C62¬24711168¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerAndTheSilverBulletBandHerStrut¬0xC4B04F84¬24709952¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerAndTheSilverBulletBandOldTimeRockAndRoll¬0xB1D91854¬24046016¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerAndTheSilverBulletBandOldTimeRockAndRoll¬0xDBA42307¬24044800¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerGetOutOfDenver¬0x9C81108C¬22150528¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBobSegerGetOutOfDenver¬0xC2ADB3F3¬22149504¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBostonRockAndRollBand¬0x787C6545¬24422656¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBostonRockAndRollBand¬0xBEE877DD¬24421632¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBradPaisleyTicks¬0x3514A584¬23792704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBradPaisleyTicks¬0x6AB90A1F¬23791680¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBrooksAndDunnHillbillyDeluxe¬0x1A24B427¬24557888¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBrooksAndDunnHillbillyDeluxe¬0xC2DFB295¬24558912¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBruceSpringsteenBornToRun¬0x7618B5C0¬24396544¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBruceSpringsteenBornToRun¬0xCB4F4289¬24397760¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBruceSpringsteenMyLuckyDay¬0x0DC29603¬23333120¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourBruceSpringsteenMyLuckyDay¬0xDE5CE77D¬23331904¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourChimairaOnBrokenGlass¬0x2CA85556¬23695488¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourChimairaOnBrokenGlass¬0xBD7EAD9B¬23696704¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourCodyChesnuTTLookGoodInLeather¬0x49D7E2CE¬24549760¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourCodyChesnuTTLookGoodInLeather¬0xC1DE3F65¬24550784¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourCreedenceClearwaterRevivalCommotion¬0x146F86EA¬23240960¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourCreedenceClearwaterRevivalCommotion¬0x1E284AFF¬23242176¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDLCInstaller¬0x079553DC¬4074048¬.wad¬(WADFormat)(World)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDiRectJohnny¬0x1E20B0D2¬21668480¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDiRectJohnny¬0xBDDC269E¬21667264¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDieTotenHosenHierKommtAlex¬0x85EB8669¬23793728¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDieTotenHosenHierKommtAlex¬0x983954AF¬23794752¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDropkickMurphysImShippingUpToBoston¬0xA318E960¬19508288¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourDropkickMurphysImShippingUpToBoston¬0xC11331EC¬19508288¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesFrailGraspOnTheBigPicture¬0x8370907E¬24996160¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesFrailGraspOnTheBigPicture¬0xB52A3143¬24997376¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesLifeInTheFastLine¬0x6401897A¬24500224¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesLifeInTheFastLine¬0xA9F228A4¬24501248¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalAnythingCeptTheTruth¬0x964EEE76¬24851392¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalAnythingCeptTheTruth¬0xB5D6B29B¬24851392¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalCherryCola¬0x618A0123¬23940928¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalCherryCola¬0x93955A08¬23940928¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalIOnlyWantYou¬0x04A77F4A¬20416896¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOfDeathMetalIOnlyWantYou¬0xD91BC5E4¬20416896¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOneOfTheseNights¬0x92ADD8D2¬24266368¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEaglesOneOfTheseNights¬0xF07B9E62¬24267392¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEricJohnsonCamelsNightOut¬0x14B82209¬22591104¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourEricJohnsonCamelsNightOut¬0xC98ADFB7¬22591104¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourExpendablesSacrifice¬0x54620057¬23942656¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourExpendablesSacrifice¬0xC74E5BE1¬23943872¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFinleyAdrenalina¬0x7BB726BD¬24326912¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFinleyAdrenalina¬0xFF77B4D3¬24325696¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFitoAndFitipaldisPorLaBocaViveElPez¬0xDE594704¬24040384¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFitoAndFitipaldisPorLaBocaViveElPez¬0xF6076542¬24041600¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFloRidaFeaturingTPainLowTravisBarkerRemix¬0x6287DD75¬25096384¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourFloRidaFeaturingTPainLowTravisBarkerRemix¬0xCB466866¬25095360¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourForeignerHotBlooded¬0xA10FF9B2¬24511296¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourForeignerHotBlooded¬0xA3CE0AF3¬24510272¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHIsOrangeNothingAllTheTime¬0x787D4DE3¬22576320¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHIsOrangeNothingAllTheTime¬0xD014D322¬22576320¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHinderUseMe¬0x757B7F38¬24518912¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHinderUseMe¬0xE98D08CD¬24520128¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHousseDeRacketOhYeah¬0x2CF5F844¬23586944¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHousseDeRacketOhYeah¬0x5BC92952¬23585920¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHundredReasonsIllNeverKnow¬0x8B4F9463¬23512192¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourHundredReasonsIllNeverKnow¬0xD1150977¬23512192¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourInFlamesDisconnected¬0x31E2D146¬23486720¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourInFlamesDisconnected¬0x5F2F6B03¬23487744¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourIncubusDrive¬0x5F764101¬24575040¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourIncubusDrive¬0x64E24104¬24573824¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJackWhiteAndAliciaKeysAnotherWayToDie¬0x46C898B9¬24401216¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJackWhiteAndAliciaKeysAnotherWayToDie¬0xCE153F56¬24400192¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixAngel¬0x68699548¬23774080¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixAngel¬0x813032AE¬23775296¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFireLiveAtWoodstock¬0x4BBBE535¬24536704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFireLiveAtWoodstock¬0xF257320E¬24537920¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFoxeyLadyLiveAtWoodstock¬0x3C95F629¬24463808¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFoxeyLadyLiveAtWoodstock¬0xFEDB1A54¬24462592¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFreedom¬0x6AB4A47D¬24056256¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixFreedom¬0x86DB014D¬24055040¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixIf6Was9¬0x180C4595¬24892864¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixIf6Was9¬0x2E0C25D5¬24891648¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixLittleWing¬0x8E20BC2E¬22666496¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourJimiHendrixLittleWing¬0xD756171F¬22667712¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourLesRitaMitsoukoCestCommeCa¬0x3BDECDD6¬24027200¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourLesRitaMitsoukoCestCommeCa¬0xFEF5AC09¬24026176¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourLoquilloYTrogloditasCadillacSolitarioLive¬0xB7912BBC¬25400576¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourLoquilloYTrogloditasCadillacSolitarioLive¬0xC719A64F¬25401792¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMClanCarolinaLive¬0x876062EC¬23577472¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMClanCarolinaLive¬0x98018BB1¬23578496¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaBrokenBeatAndScarred¬0x5E6052B3¬24155264¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaBrokenBeatAndScarred¬0xD8523C11¬24156288¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaCyanide¬0x03B6FEDC¬24512960¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaCyanide¬0xF8199B69¬24513984¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaMyApocalypse¬0x240223B3¬23828480¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMetallicaMyApocalypse¬0x739D258B¬23827264¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadIronFist¬0x096C05D0¬23188928¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadIronFist¬0xD0725E68¬23187712¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadJailbait¬0x42064C86¬24593920¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadJailbait¬0x9BDCB086¬24592896¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadLoveMeLikeAReptile¬0x1B102F9F¬23905728¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourMotorheadLoveMeLikeAReptile¬0x57B8A2BB¬23906944¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNOFXLinoleum¬0x3B4495BC¬14045504¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNOFXLinoleum¬0x826171AA¬14050176¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNOFXLinoleum¬0xC9476DDE¬14047168¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNegritaMamaMae¬0x85D5A092¬24976256¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNegritaMamaMae¬0xDB7A2CAF¬24975040¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNickelbackBecauseOfYou¬0x29972B2A¬24150080¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNickelbackBecauseOfYou¬0xA98EF76C¬24148864¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaNegativeCreep¬0x36741BE4¬23625408¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaNegativeCreep¬0xA3D6B486¬23626624¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaSappy¬0x3064FD61¬24755584¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaSappy¬0x8FDE852E¬24754368¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaSliver¬0x993E5954¬19047168¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaSliver¬0xCC1FE14C¬19045952¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaStayAway¬0x60C45217¬23774400¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaStayAway¬0xFA69A73C¬23775616¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaVeryApe¬0xA30983ED¬17279104¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaVeryApe¬0xAA6660B8¬17280320¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaYouKnowYoureRight¬0x0D0681DC¬23088896¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourNirvanaYouKnowYoureRight¬0x3284FEAA¬23087680¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisAintGotNothin¬0x5C98A6AF¬17366912¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisAintGotNothin¬0x8BA1B64E¬17368128¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisBagItUp¬0x867470F0¬24389568¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisBagItUp¬0x954D25F0¬24388352¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisFallingDown¬0x3CB915BF¬24189440¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisFallingDown¬0x9099E2E8¬24190656¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisGetOffYourHighHorseLady¬0x7081D51F¬24113920¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisGetOffYourHighHorseLady¬0xFE494F56¬24112704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisImOuttaTime¬0x2C3F4CC3¬24735616¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisImOuttaTime¬0xE9346CEA¬24734592¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisSoldierOn¬0x8A665E12¬24621056¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisSoldierOn¬0x9FFF095F¬24620032¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheNatureOfReality¬0x2B4F01CC¬24392704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheNatureOfReality¬0x9A855C5D¬24391680¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheShockOfTheLightning¬0x635DD56B¬23706496¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheShockOfTheLightning¬0x99884266¬23707712¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheTurning¬0x66AB39E4¬24120320¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisTheTurning¬0xA1094DE5¬24119296¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisToBeWhereTheresLife¬0x83CBB588¬24439872¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisToBeWhereTheresLife¬0x8E4156BD¬24438848¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisWaitingForTheRapture¬0x325F82F6¬23233920¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOasisWaitingForTheRapture¬0xF0BAE31F¬23232704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOneRepublicStopAndStare¬0x08268472¬23671744¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourOneRepublicStopAndStare¬0x4FCE5CF0¬23670720¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPepperYourFace¬0x5C59DA96¬24243328¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPepperYourFace¬0xBA95818E¬24242304¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishChalkdustTortureLive¬0x34C82DB7¬24243712¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishChalkdustTortureLive¬0x7677DBD6¬24241600¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishDownWithDiseaseLive¬0x3703A10B¬24386560¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishDownWithDiseaseLive¬0xAA085FD2¬24388672¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishSampleInAJarLive¬0x041EAFB2¬25399616¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishSampleInAJarLive¬0x058C37B2¬25401280¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPhishSampleInAJarLive¬0x262276C1¬25404288¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPinkSoWhat¬0x4C1D28AA¬24534592¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPinkSoWhat¬0xA4199010¬24535616¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesDebaser¬0x7F52A2C7¬23876800¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesDebaser¬0xF1EC89B8¬23875584¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesMonkeyGoneToHeaven¬0x14BED467¬24935360¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesMonkeyGoneToHeaven¬0xFC207B72¬24936576¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesTheSadPunk¬0x500E4ED9¬22969920¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPixiesTheSadPunk¬0x83316B90¬22968704¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPlaceboTheBitterEnd¬0xF74CEA05¬25212224¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourPlaceboTheBitterEnd¬0xF796383D¬25213440¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourProtestTheHeroBloodmeat¬0x7039BBD3¬24952320¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourProtestTheHeroBloodmeat¬0xB8492BDD¬24952320¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenAndPaulRodgersClebrity¬0x0B49278B¬23613760¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenAndPaulRodgersClebrity¬0x114897CE¬23612736¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenFatBottomedGirls¬0xBE239EC6¬23660416¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenFatBottomedGirls¬0xDA8488DD¬23661440¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenWeAreTheChampions¬0x235D8A0E¬23679936¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourQueenWeAreTheChampions¬0x4FC1399F¬23678720¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMHorseToWater¬0x83863AD4¬19245440¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMHorseToWater¬0xDC0432EE¬19246656¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMManSizedWreath¬0x3415CA17¬20773824¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMManSizedWreath¬0xA343B3F2¬20775040¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMSupernaturalSuperserious¬0x936700E2¬24738432¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourREMSupernaturalSuperserious¬0xFB454569¬24739648¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRamJamBlackBetty¬0x38017021¬24821504¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRamJamBlackBetty¬0x87CD167C¬24822528¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRancidRubySoho¬0x5660D8F5¬22381056¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRancidRubySoho¬0x822F6A9B¬22385920¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRancidRubySoho¬0xB0E11170¬22382912¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRascalFlattsMeAndMyGang¬0x430F536E¬23624576¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRascalFlattsMeAndMyGang¬0xD13074AC¬23625600¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRevTheoryLightItUp¬0x7F94B21F¬24339264¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRevTheoryLightItUp¬0xBC7763B3¬24338048¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRichardFortusTheJamesBondTheme¬0x5357013D¬23147264¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRichardFortusTheJamesBondTheme¬0xC8EB5D2F¬23148480¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRickSpringfieldJessiesGirl¬0x66E4BFF6¬24339584¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRickSpringfieldJessiesGirl¬0xD93D6227¬24338560¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstAudienceOfOne¬0x634090A5¬25245376¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstAudienceOfOne¬0xE6D88C2A¬25244160¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstDeathBlossoms¬0x736A348D¬20735488¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstDeathBlossoms¬0xBCD7D144¬20736704¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstReadyToFall¬0x1B005B3B¬25197120¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRiseAgainstReadyToFall¬0xB4486B5E¬25195904¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRyanAdamsWonderwall¬0x14948CEF¬19365824¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourRyanAdamsWonderwall¬0x2A99921B¬19367040¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSUPRAHUMANProtoShredanoidGuitarHeroOnTourModernHitsTheme¬0x306C40A6¬24560640¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSUPRAHUMANProtoShredanoidGuitarHeroOnTourModernHitsTheme¬0x6C7D6555¬24561856¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSensesFailTheMartyr¬0x17D90ECB¬25214720¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSensesFailTheMartyr¬0xE8D3D66C¬25214720¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilverchairTomorrow¬0x3D8917EB¬23501632¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilverchairTomorrow¬0x5F1CD520¬23500416¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversteinIAmTheArsonist¬0x034111A5¬25259392¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversteinIAmTheArsonist¬0x55E6AFD4¬25254272¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversteinIAmTheArsonist¬0xC34E34A6¬25259392¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsItsNiceToKnowYouWorkAlone¬0x2FE3772A¬24257600¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsItsNiceToKnowYouWorkAlone¬0xA98F134E¬24256384¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsPanicSwitch¬0x0C9A95A4¬24022848¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsPanicSwitch¬0x75ED361B¬24021632¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsWellThoughtOutTwinkles¬0xAD98C3B5¬24303360¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSilversunPickupsWellThoughtOutTwinkles¬0xC345E19C¬24304576¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSlightlyStoopidJimi¬0x13F8B36A¬23167680¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSlightlyStoopidJimi¬0xFDAF7535¬23168896¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSportfreundeStiller5474902010¬0xDF4AF428¬22359360¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSportfreundeStiller5474902010¬0xE57A138C¬22360384¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourStanBushTheTouch¬0x0C8DE21D¬23309504¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourStanBushTheTouch¬0x6AD2BE72¬23308288¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanBlackFriday¬0x286838E6¬24292608¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanBlackFriday¬0xD73148A2¬24291584¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanBodhisattva¬0xB51B175F¬24280960¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanBodhisattva¬0xEAF3B9FA¬24281984¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanKidCharlemagne¬0x52989004¬25205632¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteelyDanKidCharlemagne¬0x7433C45D¬25204608¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteveOuimetteDuelingBanjos¬0xFC57543D¬23986496¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSteveOuimetteDuelingBanjos¬0xFC871A20¬23986496¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSwornElectroRock¬0xBE1C0167¬24058496¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourSwornElectroRock¬0xCC426C4D¬24057472¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTedNugentTedNugentGuitarDuel¬0x158D4EAB¬23888064¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTedNugentTedNugentGuitarDuel¬0xF583BEFD¬23889280¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheDevilWearsPradaDezMoines¬0x8DF3CF40¬24503424¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheDevilWearsPradaDezMoines¬0xC122F613¬24504640¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersHuman¬0x6E0CBB01¬23397056¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersHuman¬0xF787EBDE¬23398272¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersLosingTouch¬0xCD31D9EB¬24939456¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersLosingTouch¬0xE08E73E2¬24938240¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersMrBrightside¬0x77FB6A0C¬24879360¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheKillersMrBrightside¬0xE872E123¬24880384¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursConsolerOfTheLonely¬0xD2931DC6¬24425216¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursConsolerOfTheLonely¬0xF9A6D426¬24424192¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursHoldUp¬0xA3A4A004¬24418752¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursHoldUp¬0xE168E8A6¬24419776¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursSaluteYourSolution¬0x304F11E7¬23494848¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRaconteursSaluteYourSolution¬0xEA3FFA96¬23495872¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRasmusInTheShadows¬0x0F253070¬25064832¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheRasmusInTheShadows¬0xB16B9C45¬25065856¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheShinsNewSlang¬0x5847E182¬24007936¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheShinsNewSlang¬0xAC72E39D¬24006720¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSleepingBombTheWorld¬0x2C8E3D91¬24369344¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSleepingBombTheWorld¬0x5592FDAE¬24369344¬.wad¬(WADFormat)(Europe)(Update)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSleepingBombTheWorld¬0xEB3007A3¬24364800¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkins1979¬0x4FF76271¬24699008¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkins1979¬0x935B0B17¬24700224¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkinsGLOW¬0x5512BFCA¬23867520¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkinsGLOW¬0xE77241AD¬23868736¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkinsTheEverlastingGaze¬0x3BD6F4A1¬24669888¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheSmashingPumpkinsTheEverlastingGaze¬0xE020DF24¬24671104¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheVinesOuttathaway¬0x076F6E70¬24119680¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourTheVinesOuttathaway¬0xB8FDEE29¬24120896¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourThriceAllTheWorldIsMad¬0x09732766¬24806976¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourThriceAllTheWorldIsMad¬0x240F656E¬24806976¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourUnearthGraveOfOpportunity¬0x872FF2F8¬24956160¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourUnearthGraveOfOpportunity¬0xBCB7EB55¬24954944¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourVanillaSkyBreakItOut¬0xCCB0E584¬25153600¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourVanillaSkyBreakItOut¬0xD34A61D6¬25154624¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsHiHiHi¬0x71FE6615¬24601856¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsHiHiHi¬0xDC74455C¬24603072¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsJet¬0x66C7C310¬24274432¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsJet¬0x9E604087¬24275648¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsJuniorsFarm¬0x51F04952¬24636736¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWingsJuniorsFarm¬0x8C7720B8¬24637952¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWithinTemptationWhatHaveYouDone¬0x889F17DC¬24556160¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWithinTemptationWhatHaveYouDone¬0xA3E1FB96¬24557184¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWolfmotherDimension¬0xEC596F35¬24037696¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourWolfmotherDimension¬0xED2379F9¬24036480¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourZZTopGimmeAllYourLovin¬0x2D5C2E02¬24210176¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourZZTopGimmeAllYourLovin¬0x6ED3A19E¬24211392¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourZakkWyldeZakkWyldeGuitarDuel¬0x3C871A6F¬23939456¬.wad¬(WADFormat)(Europe)(GHWT)¬
+NintendoWii¬GuitarHeroWorldTourZakkWyldeZakkWyldeGuitarDuel¬0x8701FCF3¬23938240¬.wad¬(WADFormat)(USA)(GHWT)¬
+NintendoWii¬GunstarHeroes¬0x6EA89CA1¬13931904¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬GunstarHeroes¬0x7F51577D¬12966720¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬GunstarHeroes¬0xC68BCD48¬13335936¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬Gynoug¬0x10B5106D¬12672832¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬Gyrostarr¬0xDDE38445¬40789440¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HBArcadeCards¬0xC6CF3B95¬19432768¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HajiiteBlockRush¬0x7F19FF05¬17319808¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HamaruBilliards¬0xA63E615F¬43851264¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HamaruBowling¬0xAE4D6C27¬40486912¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HameKomiLuckyPuzzleWii¬0xF18B55DD¬11840640¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HamekomiLuckyPuzzleWiiReturns¬0x2B7FF079¬12044032¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HappyHolidaysHalloween¬0x7FFEC9D9¬13734848¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬HarvestMoon¬0x33FE7FF9¬14943168¬.wad¬(WADFormat)(Germany)(NES)(Virtual Console)¬
+NintendoWii¬HarvestMoon¬0x57F19341¬15455872¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬HarvestMoon¬0xAFA5C975¬15507136¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬Helix¬0xB49FCB97¬40616768¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Helix¬0xF90C7D41¬40616768¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬HeraclesChariotRacing¬0x373DE671¬42871808¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HeraclesChariotRacing¬0x86CE8B28¬44022848¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬HeronSteamMachine¬0xBA50254C¬22309632¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬HighVoltageHotRodShow¬0x9797D0F6¬44525120¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HiramekiCardBattleMekuruka¬0x5543ADAF¬39797184¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬HockeyAllstarShootout¬0x1D486ED0¬15496192¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HokutoNoKen¬0xB9E1A099¬12159104¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬HomeSweetHome¬0xC7D15449¬16558336¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬HomeSweetHome¬0xD405C222¬16555328¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬HoppingMappy¬0x7C53F1A1¬14323328¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬HoshiNoKirby64¬0x7844526F¬29372864¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬HoshiNoKirbyYumeNoIzumiNoMonogatari¬0x0404809B¬13154752¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬IcarianKindredSpirits¬0x9E2CB874¬39553600¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬IceClimber¬0x480A221B¬12137088¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬IceClimber¬0x59912123¬12049536¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬IceClimber¬0x85755B4E¬12589184¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬IceHockey¬0x2FB3791A¬12210048¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬IceHockey¬0xB44EBC5D¬12222656¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬IceHockey¬0xEF34C4A3¬12653696¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬IkeIkeNekketsuHockeyBuSubetteKorondeDairantou¬0x0DE825B5¬11560768¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Ikki¬0x92C5EE9C¬12167744¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬ImageFightII¬0xD3760B19¬31735104¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬ImageFight¬0x480F2DCE¬12215104¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬ImpossibleMissionII¬0xEABD45E5¬17728768¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬ImpossibleMission¬0xA69887F5¬16546944¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬Incoming¬0xF07199A8¬15600832¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬IncredibleMaze¬0x138E557E¬24263872¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬IncredibleMaze¬0x8ACE4568¬24444352¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬InternationalKarateAnd¬0x095CF3E8¬16744192¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬InternationalKarate¬0x60E61CC6¬14610880¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬InternationalKarate¬0xF355A78D¬16541824¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬IshtarNoFukkatsu¬0xF8B55590¬14598528¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬JJAndJeff¬0x699EE2D9¬12818688¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬JJAndJeff¬0xFF9B360B¬13138944¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬JigokuMeguri¬0x44FCB1D8¬11790784¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬JinseiGame¬0x778BDC57¬41465984¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Jumpman¬0xACBA2BD0¬16423360¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬JungleSpeed¬0x241A7225¬41165184¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬JungleSpeed¬0x635377DD¬41153344¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬JusoKiheiLeynos¬0x47BC06FE¬12427648¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬Jyuouki¬0x04A0BB38¬14414528¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬KageNoDensetsu¬0x9BB112CA¬12157696¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬KamaitachiNoYoru¬0xDCDFBA3F¬17773568¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬KappakunToAsobouKappakunNoOtaNoShimikai¬0x9AF51029¬15632704¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KappakunToAsobouKappakunNoOtaNoShimikai¬0xE3339E5C¬10139328¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KappakunToAsobouKappakunTo3BikinoKoneko¬0x6A018D76¬10582336¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KappakunToAsobouKappakunTo3BikinoKoneko¬0xDFEF06F5¬15793216¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KappakunToAsobouKappakunToMoriNoNakamatachi¬0x8E0927E0¬10755008¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KappakunToAsobouKappakunToMoriNoNakamatachi¬0xE5BF773B¬14723712¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KaraokeJoysoundWii¬0x3E7C2C44¬25157696¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KaratePhantsGlovesOfGlory¬0x2EC7E612¬40826112¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬KatachiNoGameMaruBouShikaku¬0x2EDDB45C¬15256576¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KazeNoDensetsuXanaduII¬0x13EE90A1¬43554432¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬KazeNoDensetsuXanadu¬0xA1FF8CD0¬49259904¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬KenteiTVWiiMinnaDeGotouchiQuizBattle¬0xC44FE2E5¬41314496¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KiKiKaiKai¬0x8ACAEA33¬12305152¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬KidChameleon¬0x6B5E68E3¬13410816¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬KidChameleon¬0xA2E8A331¬14721216¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬KidIcarus¬0x6B90DE65¬12326656¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬KidIcarus¬0x937DD1CF¬13033856¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬KikenKuuiki¬0x7C84C630¬43236608¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KimiToBokuToRittai¬0x0D54E890¬23024064¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KingOfTheFighters94¬0x0DA9BF42¬38835904¬.wad¬(WADFormat)(Japan)(NG)(Virtual Console)¬
+NintendoWii¬KingOfTheFighters94¬0x3A9019F4¬39142720¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬KingOfTheFighters94¬0x51B129A3¬39916992¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬KingOfTheMonsters¬0x194F5DA7¬22317952¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬KingOfTheMonsters¬0xC9844CE8¬21205376¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬KingsKnight¬0x43BEDD12¬12757056¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Kirby64TheCrystalShards¬0x2627040F¬30539904¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬Kirby64TheCrystalShards¬0x7BB4A5D2¬29972864¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬KirbyBowl¬0xF59A7ED5¬13672192¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysAdventure¬0x2ACC28CA¬13732544¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬KirbysAdventure¬0x6A904F74¬13123264¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬KirbysAdventure¬0xAE0F3B0E¬12999808¬.wad¬(WADFormat)(France)(NES)(Virtual Console)¬
+NintendoWii¬KirbysAvalanche¬0x4D7F6937¬14207104¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysDreamCourse¬0x727CD3B7¬14386432¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysDreamCourse¬0xEAD4FB7D¬14961920¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysDreamLand3¬0x623890CA¬16190720¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysDreamLand3¬0xA78292F7¬15879488¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬KirbysGhostTrap¬0x91244E0C¬14425728¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬KnuckleHeads¬0x26F46AC7¬19934144¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬KodomoKyouikuTerebiWiiAiueOuchan¬0xA5884F69¬36562368¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KodomoKyouikuTerebiWiiAiueOuchan¬0xDD75845F¬93428672¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KodomoKyouikuTerebiWiiAiueOumuzu¬0x727D0A50¬38575872¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KodomoKyouikuTerebiWiiAiueOumuzu¬0xA094C541¬29662592¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KotobaNoPuzzleMojipittanWii¬0x1CC6C920¬44500800¬.wad¬(WADFormat)(Japan)(v2)(WiiWare)¬
+NintendoWii¬KotobaNoPuzzleMojipittanWii¬0x6DC43779¬44559296¬.wad¬(WADFormat)(Japan)(v257)(WiiWare)¬
+NintendoWii¬KotobaNoPuzzleMojipittanWii¬0x989D84CF¬3907584¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬KurohigeKikiIppatsuWii¬0x77022632¬24667456¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬KyouToAshitaNoUranaiLuckyChannel¬0xD7EC7756¬24986624¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬LDis¬0x61DEACA2¬32518016¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬LIT¬0xA7B8A22B¬34208832¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬LandstalkerTheTreasuresOfKingNole¬0x101329CE¬14131008¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬LandstalkerTheTreasuresOfKingNole¬0x856B57B4¬15552768¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬LangrisserDer¬0x2E4EC140¬13908928¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬LangrisserII¬0x06868EFD¬13489856¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬Langrisser¬0xA95EC344¬12687616¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬LastNinja2BackWithAVengeance¬0x0DFCB3FE¬14993536¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬LastNinja2BackWithAVengeance¬0x7444A82B¬16990272¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬LastNinja3RealHatredIsTimeless¬0x8BE416A1¬17294592¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬LastNinja¬0x654507C7¬17054336¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬LastNinja¬0xBA2E8128¬15150912¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬LearningWithThePooYoosEpisode1¬0x3D1B650D¬46863360¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LegendOfHeroTonma¬0x8AB7224A¬13031232¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬LegendOfHeroTonma¬0xB218C708¬12785728¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬LegendOfKage¬0xBBD0121E¬12174848¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬LegendOfMysticalNinja¬0x24445E72¬14815360¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfMysticalNinja¬0xCF3FBB79¬14970432¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfMysticalNinja¬0xF45EBDC6¬15811776¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaALinkToThePast¬0x47A7E055¬14371904¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaALinkToThePast¬0x73AEA016¬14367488¬.wad¬(WADFormat)(France)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaALinkToThePast¬0x753C8300¬15970944¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaALinkToThePast¬0xAE7617BC¬14854336¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaMajorasMask¬0x7F115C3D¬43417024¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaMajorasMask¬0xDF54D7AF¬42639872¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaOcarinaOfTime¬0x1D24C65A¬48377728¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬LegendOfZeldaOcarinaOfTime¬0x771A451F¬46966144¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬LegendOfZelda¬0x20D407D9¬12440960¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬LegendOfZelda¬0x3256626E¬12728320¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬LetsCatch¬0x6D622B1A¬17956736¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LetsCatch¬0x7EB983CD¬17989632¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬LetsCatch¬0x9E319D41¬14771584¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬LetsZenryokuHitchhike¬0x5495F8B1¬41485888¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬LiccachanOshareHouse¬0xE6E36CD9¬42580224¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬LifeForce¬0xBD80D063¬11658048¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬LightCrusader¬0x22657B00¬15270784¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬LightCrusader¬0x7BE7C6E4¬14138048¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬LittleTournamentOverYonder¬0xD4B5E848¬20901056¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LodeRunner¬0x311E1B1D¬12222208¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬LodeRunner¬0xA5411170¬12242816¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Lonpos¬0x121983DF¬19572800¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Lonpos¬0x5D748AAA¬6011520¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬Lonpos¬0xA6C62731¬6011520¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬Lonpos¬0xC5D0492A¬22943168¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Lonpos¬0xF2F52E58¬6011520¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬Lonpos¬0xF8A09DBF¬22721344¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LordsOfThunder¬0x386B7592¬37833920¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬LordsOfThunder¬0xC3D9F4DE¬37563776¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬LostWindsWinterOfTheMelodias¬0x11036756¬45483456¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LostWindsWinterOfTheMelodias¬0x81CB8CFC¬45494592¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬LostWinds¬0x93FB215A¬36784064¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬LostWinds¬0xA89717DF¬40087616¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬LostWinds¬0xAE312091¬36783168¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬LufiaIIRiseOfTheSinistrals¬0x34E2C77C¬22559296¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬LunarBall¬0xB185ABAB¬12140288¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬LunarPool¬0xD8E77039¬12404672¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬LunarPool¬0xDA04B5FB¬12467904¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬LylatWars¬0xC9D2D599¬28921856¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬MUSHA¬0x3D92A467¬13599616¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬MUSHA¬0x5190AEAE¬12732160¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬MaBoShiTheThreeShapeArcade¬0x6D4A8ECC¬18665536¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MaboshisArcade¬0xC54E66DD¬22401280¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MachRider¬0x0C309211¬12353920¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬MachRider¬0x5B742121¬12488896¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬MachRider¬0xC94603CE¬12248832¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MadStone¬0x89D8E8DE¬14378368¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Madsecta¬0x35C9D8B2¬44383168¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MagicianLord¬0x434DC45B¬18767296¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬MagicianLord¬0xB3152B24¬19299136¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬MagneticaTwist¬0x9D7D9450¬19263552¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Magnetis¬0x18A27D00¬18453696¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MajorLeagueEatingTheGame¬0x0AA4E2A9¬33810816¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MajorLeagueEatingTheGame¬0x737F2C14¬37008832¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Mappy¬0x32A6F89E¬14263424¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Mappy¬0x5E38CF69¬14693952¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬Mappy¬0xF56C5BC7¬15060416¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬MarioAndYoshi¬0x11F48A86¬12630592¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬MarioBros¬0x22014E69¬12008192¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MarioBros¬0x250ABE7A¬12345792¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬MarioBros¬0x44CBB71D¬12056192¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬MarioGolf64¬0x283E7766¬34806912¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬MarioGolf¬0x4EEF5C36¬36294720¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬MarioGolf¬0x70535D8D¬35974336¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬MarioKart64¬0x48751072¬25598912¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬MarioKart64¬0xC8C1CFD6¬25609984¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬MarioKart64¬0xE7AB3F4F¬26475648¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬MarioStory¬0x6566E39A¬42174784¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬MariosSuperPicross¬0xF0961834¬14200512¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬MartRacer¬0xA6C23977¬28391552¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MartialChampion¬0x1F6C9BD9¬49009920¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬MarvelLand¬0x6B0EB038¬16004608¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬MayhemInMonsterland¬0x8454AEC3¬16952064¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬MegaTurrican¬0xAD644E7C¬15699776¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬MegaTurrican¬0xB0E5A405¬14100416¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Megaman2¬0x0776A1A1¬13804352¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Megaman2¬0x3A53271F¬12099648¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Megaman3¬0x4EDBC1F8¬12107968¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Megaman3¬0xD6211CF7¬12524864¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Megaman9¬0x491552B5¬15928704¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Megaman9¬0x62BE680B¬364608¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬Megaman9¬0xA34F7509¬364608¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬Megaman9¬0xBC2A8FEE¬15929536¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Megaman¬0xE1307C05¬12798784¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Megaman¬0xE227B74D¬11821504¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MeikyuKumikyokuMironNoDaibouken¬0xA9CC1627¬11936256¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬MetalMarines¬0xD90D2A9D¬14924736¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬MetalSladerGlory¬0x1625BBE1¬12797440¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬MetalSlug2¬0x7328884A¬32060928¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬MetalSlug2¬0xEB589C61¬30202240¬.wad¬(WADFormat)(Japan)(NG)(Virtual Console)¬
+NintendoWii¬MetalSlug2¬0xFF8506F1¬31099328¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬MetalSlug¬0xA0C7EEEA¬41316480¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬MetalSlug¬0xA811752D¬40324416¬.wad¬(WADFormat)(Japan)(NG)(Virtual Console)¬
+NintendoWii¬MetalSlug¬0xD4331DAC¬41957568¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬Metroid¬0x1522DCCF¬12801088¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Metroid¬0x5358FD79¬12080768¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Metroid¬0xF9060F94¬12587200¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MidnightBowling¬0x364AB2D3¬39716544¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MidnightBowling¬0xC5409E22¬39699968¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MidnightPool¬0x1C81C40F¬43899456¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MidnightPool¬0x4EF6E530¬43900480¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MightyBombJack¬0xBBB0A58D¬12901952¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬MightyBombJack¬0xC3EE1D34¬12483776¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MilitaryMadness¬0x73D6D4C1¬13148352¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬MilitaryMadness¬0xA810A127¬12911232¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Militia¬0x706216DA¬14360960¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬MilonsSecretCastle¬0xFFF57E5D¬12532864¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬MinnaDeAsobouKoinuDeKururin¬0xB03FBF06¬18597440¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MinnaDePuzzloop¬0xEB733D47¬16511552¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MinnaDeTaisenPuzzleShanghaiWii¬0x119E3D17¬39595136¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MinnaDeTobikomePenguinDivingHooperLooper¬0x2427DCD8¬17623680¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MinnaNoNintendoChannel¬0x4B72C492¬30625408¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬MinnaNoPokemonBokujouPlatinaTaiouban¬0x3924BA61¬21436608¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MinnaNoTheaterWii¬0x755AFA94¬25190592¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MoebiusDrive¬0xEBF232B0¬19738176¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MonsterLair¬0x6E3072A4¬33510720¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬MonsterLair¬0x87221B9C¬33326272¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬MonsterWorldIV¬0xAA11EDB9¬13275200¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬MotoRoader¬0x02D1DC06¬13428800¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬MotoRoader¬0xF10D8448¬12887936¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬MrDrillerWorld¬0xE6C2CF70¬20494144¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MrDrillerW¬0x3347E710¬20380544¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MrDrillerW¬0xF5ADDC6A¬20381504¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MuscleKoushinkyoku¬0xC5EB4ED7¬40552832¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬MyAquarium¬0x25725328¬33471232¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MyAquarium¬0xC73168C2¬33467840¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬MyPokemonRanch¬0x580AB7F3¬20589056¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬MyPokemonRanch¬0x61175D04¬20588992¬.wad¬(WADFormat)(USA)(v256)(WiiWare)¬
+NintendoWii¬MyPokemonRanch¬0xEA440AFC¬21347904¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬NESOpenTournamentGolf¬0xA5918474¬12984384¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NESOpenTournamentGolf¬0xF43552D0¬13393408¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬NESPlayActionFootball¬0x14649A4A¬12826880¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NazoNoMurasame¬0x4FAA13D6¬11481216¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Nebulus¬0xFDE895B1¬16415104¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬NekketsuKouhaKuniokun¬0xB72E771E¬12038016¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NekketsuKoukouDodgeballBuCDSoccerHen¬0x0CD78832¬33578432¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬NekketsuKoukouDodgeballBuPCBangaihen¬0xDECEDEE1¬12272640¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬NekketsuKoukouDodgeballBuSoccerHen¬0x3F93691E¬11593600¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NekketsuKoukouDodgeballBu¬0xF2200F21¬12348224¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NeoNectaris¬0xFD01A53C¬43339584¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬NeoTurfMasters¬0x0BEE5932¬34389696¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬NeoTurfMasters¬0x513EADDF¬32828480¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬NeutopiaII¬0x2E03ACEE¬13341312¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬NeutopiaII¬0x3CAF8B7A¬13089088¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Neutopia¬0xDA7D5B47¬12863168¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Neutopia¬0xDF529C2D¬13148416¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬NevesPlus¬0x55727688¬11940224¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬NewAdventureIsland¬0x1003EE43¬13449216¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬NewAdventureIsland¬0xE9D987AC¬13042688¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬NikiRockNBall¬0x1F1763DD¬19628352¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬NikiRockNBall¬0x422764A3¬19628416¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬NinjaCombat¬0x28560D9E¬20969216¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬NinjaCombat¬0x778599EB¬19561664¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬NinjaCommando¬0x59AEC3A5¬22301440¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬NinjaCommando¬0xA60BC17C¬21074496¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬NinjaGaidenIIITheAncientShipOfDoom¬0x9F9D42F9¬12599936¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NinjaGaidenIITheDarkSwordOfChaos¬0x3FFEC5DF¬12330816¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NinjaGaiden¬0x8379B707¬12527552¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NinjaGaiden¬0xB6CB0A89¬13060224¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬NinjaJaJaMarukun¬0x2AF017E8¬12198464¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NinjaJaJaMarukun¬0x6BB9869E¬12928128¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬NinjaJaJaMarukun¬0x9315A3A1¬12780224¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬NinjaRyukenden¬0x20FBB10E¬12092288¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NinjaRyukenden¬0x3E5BA2A3¬12999232¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬NinjaRyukenden¬0xB2E5344A¬11950720¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬NinjaSpirit¬0x6F9883E2¬12905664¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬NinjaSpirit¬0x75DCF559¬13263936¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬NinjakunAshuraNoShou¬0xB94240CB¬11700736¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬NintendoAllStarDairantouSmashBrothers¬0x68539A0C¬23396672¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬NintendoChannel¬0x709F63D9¬30349568¬.wad¬(WADFormat)(USA)(Channel)¬
+NintendoWii¬NobunagasAmbition¬0x3D1E0E12¬12373952¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬NumanAthletics¬0x5479F788¬19150272¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬NyxQuestKindredSpirits¬0x01CDE338¬39555200¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬NyxQuestKindredSpirits¬0xE63A0C66¬39555968¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬OekakiLogic¬0x5A2CFAE5¬217152¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬OekakiLogic¬0xE8C6CB14¬12882112¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OgreBattleTheMarchOfTheBlackQueen¬0x5744CB5F¬14110144¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬OgreBattleTheMarchOfTheBlackQueen¬0x6236A855¬14577728¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬OkirakuAirHockeyWii¬0xD457F79F¬33897792¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuDaifugouWiiHonkakuWiFiNetTaisen¬0x2C0F1038¬23417664¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuDaifugouWiiHonkakuWiFiNetTaisen¬0x62288155¬23417600¬.wad¬(WADFormat)(Japan)(v257)(WiiWare)¬
+NintendoWii¬OkirakuDaifugouWiiHonkakuWiFiNetTaisen¬0xA1CEB6FD¬1544640¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬OkirakuPingPongWii¬0xFD791884¬38685760¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuPutterGolfWii¬0x5E364255¬26233792¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuPutterGolfWii¬0x78454EB6¬6176896¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬OkirakuSlotCarRacingWii¬0x7D422D3A¬28875584¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuSugorokuWii¬0x62CBAFEA¬2051200¬.wad¬(WADFormat)(Japan)(v2)(DLC)(WiiWare)¬
+NintendoWii¬OkirakuSugorokuWii¬0xCD0FBA2E¬4009920¬.wad¬(WADFormat)(Japan)(v5)(DLC)(WiiWare)¬
+NintendoWii¬OkirakuSugorokuWii¬0xE87A7BD0¬27698112¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OkirakuTennisWii¬0xD8E79296¬25141312¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OnitoreKyoukanWaOnigunsou¬0xA9005536¬18953984¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Onslaught¬0x3D5ACF70¬44393536¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Onslaught¬0x5AD2D7EB¬44394432¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬OperaInternetChannelShop¬0x10103B55¬35067392¬.wad¬(WADFormat)(Japan)(v512)(Channel)¬
+NintendoWii¬OperaInternetChannelShop¬0x191E9525¬35370304¬.wad¬(WADFormat)(Europe)(v512)(Channel)¬
+NintendoWii¬OperaInternetChannelShop¬0x2CB3AE80¬37518400¬.wad¬(WADFormat)(USA)(v257)(Channel)¬
+NintendoWii¬OperaInternetChannelShop¬0x7719F418¬40004032¬.wad¬(WADFormat)(Japan)(v3)(Channel)(b)¬
+NintendoWii¬OperaInternetChannelShop¬0xB84FCBF7¬38972992¬.wad¬(WADFormat)(Japan)(v257)(Channel)¬
+NintendoWii¬OperaInternetChannelShop¬0xE3D4A16E¬40594432¬.wad¬(WADFormat)(Europe)(v257)(Channel)¬
+NintendoWii¬OperaInternetChannelShop¬0xF8825BC5¬33085504¬.wad¬(WADFormat)(USA)(v512)(Channel)¬
+NintendoWii¬OperationWolf¬0x3B2D597F¬12583936¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬OperationWolf¬0x5462C476¬12981248¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Order¬0x0D9637B2¬16642048¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Ordyne¬0x12D9FD0F¬12989504¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Otogirisou¬0xED249711¬14639616¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬OuchideMugenPutiPuti¬0x816EA202¬41516736¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬OutOfGalaxyGinNoKoushika¬0xD221E3F5¬38180800¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Overturn¬0x546A59FA¬30532032¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Overturn¬0x80388216¬31287744¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PacAttack¬0x0B75C64F¬13366528¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬PacAttack¬0x25F1B662¬14106752¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬PacMania¬0x00EB4255¬14374144¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬PacMan¬0x0ACA446F¬12195520¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬PacMan¬0x312E3BD0¬12147776¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬PacMan¬0xC7C022BC¬12640512¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬PaperMario¬0x82C66344¬45015040¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬PaperMario¬0xD469A9E1¬42240576¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬Paradroid¬0x55E1C7FD¬16517184¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬PartyFunPirate¬0x267B9937¬24903872¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PeakvoxEscapeVirus¬0xAF0A3153¬37474624¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PenguinsAndFriendsHeyThatsMyFish¬0x1869F6FD¬26653120¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PenguinsAndFriendsHeyThatsMyFish¬0xAE82171C¬27939328¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PhantasyStarIIIGenerationsOfDoom¬0x6911B441¬15186752¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStarIIIGenerationsOfDoom¬0xB54A5284¬13869248¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStarII¬0x20E83233¬14951552¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStarII¬0x70D2B99E¬13661568¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStarIV¬0xD30C0855¬16896640¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStarIV¬0xF69A6AA3¬15366912¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PhantasyStar¬0x2D00F246¬13290560¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬PhantasyStar¬0x68E9A10E¬14530816¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬PhantasyStar¬0xF416BA44¬12562432¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬Phelios¬0xD6320E24¬16249856¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬PictureBookGamesAPopUpAdventure¬0x41D940D5¬22621440¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PictureBookGamesPopUpPursuit¬0x00971F93¬22293568¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Pilotwings¬0x13A48F4D¬12653440¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬Pinball¬0x5D07800E¬12475136¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Pinball¬0xE7691964¬12059328¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬PiratesTheKeyOfDreams¬0x83077BEF¬19132288¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PiratesTheKeyOfDreams¬0xFC81933B¬19131392¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PitCrewPanic¬0x3C4885C3¬41923840¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PitCrewPanic¬0x9E858E62¬42359040¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PitCrewPanic¬0xD7807802¬41694016¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PitfallTheMayanAdventure¬0x0345CF5D¬14484928¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PitfallTheMayanAdventure¬0xD8D1E6AE¬14299072¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PitstopII¬0xA1729D35¬16788928¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬PitstopII¬0xF6ACCFEA¬14731840¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬PlaettchenTwistNPaint¬0x39EBA7C7¬40375744¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PlaettchenTwistNPaint¬0x7246013A¬40376064¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PlanetPachinko¬0xB88D4212¬32000128¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PokemonFushigiNoDungeonIkuzoArashiNoBoukendan¬0xECA431E2¬28391552¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PokemonFushigiNoDungeonMezaseHikariNoBoukendan¬0xFA339B9B¬28381312¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PokemonFushigiNoDungeonSusumeHonouNoBoukendan¬0x08A4F7FC¬28511040¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PokemonPuzzleLeague¬0x6F89941D¬43835072¬.wad¬(WADFormat)(Germany)(N64)(Virtual Console)¬
+NintendoWii¬PokemonPuzzleLeague¬0x90B76081¬43483648¬.wad¬(WADFormat)(France)(N64)(Virtual Console)¬
+NintendoWii¬PokemonPuzzleLeague¬0xCE181912¬44497920¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬PokemonPuzzleLeague¬0xEA68DEC2¬44512384¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0x5CC9B61B¬30225536¬.wad¬(WADFormat)(Italy)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0x6B13B4AA¬30380480¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0x8BFDC743¬30234944¬.wad¬(WADFormat)(France)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0x9C7C0ABB¬29978624¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0x9D5BE5EB¬30235072¬.wad¬(WADFormat)(Germany)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0xA92FA3F5¬30385152¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬PokemonSnap¬0xD693D872¬30228800¬.wad¬(WADFormat)(Spain)(N64)(Virtual Console)¬
+NintendoWii¬PokersWii¬0x34703667¬18727104¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PongTossFratPartyGames¬0xCBC8C9E3¬19662080¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PoolRevolutionCueSports¬0xC123B625¬29873728¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Pooyan¬0xD5055F2B¬11726720¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬PopEmDropEmSameGame¬0x03C3D899¬9597952¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬PopThemDropThemSameGame¬0x8AB6175A¬9799232¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PopnMusic¬0x32C2DAD5¬45252736¬.wad¬(WADFormat)(Japan)(DLC 3)(PNM)¬
+NintendoWii¬PopnMusic¬0xBE87670E¬44367168¬.wad¬(WADFormat)(Japan)(DLC 1)(PNM)¬
+NintendoWii¬PopnMusic¬0xE9AA1C74¬46412160¬.wad¬(WADFormat)(Japan)(DLC 2)(PNM)¬
+NintendoWii¬PoppleToMahouNoCrayon¬0xB427B5D3¬31426880¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PopupPirate¬0x585C339E¬24730752¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Pop¬0x029C5BB8¬22143872¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Pop¬0x3803C212¬22015104¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Pop¬0xB71F1D80¬22015104¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Potpourrii¬0x233605DB¬24952768¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Potpourrii¬0x2A260E0C¬24961024¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PowerGolf¬0x31DCF918¬12754240¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬PowerGolf¬0x3D7E7EB0¬13007168¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Powerball¬0x4953F8C3¬13205824¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PrincessAiMonogatari¬0x7157D5F3¬36104192¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PrincessAiMonogatari¬0xEFBFAF4C¬55511104¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬ProbotectorIIReturnOfTheEvilForces¬0x5FE6D8C1¬13353536¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Protoethea¬0xB5F4B270¬36897664¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Protothea¬0xC49337EE¬38019520¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Psychosis¬0x59214494¬12474816¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Psychosis¬0xC175DF82¬12637760¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Pulseman¬0x76E5017A¬14018304¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Pulseman¬0xB2F7F940¬13493888¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬Pulseman¬0xC1267883¬14848640¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PunchOut¬0x35870B60¬13436032¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬PunchOut¬0x93260614¬12426112¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬PunchOut¬0xF56B4B5A¬12476352¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬PuyoPuyo2¬0x14199D6F¬15212800¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬PuyoPuyo2¬0x3F1D9D26¬14109632¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬PuyoPuyo2¬0x6D0DF709¬13115264¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬PuyoPuyo¬0x1DC05AD0¬13015552¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬PuzzleBobblePlus¬0x377539C8¬151360¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬PuzzleBobblePlus¬0x443BEC91¬36963072¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬PuzzleBobbleWii¬0x0FB79102¬33251584¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬PuzzleBobbleWii¬0x41D6DD80¬151360¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬RTypeIIITheThirdLightning¬0x01F1F42B¬17869760¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬RTypeIIITheThirdLightning¬0x2AED5675¬17078272¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬RTypeII¬0x1B3EC90C¬12638208¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬RType¬0x3E296126¬14360512¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬RType¬0x58075725¬13444160¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬RType¬0x5940416D¬12996992¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬RType¬0xEF7D1032¬12425600¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬RType¬0xFC5BD7FA¬12598784¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬RainbowIslandsToweringAdventure¬0x0D03AC2F¬36797888¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬RainbowIslandsToweringAdventure¬0x24991DB2¬41606016¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬RainbowIslandsToweringAdventure¬0xBCD8DF36¬36798528¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬RakuRakuKinenAppliWiiKinenkaNoIshaGaOshieruNanokaDeYamaruHoho¬0x95B1F5AE¬16220928¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬RansenPokemonScramble¬0x61C8A2E8¬27538240¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ReelFishingChallenge¬0x021A2B79¬38394176¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Renegade¬0x17B9DF75¬12536512¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬RevengeOfShinobi¬0x34BABD29¬13699904¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬RevengeOfShinobi¬0xEDED58D7¬13096448¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬RiotZone¬0x7FA9A151¬31230912¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬RiotZone¬0xCE794D1F¬31404416¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Ristar¬0x24E7EA91¬13819456¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Ristar¬0x3EEA8065¬14782848¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬RiverCityRansom¬0xFD0C7E00¬12718144¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬RockNRollClimber¬0x595CF7EF¬18934080¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Rockman2DrWilyNoNazo¬0xAC03C6D9¬12396928¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Rockman3DrWilyNoSaigo¬0xCE14119C¬11796864¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Rockman9YabouNoFukkatsu¬0x1ABEA1BD¬15931968¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Rockman9YabouNoFukkatsu¬0x5FEC46C8¬364608¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬Rockman¬0x815F5C9E¬12085376¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬RollingThunder2¬0x2C431214¬13854336¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬RollingThunder2¬0xF9146C50¬13139776¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬RollingThunder¬0x343FE9B8¬14889536¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬RomanceOfTheThreeKingdomsIVWallOfFire¬0x77551BCC¬19455104¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬Rygar¬0x1E8CD63B¬17183680¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬Rygar¬0xD308277B¬18852864¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬SPOGSRacing¬0x1AD0B22D¬37478144¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SPOGSRacing¬0xC0EFF02C¬37719872¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SaigoNoNindouNinjaSpirit¬0xE4CF4C78¬12318720¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬SaikyouGinseiChess¬0x67A11538¬27781248¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SaikyouGinseiGomokuNarabe¬0x4325D479¬30586688¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SaikyouGinseiIgo¬0x6A30DED1¬26217472¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SaikyouGinseiMahjong¬0x212D46DA¬36719744¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SaikyouGinseiReversi¬0x7207998B¬30488512¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SaikyouGinseiShogi¬0xC7BA3554¬25491968¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SakuSakuAnimalPanic¬0x4C5F55C1¬39548544¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬Salamander¬0xD5E47914¬12066304¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬SambaDeAmigo¬0x17E46715¬47621824¬.wad¬(WADFormat)(Europe)(SDA)¬
+NintendoWii¬SambaDeAmigo¬0x20D362E8¬47621824¬.wad¬(WADFormat)(USA)(SDA)¬
+NintendoWii¬SambaDeAmigo¬0x92611D76¬47621760¬.wad¬(WADFormat)(Japan)(SDA)¬
+NintendoWii¬SameGameWii¬0xD6675A33¬9478016¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SamuraiGhost¬0x2B1F1B4A¬13080512¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SamuraiGhost¬0x39B4191D¬13356800¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SamuraiShodownII¬0x545537DA¬40313984¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬SamuraiShodownII¬0xDE676FDD¬41027264¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬SamuraiShodown¬0x5BD3F1F0¬29745408¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬SamuraiShodown¬0x9DC0BFF4¬29078464¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬SandyBeach¬0xA3BE26EB¬40253248¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SeaFarmIrukaToWatashiNoShowtime¬0x15A3A81A¬64064¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬SeaFarmIrukaToWatashiNoShowtime¬0x1BB155DA¬45826816¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SecretCommand¬0x30A507B8¬13502720¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬SecretCommand¬0x77CEC62A¬12712256¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬SecretOfMana¬0x25B709BF¬14176576¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SecretOfMana¬0x6C17333B¬14039488¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬SecretOfMana¬0x724B0408¬14440064¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SecretOfMana¬0xCF76D71A¬14036288¬.wad¬(WADFormat)(France)(SNES)(Virtual Console)¬
+NintendoWii¬SecretOfTheStars¬0x5E5B8B87¬22559296¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SeikenDensetsu2¬0xC0788C5F¬14087808¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SeireiSenshiSpriggan¬0x48411FEA¬40445952¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬SenjouNoOokamiII¬0x47F605A7¬12506368¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬SexyPoker¬0xC168916D¬41835008¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SexyPoker¬0xD9C8F7CE¬39262400¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ShadowWarriors2¬0xA451C194¬12891264¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Shadowrun¬0x8261826F¬14371904¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬ShikaGari¬0x49E12145¬36295104¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ShikakuiAtamaWoMaruKusuruMainichiMinnaNoChallengeHen¬0xAD519A96¬18169152¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬ShiningForceIIAncientSealing¬0xD2DEF199¬13719424¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ShiningForceII¬0x103ACC83¬14147008¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ShiningForce¬0xC6F11E5E¬15051456¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ShiningForce¬0xFD40A5F1¬13886592¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ShiningInTheDarkness¬0x3E75E9B0¬13350912¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ShiningInTheDarkness¬0xDCF87448¬14576704¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ShinobiIIIReturnOfTheNinjaMaster¬0x8C4E176A¬14644736¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ShinobiIIIReturnOfTheNinjaMaster¬0x94CA2397¬13344064¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Shinobi¬0x0F4C34D5¬14068416¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Shinobi¬0xF1AA0727¬17147776¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬Shockman¬0x677198B9¬12944320¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Shockman¬0x74D6D661¬13272512¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬ShootantoEvolutionaryMayhem¬0x9AA5D93B¬46361408¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ShootantoKakoHen¬0x5480C043¬47138432¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SilentDebuggers¬0x50DA83BA¬12945088¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SilentDebuggers¬0xDE593458¬13207168¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SilverStarChess¬0xB065E965¬32244480¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SilverStarReversi¬0x7675FF42¬34922752¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SimCity¬0x22F5B61E¬13084416¬.wad¬(WADFormat)(Germany)(SNES)(Virtual Console)¬
+NintendoWii¬SimCity¬0x66ED459F¬14163968¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SimCity¬0x9E17DB65¬13059648¬.wad¬(WADFormat)(France)(SNES)(Virtual Console)¬
+NintendoWii¬SimCity¬0xBA516A97¬13839232¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SimCity¬0xF3FC6AD3¬13350144¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SimEarthTheLivingPlanet¬0x116C4E62¬25276864¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SimEarthTheLivingPlanet¬0xFDA774D5¬25509568¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SimpleSeriesVol1TheBlockKuzushiNeo¬0x19D33B1B¬19954752¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SimpleSeriesVol2TheNumberPuzzleNeo¬0xE34F21B3¬28339520¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SimpleSeriesVol3TheMahjong¬0x1406DF55¬37588416¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SimpleSeriesVol4TheMisshitsuKaraNoDasshutsu¬0x1C12FDCE¬36986944¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SinAndPunishment¬0x0DB882FF¬47116544¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬SinAndPunishment¬0xBBD7F223¬47662336¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬SkateOrDie¬0x297B70F4¬13271232¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SkyKid¬0x51965C88¬12317120¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SkyKid¬0x7E18F35C¬14322560¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬SmashTableTennis¬0xC20F0106¬11856768¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SnowboardRiot¬0x03DC6E6B¬39262528¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SnowboardRiot¬0xD0CE3689¬39297728¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Soccer¬0xC3D2372F¬12152576¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Soccer¬0xFE9AB70D¬12494976¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SoldierBlade¬0x19541699¬13077952¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SoldierBlade¬0x235B7FE0¬13538368¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SolomonNoKagi¬0xF4D0883D¬12203072¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬SolomonsKey¬0x29F8F13B¬12585408¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SolomonsKey¬0x4938FE59¬18890880¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬SolomonsKey¬0x81DE176A¬12264576¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Solvalou¬0xA2F1408A¬18205824¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬Sonic3DBlast¬0xC0DA69C4¬15440896¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Sonic3DFlickiesIsland¬0x5ED3167E¬16943936¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicChaos¬0x38895F6F¬12325824¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SonicChaos¬0xB479C187¬13026880¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicChaos¬0xFB941020¬12300032¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SonicSpinball¬0x7C36877C¬14154432¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicSpinball¬0x9FF1010F¬13088256¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog2¬0x509E8716¬12305856¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog2¬0x645922E5¬13520768¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog2¬0x7A5F3937¬12905088¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog2¬0xC01DB873¬11865408¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog2¬0xE25240CB¬14793024¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog3¬0x0812C3C0¬14194304¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog3¬0x17B35724¬15587328¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog¬0x64E8C2D5¬12386816¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog¬0x6C5B5F92¬13032832¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog¬0x754BE8E9¬11736384¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog¬0x9501C16B¬13390976¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SonicTheHedgehog¬0xFC52FD78¬12665920¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SorceryBlade¬0x41B56E2A¬38505024¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SpaceHarrierII¬0x9F24610E¬12384576¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SpaceHarrierII¬0xA97922A0¬13103872¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SpaceHarrier¬0x15F86640¬15462720¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬SpaceHarrier¬0x1826E0C3¬11776448¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SpaceHarrier¬0x809E676D¬16436736¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬SpaceHarrier¬0xA50FC422¬12282560¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬SpaceHarrier¬0xCAF471F3¬12983424¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬SpaceInvadersGetEven¬0x075FE241¬47726464¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0x25587FF7¬31249344¬.wad¬(WADFormat)(Japan)(DLC x 2)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0x62858396¬43206784¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0xA3D5B3F1¬48046976¬.wad¬(WADFormat)(USA)(DLC)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0xC6257E9C¬48046976¬.wad¬(WADFormat)(Europe)(DLC)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0xC905D65F¬44044800¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SpaceInvadersGetEven¬0xCAB3E756¬44962176¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SpaceInvadersTheOriginalGame¬0x0B7C1284¬12352768¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SpaceInvadersTheOriginalGame¬0xCEB51110¬12606784¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SpaceInvaders¬0x1670A51B¬16947904¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬SpaceballRevolution¬0x175FF5B7¬45027520¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SpaceballRevolution¬0x8214943C¬45083264¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Spelunker¬0x248A3C4D¬12230592¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Spelunker¬0xCD9CB72C¬11749952¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Spelunker¬0xF14C27B7¬12122240¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Splatterhouse2¬0xF7D8D8A3¬12481088¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Splatterhouse2¬0xF8CCBE56¬13941376¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬Splatterhouse¬0x06F9A089¬13135104¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Splatterhouse¬0x095981A1¬12796096¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Splatterhouse¬0x0F3F681C¬15498112¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬SprigganMark2¬0x44F71DB0¬44646272¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬StarBlade¬0x5195EA9E¬18569792¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬StarBlade¬0xDA0559AD¬18528512¬.wad¬(WADFormat)(Japan)(v257)(Arcade)(Virtual Console)¬
+NintendoWii¬StarForce¬0x48B46F91¬12083072¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬StarForce¬0x533DB300¬12854272¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬StarForce¬0x9EBED33F¬11565632¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬StarFox64¬0x597D67FD¬26002432¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬StarFox64¬0xA5199ADA¬27119936¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬StarParodier¬0x13246E4B¬37577152¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬StarParodier¬0x3FEFB372¬36854784¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬StarParodier¬0xE1330E44¬37993024¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬StarSoldierR¬0x650BE33F¬25538368¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StarSoldierR¬0xB2EB81E7¬24977920¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬StarSoldierR¬0xB9140F27¬28669760¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬StarSoldier¬0x51A7B093¬12072384¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬StarTropics¬0xB272AE08¬14973824¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬StarTropics¬0xBA655895¬13302912¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬StoryOfThor¬0x404CBAE8¬15647744¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬StreetFighterIIDashPlusChampionEdition¬0xD0D69C8D¬13379840¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬StreetFighterIISpecialChampionEdition¬0x5AE9D6CF¬14058944¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬StreetFighterIISpecialChampionEdition¬0x8D3D2DE0¬14599680¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬StreetFighterIITheWorldWarrior¬0x008301CA¬17161024¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬StreetFighterIITheWorldWarrior¬0xC1A7BD8F¬16018496¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬StreetFighterIITurboHyperFighting¬0x19A58EE4¬16346112¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬StreetFighterIITurboHyperFighting¬0x491B29CB¬16012416¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬StreetGangs¬0x0F1599F7¬12899328¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬StreetsOfRage2¬0x01641882¬14951616¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬StreetsOfRage2¬0x12626954¬13721728¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬StreetsOfRage3¬0x53FCF928¬14506368¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬StreetsOfRage3¬0xE1273184¬15826432¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬StreetsOfRage¬0x0F5E60FF¬13124992¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬StreetsOfRage¬0x82EB6421¬14588736¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode1HomestarRuiner¬0x48AE09AA¬45667456¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode1HomestarRuiner¬0x538E36AA¬45666688¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode2StrongBadiaTheFree¬0x30E4F174¬45784256¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode2StrongBadiaTheFree¬0x7726C535¬45785152¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode3BaddestOfTheBands¬0xA3C797E2¬45811200¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode3BaddestOfTheBands¬0xAA742A6B¬45824320¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode4Dangeresque3TheCriminalProjective¬0x4EA2DC33¬45787968¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode4Dangeresque3TheCriminalProjective¬0x94AFC544¬45806272¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode58BitIsEnough¬0x1B748F22¬45164736¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬StrongBadsCoolGameForAttractivePeopleEpisode58BitIsEnough¬0x1C0566BB¬45182912¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SudokuChallenge¬0x96D51D8D¬20929024¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SudokuChallenge¬0xB868B627¬20895808¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬SugarbunniesWiiYoukosoBunniesFielde¬0x696009D2¬25828928¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SugarbunniesWiiYoukosoBunniesFielde¬0xADDD31FE¬68672¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬SuguSuroDuoNewPulsarRAndV¬0xE9CB4A91¬21791040¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬SummerGamesII¬0x72C2FC3E¬15749120¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬SummerGamesII¬0xA066E970¬18552768¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬SuperAirZonkRockabillyParadise¬0x6213D8B3¬32483584¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SuperAirZonkRockabillyParadise¬0xE429A39F¬32678080¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SuperCastlevaniaIV¬0x35CD4931¬15036736¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperCastlevaniaIV¬0xC3A5A951¬15909568¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperC¬0x28AAD5C3¬12252224¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬SuperC¬0x9EC25DF5¬12813888¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperDarius2¬0x8A16E5BF¬39278144¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬SuperDarius¬0x8CB73105¬39087936¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬SuperDodgeBall¬0xB976456F¬11722304¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperDonkeyKong2DixieAndDiddy¬0xFF184076¬17386560¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperFantasyZone¬0xAB85FF0C¬14353472¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SuperFantasyZone¬0xEA5CEDDA¬13168704¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SuperGhoulsNGhosts¬0x807EB02C¬14744064¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperGhoulsNGhosts¬0xA515DB33¬15322944¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMario64¬0x54225903¬21693632¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬SuperMario64¬0x8EB81351¬21133632¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬SuperMario64¬0xC2A99449¬21303616¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬SuperMarioBros2¬0x489BDB18¬12891264¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros2¬0x6EF90884¬12561024¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros3¬0x38ECCC5F¬13554496¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros3¬0x86FB1745¬12618880¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros3¬0xF93D0BBA¬13033344¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBrosTheLostLevels¬0x0A7084E5¬12756032¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBrosTheLostLevels¬0x814D5796¬13031872¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros¬0x4D1F6BBF¬12477184¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros¬0x64D5F94D¬12099648¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioBros¬0x7B20A9F8¬12117568¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬SuperMarioKart¬0xB01DF070¬12090496¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioRPG¬0x0FB1CB4E¬18119296¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioRPG¬0x87B51B11¬18205632¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioRPG¬0xC13C0E56¬17659840¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioWorld¬0x3157AF37¬13373824¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioWorld¬0x9619C84E¬14354176¬.wad¬(WADFormat)(Europe)(v2)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioWorld¬0xAE43FE93¬13289664¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMarioWorld¬0xB50E85C2¬14138816¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMetroid¬0x2A36A46E¬17879232¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperMetroid¬0xBB45B72C¬18319808¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperProbotectorAlienRebels¬0xF6DBF065¬14934080¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperPunchOut¬0x9C60BD5D¬13796480¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperPunchOut¬0xB0A85107¬14329024¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperPunchOut¬0xE43407C2¬14248576¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperRType¬0x8EBECBD3¬13833472¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperRType¬0xF504B3A8¬14105216¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperSmashBros¬0x00C361B5¬30330048¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬SuperStarSoldier¬0x0B886335¬13459712¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬SuperStarSoldier¬0x90AB2701¬13459712¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬SuperStarWarsReturnOfTheJedi¬0x797AEF53¬14001472¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStarWarsReturnOfTheJedi¬0x9F07C8AE¬15509120¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStarWarsTheEmpireStrikesBack¬0x9BAA1508¬13793600¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStarWarsTheEmpireStrikesBack¬0xC56CBDA3¬13452352¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStarWars¬0x0BB258C0¬13277120¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStarWars¬0x3A6E91F1¬12968512¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStreetFighterIITheNewChallengers¬0x1675BB76¬18418688¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStreetFighterIITheNewChallengers¬0x3C1B5F1D¬18935680¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperStreetFighterIITheNewChallengers¬0x69D144EC¬18082048¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬SuperThunderBlade¬0x51C79F99¬13884736¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SuperThunderBlade¬0xEB6D5F14¬12681664¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SuperTurrican2¬0x026F6BA8¬15153472¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperTurrican¬0xB3691F79¬14583808¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬SuperTurrican¬0xB827A6D0¬13819584¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬SuperWonderBoyMonsterWorld¬0x680C66FE¬12426304¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SuperWonderBoy¬0xFB754077¬12380928¬.wad¬(WADFormat)(Japan)(SMS)(Virtual Console)¬
+NintendoWii¬SwordOfVermilion¬0x2ECA8198¬14124608¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬SwordOfVermilion¬0x64D66B5A¬12978624¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬SwordsAndSoldiers¬0x3F615C02¬22356096¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬SwordsAndSoldiers¬0xD1B20D23¬22355264¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TVNoToma¬0xA606E5DC¬31034240¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬TVShowKing¬0x30E28116¬41707584¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TVShowKing¬0x4A378A6B¬41709440¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TVShowKing¬0xAE045F33¬41708352¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TacticsOgre¬0x5D6A8FC3¬15444992¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬TakahashiMeijinNoBoukenJimaWii¬0xB20197D5¬37088576¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TakahashiMeijinNoBoukenJima¬0x91D36C39¬11944768¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬TakeshiNoChousenjou¬0xB015BC3E¬11405184¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬TalesOfMonkeyIslandChapter1LaunchOfTheScreamingNarwhal¬0x3A35902C¬45860096¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TalesOfMonkeyIslandChapter1LaunchOfTheScreamingNarwhal¬0x94DCA5D6¬45861120¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TalesOfMonkeyIslandChapter2TheSiegeOfSpinnerCay¬0x5A05D081¬45163328¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TalesOfMonkeyIslandChapter2TheSiegeOfSpinnerCay¬0xB551A810¬45164352¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TargetTossProBags¬0x8D08831E¬43373056¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TataiteMogupon¬0x1D2E8667¬19331968¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TecmoBowl¬0x26ECA5F4¬12355776¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬TecmoBowl¬0xF4E20F5D¬12714304¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬TeenageMutantNinjaTurtles¬0x04478DD1¬12675904¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬TeenageMutantNinjaTurtles¬0x6420FDC5¬13703552¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬Tennis¬0xA3362E11¬12076608¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Tennis¬0xAF933CC5¬12371008¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬TenshiNoSolitaire¬0x541FC769¬14665472¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TetrisParty¬0x08EF8649¬35865152¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TetrisParty¬0x96FE362F¬35863872¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TetrisParty¬0xEC026285¬35865920¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TexasHoldemPoker¬0x9B31D96B¬44022336¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TexasHoldemPoker¬0xD3C85668¬44021312¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TexasHoldemTournament¬0x32416A7C¬23015360¬.wad¬(WADFormat)(Europe)(v256)(WiiWare)¬
+NintendoWii¬TexasHoldemTournament¬0x60718EF2¬23015488¬.wad¬(WADFormat)(Europe)(v3)(WiiWare)¬
+NintendoWii¬TexasHoldemTournament¬0x91AC97AD¬23013632¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ThreeMusketeersOneForAll¬0x9929BCBE¬44448192¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬ThreeMusketeersOneForAll¬0xDAFC1DCD¬45855168¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TikiTowers¬0xD3D95BF8¬37980800¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TitleFiles¬0x2F6F455A¬4560¬.wad¬(WADFormat)(Europe)(rev1)(GH 5)¬
+NintendoWii¬TitleFiles¬0x58130B0D¬8688¬.wad¬(WADFormat)(USA)(rev2)(GHWT)¬
+NintendoWii¬TitleFiles¬0x60CC72EC¬8192¬.wad¬(WADFormat)(Europe)(rev1)(GHWT)¬
+NintendoWii¬TitleFiles¬0x827E3514¬9312¬.wad¬(WADFormat)(USA)(rev4)(GHWT)¬
+NintendoWii¬TitleFiles¬0x9F9C7CCC¬9024¬.wad¬(WADFormat)(USA)(rev3)(GHWT)¬
+NintendoWii¬TitleFiles¬0xA3C292F1¬5136¬.wad¬(WADFormat)(USA)(rev2)(GH 5)¬
+NintendoWii¬TitleFiles¬0xAE08D492¬8800¬.wad¬(WADFormat)(Europe)(rev2)(GHWT)¬
+NintendoWii¬TitleFiles¬0xB8AB0DE4¬5136¬.wad¬(WADFormat)(Europe)(rev2)(GH 5)¬
+NintendoWii¬TitleFiles¬0xC2E9C84C¬4560¬.wad¬(WADFormat)(USA)(rev1)(GH 5)¬
+NintendoWii¬TitleFiles¬0xD951C8E4¬5424¬.wad¬(WADFormat)(USA)(rev3)(GH 5)¬
+NintendoWii¬TitleFiles¬0xDFF4DAA7¬8368¬.wad¬(WADFormat)(USA)(rev1)(GHWT)¬
+NintendoWii¬TitleFiles¬0xF5C7D639¬9312¬.wad¬(WADFormat)(Europe)(rev3)(GHWT)¬
+NintendoWii¬ToeJamAndEarlInPanicOnFunkotron¬0xD3814CE6¬15271936¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ToeJamAndEarlInPanicOnFunkotron¬0xF790D455¬14188480¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬ToeJamAndEarl¬0x660E56BC¬13940288¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬ToeJamAndEarl¬0xF44E885C¬13163136¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬TokiTori¬0x75AC06E4¬40856384¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬TokiTori¬0xA7B6DF23¬40857024¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬TokyoCityNights¬0xF40BBFE5¬38293056¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TomenasannerWii¬0x714E8807¬34327552¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TomyCarDriveShutsudouKinkyuuSharyouHen¬0x11B694F1¬31454720¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TopHunterRoddyAndCathy¬0x1F991601¬28491456¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬TopHunterRoddyAndCathy¬0xDA579580¬27889856¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬TopHunterRoddyAndCathy¬0xF0D99375¬27287360¬.wad¬(WADFormat)(Japan)(NG)(Virtual Console)¬
+NintendoWii¬TowerOfDruaga¬0x0D94A2EC¬15324288¬.wad¬(WADFormat)(Europe)(Arcade)(Virtual Console)¬
+NintendoWii¬TowerOfDruaga¬0x0EA86B9B¬14878656¬.wad¬(WADFormat)(USA)(Arcade)(Virtual Console)¬
+NintendoWii¬TowerToppler¬0x4F16D3A0¬14547712¬.wad¬(WADFormat)(USA)(C64)(Virtual Console)¬
+NintendoWii¬TsumiToBatsuHoshiNoKeishousha¬0xC6D8C81B¬46328896¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬TsuppariOozumouWiiHeya¬0x251E66E1¬38790592¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TsuushinTaikyokuHayazashiShogiSandan¬0xD5B1001F¬21595456¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TsuushinTaikyokuIgoDojo2700Mon¬0x0499C44D¬19331392¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TsuushinTaikyokuWorldChess¬0x21701967¬16163840¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬TwinBee¬0x8B56D7F2¬11983424¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬UnchartedWatersNewHorizons¬0xA36C280C¬13721472¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬UnouKidsOkigaruUnouTraining¬0x6CEBC0BD¬20485568¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬UrbanChampion¬0x0571317D¬12472832¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬UrbanChampion¬0xE8BFF4C2¬12132224¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Uridium¬0x99FD8F5E¬14826048¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬VIPCasinoBlackjack¬0x45528D51¬11934976¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬VIPCasinoBlackjack¬0xBB8D4B41¬29829568¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬Vectorman¬0x7E25D017¬13583552¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Vectorman¬0xC76A3B69¬15277568¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬VegasStakes¬0xFB575508¬14077184¬.wad¬(WADFormat)(Europe)(SNES)(Virtual Console)¬
+NintendoWii¬VegasStakes¬0xFF602868¬13827520¬.wad¬(WADFormat)(USA)(SNES)(Virtual Console)¬
+NintendoWii¬VictoryRun¬0x60D50555¬12723072¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬VictoryRun¬0x9BE51E01¬13093888¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬Vigilante¬0x3A47CFAD¬12715264¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬Vigilante¬0xF9300757¬13028352¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬VirtuaFighter2¬0x8EA0F816¬15896128¬.wad¬(WADFormat)(Japan)(SMD)(Virtual Console)¬
+NintendoWii¬VirtuaFighter2¬0xA31A719A¬16158976¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬VirtuaFighter2¬0xCBDA9293¬14646656¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬Volfied¬0x97EA9CBB¬12228416¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬Volleyball¬0x3E9A616C¬12550144¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Volleyball¬0xE08B97CC¬12784640¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬WariosWoods¬0xCD5157C2¬13926720¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬WariosWoods¬0xD03F1A93¬13112640¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬WaterWarfare¬0x15090D9C¬39492160¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬WaterWarfare¬0x6693D165¬39495104¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬WaveRace64¬0x03782CB2¬22202688¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬WaveRace64¬0x5B05260A¬23026624¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬WiiNoMaChannel¬0x4E0276A1¬26548800¬.wad¬(WADFormat)(Japan)(Channel)¬
+NintendoWii¬WiiSpeakChannel20¬0x2B2DE75B¬9829248¬.wad¬(WADFormat)(USA)(Channel)¬
+NintendoWii¬WiiSpeakChannel20¬0x72222B14¬9726016¬.wad¬(WADFormat)(Japan)(v512)(Channel)¬
+NintendoWii¬WiiSpeakChannel20¬0x78EBA24C¬9968576¬.wad¬(WADFormat)(Europe)(v512)(Channel)¬
+NintendoWii¬WildWestGuns¬0x25AB7D3D¬39665088¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬WildWestGuns¬0x88C550AA¬39663616¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬WildWestGuns¬0xCE84D203¬39665792¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬WinterGames¬0xFEDB45A5¬18950848¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬WolfOfTheBattlefieldMERCS¬0x6E31864D¬14676160¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬WolfOfTheBattlefieldMERCS¬0xE1D5D486¬13271936¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬WonderBoyIIIMonsterLair¬0x2533B8DC¬12905344¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬WonderBoyIIIMonsterLair¬0x84D3297D¬13601920¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬WonderBoyIIITheDragonsTrap¬0x1697E441¬14791936¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬WonderBoyInMonsterLand¬0x02B02E75¬14028416¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬WonderBoyInMonsterLand¬0xA30E2A16¬13150208¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬WonderBoyInMonsterWorld¬0x4E543A4A¬14226816¬.wad¬(WADFormat)(Europe)(SMD)(Virtual Console)¬
+NintendoWii¬WonderBoyInMonsterWorld¬0xABE8624C¬13220096¬.wad¬(WADFormat)(USA)(SMD)(Virtual Console)¬
+NintendoWii¬WonderBoy¬0x44DF9F9A¬12881024¬.wad¬(WADFormat)(USA)(SMS)(Virtual Console)¬
+NintendoWii¬WonderBoy¬0x5CE7C2CB¬13858560¬.wad¬(WADFormat)(Europe)(SMS)(Virtual Console)¬
+NintendoWii¬WonderMomo¬0x777DA9FA¬14891904¬.wad¬(WADFormat)(Japan)(Arcade)(Virtual Console)¬
+NintendoWii¬WordSearcher¬0xC5B77C78¬15089920¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬WorldClassBaseball¬0x53F02233¬12664000¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬WorldClassBaseball¬0xAC68479A¬12935104¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬WorldGames¬0x0658E298¬18431488¬.wad¬(WADFormat)(Europe)(C64)(Virtual Console)¬
+NintendoWii¬WorldHeroes¬0x35A0EEC8¬24041472¬.wad¬(WADFormat)(USA)(NG)(Virtual Console)¬
+NintendoWii¬WorldHeroes¬0x68FDA998¬24373056¬.wad¬(WADFormat)(Europe)(NG)(Virtual Console)¬
+NintendoWii¬WorldOfGoo¬0x190966CB¬45989504¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬WorldOfGoo¬0x444E2220¬45831616¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬WorldSportsCompetition¬0x144EA4A7¬13830208¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬WorldSportsCompetition¬0xC7E071AE¬14553344¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬WreckingCrew¬0x59195EDA¬12618496¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬WreckingCrew¬0x8578CB0D¬13014400¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬WreckingCrew¬0xB4D3BDB8¬12022912¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Xevious¬0x1A7175DF¬12205952¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬Xevious¬0x6540FB7A¬12150656¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬Xevious¬0x7678C8AD¬12676736¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬YakumanWiiIdeYosukeNoKenkouMahjong¬0x01D22287¬14561536¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬YomiKikuAsobiWii¬0x32989786¬24102784¬.wad¬(WADFormat)(Japan)(WiiWare)¬
+NintendoWii¬YomiKikuAsobiWii¬0xACE0CDA2¬71867136¬.wad¬(WADFormat)(Japan)(v257)(DLC)(WiiWare)¬
+NintendoWii¬YomiKikuAsobiWii¬0xC74A81B3¬41682112¬.wad¬(WADFormat)(Japan)(DLC)(WiiWare)¬
+NintendoWii¬YoshisCookie¬0x4E19EC32¬12957184¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬YoshisCookie¬0xB682408D¬12580096¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬YoshisStory¬0x6A7676DD¬29690752¬.wad¬(WADFormat)(Japan)(N64)(Virtual Console)¬
+NintendoWii¬YoshisStory¬0x8622F42E¬30000192¬.wad¬(WADFormat)(USA)(N64)(Virtual Console)¬
+NintendoWii¬YoshisStory¬0xA7CB079A¬30566656¬.wad¬(WADFormat)(Europe)(N64)(Virtual Console)¬
+NintendoWii¬Yoshi¬0xCFF9571F¬12363584¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬YouMeAndTheCubes¬0x0C165D40¬24147392¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬YouMeAndTheCubes¬0xB8C86CA4¬23759232¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬YoukaiDouchuki¬0x3CB13EC8¬15211712¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬YsBookIAndII¬0x28073A9D¬44406912¬.wad¬(WADFormat)(Japan)(PCE)(Virtual Console)¬
+NintendoWii¬YsBookIAndII¬0xCE9AF9D2¬45629248¬.wad¬(WADFormat)(USA)(TGX)(Virtual Console)¬
+NintendoWii¬YsBookIAndII¬0xFD39D798¬46569472¬.wad¬(WADFormat)(Europe)(TGX)(Virtual Console)¬
+NintendoWii¬YummyYummyCookingJam¬0xAA9CB3AC¬19737472¬.wad¬(WADFormat)(USA)(WiiWare)¬
+NintendoWii¬YummyYummyCookingJam¬0xD18E1E15¬19725632¬.wad¬(WADFormat)(Europe)(WiiWare)¬
+NintendoWii¬Zanac¬0x1D4231E1¬12843584¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬ZeldaIITheAdventureOfLink¬0x3CAA6F24¬13529792¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬ZeldaIITheAdventureOfLink¬0x44290B07¬12691456¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬
+NintendoWii¬ZeldaNoDensetsu2LinkNoBouken¬0x7730EB95¬12471552¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬ZeldaNoDensetsuKamigamiNoTriforce¬0x30DD57C1¬13749760¬.wad¬(WADFormat)(Japan)(SNES)(Virtual Console)¬
+NintendoWii¬ZeldaNoDensetsu¬0x8611506C¬12353280¬.wad¬(WADFormat)(Japan)(NES)(Virtual Console)¬
+NintendoWii¬ZodasRevengeStarTropicsII¬0x2729E43D¬12176256¬.wad¬(WADFormat)(Europe)(NES)(Virtual Console)¬
+NintendoWii¬ZodasRevengeStarTropicsII¬0x33C8DE29¬11989056¬.wad¬(WADFormat)(USA)(NES)(Virtual Console)¬

@@ -1,0 +1,7 @@
+EntexAdventureVision¬Defender¬0x3E280096¬4096¬.bin¬(BINFormat)(USA, Europe)(Europe)(USA)¬
+EntexAdventureVision¬EntexAdventureVision¬0x279E33D1¬1024¬.bin¬(BINFormat)(BIOS)(USA, Europe)(Europe)(USA)(Bios)¬
+EntexAdventureVision¬SpaceForce¬0xC70D4028¬4096¬.bin¬(BINFormat)(USA, Europe)(Europe)(USA)¬
+EntexAdventureVision¬SuperCobra¬0xB6045C9E¬4096¬.bin¬(BINFormat)(USA, Europe)(Europe)(USA)¬
+EntexAdventureVision¬Turtles¬0x33A23EBA¬4096¬.bin¬(BINFormat)(USA, Europe)(Europe)(USA)¬
+EntexAdventurevision¬SpaceForce¬0x38F2BFD8¬4096¬.ent¬(EntexIndustries)(BINFormat)[releasenumber6078](1982)¬
+EntexAdventurevision¬SuperCobra¬0x49FBA362¬4096¬.ent¬(EntexIndustries)(BINFormat)[releasenumber6077](1982)¬

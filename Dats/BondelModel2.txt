@@ -1,0 +1,7 @@
+BondelModel2¬CPM22SystemDisk¬0x11C17560¬211050¬.bm2¬(DigitalResearchInc.)(TD0Format)(1986)¬
+BondelModel2¬Calcstar¬0x847DDDFF¬117030¬.bm2¬(MicroPro)(TD0Format)(1981)(Version1.45)¬
+BondelModel2¬DataStar¬0xDBE82D66¬100362¬.bm2¬(MicroPro)(TD0Format)(1980)(Version1.41)¬
+BondelModel2¬ReportStar¬0xE5339C0A¬203618¬.bm2¬(MicroPro)(TD0Format)(1982)(Version1.2)¬
+BondelModel2¬SchedulerPlus¬0x17D8A9E7¬204371¬.bm2¬(Bondwell)(TD0Format)(198x)¬
+BondelModel2¬WordStar¬0x054B577B¬206255¬.bm2¬(MicroPro)(TD0Format)(1979)(Version3.30)(Disk02)¬
+BondelModel2¬WordStar¬0x07208653¬218239¬.bm2¬(MicroPro)(TD0Format)(1979)(Version3.30)(Disk01)¬

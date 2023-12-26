@@ -1,0 +1,4 @@
+Radio86-RKYuT88¬CPM256k¬0x8041AF21¬7945¬.ryu¬(DigitalResearch)(addr0x4a00)(RKUFormat)(19xx)(Version2.2)¬
+Radio86-RKYuT88¬CPM35k¬0x655A749B¬6239¬.ryu¬(DigitalResearch)(addr0x4a00)(RKUFormat)(19xx)(Version2.2)¬
+Radio86-RKYuT88¬Changer11¬0xF2A598F4¬777¬.ryu¬(CPM)(RKUFormat)(19xx)(Unknown)¬
+Radio86-RKYuT88¬Tetris¬0xE7373EC6¬1641¬.ryu¬(RKUFormat)(19xx)(Unknown)¬
